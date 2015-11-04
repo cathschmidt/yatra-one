@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="dvS_MA">
+  <advance width="1120" />
+  <outline>
+    <contour>
+      <point type="line" x="943" y="303" />
+      <point type="line" x="737" y="303" />
+      <point type="line" x="737" y="523" />
+      <point type="line" x="943" y="523" />
+    </contour>
+    <contour>
+      <point type="line" x="1142" y="619" />
+      <point type="line" x="432" y="619" />
+      <point type="line" x="432" y="523" />
+      <point type="line" x="613" y="523" />
+      <point type="line" x="613" y="303" />
+      <point type="line" x="528" y="303" />
+      <point x="471" y="303" />
+      <point x="427" y="210" />
+      <point type="curve" x="483" y="161" />
+      <point x="543" y="110" />
+      <point x="544" y="111" />
+      <point type="curve" x="581" y="79" />
+      <point x="644" y="23" />
+      <point x="737" y="73" />
+      <point type="curve" x="737" y="166" />
+      <point type="line" x="737" y="206" />
+      <point type="line" x="943" y="206" />
+      <point type="line" x="943" y="0" />
+      <point type="line" x="1067" y="-56" />
+      <point type="line" x="1067" y="523" />
+      <point type="line" x="1142" y="523" />
+    </contour>
+  </outline>
+</glyph>

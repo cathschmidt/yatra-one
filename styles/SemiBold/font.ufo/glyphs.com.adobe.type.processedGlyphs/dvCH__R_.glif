@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="dvCH_R">
+  <advance width="728" />
+  <outline>
+    <contour>
+      <point type="line" x="696" y="-164" />
+      <point type="line" x="471" y="28" />
+      <point type="line" x="252" y="-116" />
+      <point type="line" x="332" y="-204" />
+      <point type="line" x="498" y="-47" />
+      <point type="line" x="663" y="-204" />
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="dvSeven">
+  <advance width="751" />
+  <outline>
+    <contour>
+      <point type="curve" x="592" y="252" />
+      <point x="553" y="266" />
+      <point x="522" y="276" />
+      <point type="curve" x="479" y="304" />
+      <point x="379" y="370" />
+      <point x="593" y="593" />
+      <point type="curve" x="606" y="352" />
+      <point x="608" y="315" />
+      <point x="602" y="281" />
+    </contour>
+    <contour>
+      <point type="line" x="85" y="445" />
+      <point x="127" y="281" />
+      <point x="195" y="78" />
+      <point type="curve" x="354" y="-17" />
+      <point x="472" y="-88" />
+      <point x="746" y="206" />
+      <point type="curve" x="689" y="367" />
+      <point x="677" y="401" />
+      <point x="622" y="481" />
+      <point type="curve" x="553" y="523" />
+      <point x="495" y="558" />
+      <point x="348" y="453" />
+      <point type="curve" x="348" y="369" />
+      <point x="348" y="313" />
+      <point x="494" y="248" />
+      <point type="curve" x="577" y="220" />
+      <point x="531" y="136" />
+      <point x="444" y="93" />
+      <point type="curve" x="402" y="85" />
+      <point x="289" y="63" />
+      <point x="162" y="300" />
+      <point type="curve" x="119" y="460" />
+    </contour>
+  </outline>
+</glyph>

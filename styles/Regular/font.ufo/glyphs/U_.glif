@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="U" format="1">
+  <advance width="595"/>
+  <unicode hex="0055"/>
+  <outline>
+    <contour>
+      <point x="327" y="743" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="255" y="23" type="move" name="ogonek"/>
+    </contour>
+  </outline>
+</glyph>

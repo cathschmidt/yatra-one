@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvL_THA" format="1">
+  <advance width="1247"/>
+  <outline>
+    <component base="dvTHA" xOffset="586"/>
+  </outline>
+</glyph>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="dvG_GA">
+  <advance width="1063" />
+  <outline>
+    <contour>
+      <point type="line" x="1073" y="619" />
+      <point type="line" x="411" y="619" />
+      <point type="line" x="411" y="522" />
+      <point type="line" x="572" y="522" />
+      <point x="631" y="443" />
+      <point x="639" y="297" />
+      <point type="curve" x="580" y="212" />
+      <point x="574" y="237" />
+      <point x="573" y="250" />
+      <point type="curve" x="561" y="261" />
+      <point x="553" y="268" />
+      <point x="504" y="299" />
+      <point type="curve" x="500" y="298" />
+      <point x="464" y="285" />
+      <point x="448" y="193" />
+      <point type="curve" x="460" y="165" />
+      <point x="469" y="145" />
+      <point x="532" y="70" />
+      <point type="curve" x="557" y="70" />
+      <point x="730" y="70" />
+      <point x="803" y="326" />
+      <point type="curve" x="625" y="522" />
+      <point type="line" x="867" y="522" />
+      <point type="line" x="867" y="0" />
+      <point type="line" x="991" y="-56" />
+      <point type="line" x="991" y="522" />
+      <point type="line" x="1073" y="522" />
+    </contour>
+  </outline>
+</glyph>

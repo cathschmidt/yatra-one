@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="dvL_DDA">
+  <advance width="1043" />
+  <outline>
+    <contour>
+      <point type="line" x="950" y="389" />
+      <point type="line" x="950" y="522" />
+      <point type="line" x="1136" y="522" />
+      <point type="line" x="1136" y="619" />
+      <point type="line" x="497" y="619" />
+      <point type="line" x="497" y="522" />
+      <point type="line" x="838" y="522" />
+      <point type="line" x="838" y="477" />
+      <point type="line" x="655" y="466" />
+      <point x="601" y="462" />
+      <point x="542" y="338" />
+      <point type="curve" x="583" y="293" />
+      <point x="621" y="253" />
+      <point x="679" y="206" />
+      <point type="curve" x="728" y="166" />
+      <point x="782" y="123" />
+      <point x="939" y="265" />
+      <point type="curve" x="987" y="217" />
+      <point x="1040" y="165" />
+      <point x="932" y="67" />
+      <point type="curve" x="803" y="67" />
+      <point x="675" y="67" />
+      <point x="561" y="195" />
+      <point type="curve" x="534" y="227" />
+      <point type="line" x="514" y="208" />
+      <point x="535" y="175" />
+      <point x="665" y="-20" />
+      <point type="curve" x="840" y="-20" />
+      <point x="1042" y="-20" />
+      <point x="1107" y="129" />
+      <point type="curve" x="1077" y="175" />
+      <point x="1048" y="220" />
+      <point x="1003" y="279" />
+      <point type="curve" x="955" y="319" />
+      <point x="941" y="331" />
+      <point x="783" y="278" />
+      <point type="curve" x="737" y="266" />
+      <point x="651" y="243" />
+      <point x="683" y="389" />
+      <point type="curve" x="729" y="389" />
+    </contour>
+  </outline>
+</glyph>

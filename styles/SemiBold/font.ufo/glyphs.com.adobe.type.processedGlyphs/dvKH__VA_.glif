@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="dvKH_VA">
+  <advance width="1232" />
+  <outline>
+    <contour>
+      <point type="line" x="1038" y="272" />
+      <point x="931" y="127" />
+      <point x="820" y="173" />
+      <point type="curve" x="795" y="201" />
+      <point x="744" y="255" />
+      <point x="895" y="423" />
+      <point type="curve" x="1038" y="334" />
+    </contour>
+    <contour>
+      <point type="line" x="1238" y="619" />
+      <point type="line" x="636" y="619" />
+      <point type="line" x="636" y="523" />
+      <point type="line" x="1038" y="523" />
+      <point type="line" x="1038" y="388" />
+      <point x="1002" y="411" />
+      <point x="957" y="442" />
+      <point type="curve" x="931" y="460" />
+      <point x="872" y="500" />
+      <point x="653" y="348" />
+      <point type="curve" x="698" y="263" />
+      <point x="735" y="191" />
+      <point x="810" y="71" />
+      <point type="curve" x="916" y="71" />
+      <point x="966" y="71" />
+      <point x="1008" y="106" />
+      <point type="curve" x="1038" y="141" />
+      <point type="line" x="1038" y="1" />
+      <point type="line" x="1163" y="-55" />
+      <point type="line" x="1163" y="523" />
+      <point type="line" x="1238" y="523" />
+    </contour>
+  </outline>
+</glyph>

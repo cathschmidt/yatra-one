@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="dvNN_TTA">
+  <advance width="1122" />
+  <outline>
+    <contour>
+      <point type="line" x="959" y="381" />
+      <point type="line" x="959" y="522" />
+      <point type="line" x="1109" y="522" />
+      <point type="line" x="1109" y="619" />
+      <point type="line" x="491" y="619" />
+      <point type="line" x="491" y="522" />
+      <point type="line" x="848" y="522" />
+      <point type="line" x="848" y="468" />
+      <point type="line" x="664" y="457" />
+      <point x="587" y="449" />
+      <point x="509" y="261" />
+      <point type="curve" x="559" y="187" />
+      <point x="601" y="125" />
+      <point x="663" y="75" />
+      <point type="curve" x="727" y="23" />
+      <point x="760" y="-4" />
+      <point x="792" y="-24" />
+      <point type="curve" x="842" y="-20" />
+      <point x="957" y="-9" />
+      <point x="1008" y="55" />
+      <point type="curve" x="1067" y="137" />
+      <point type="line" x="982" y="212" />
+      <point x="931" y="151" />
+      <point x="887" y="71" />
+      <point type="curve" x="791" y="79" />
+      <point x="620" y="92" />
+      <point x="660" y="381" />
+      <point type="curve" x="765" y="381" />
+    </contour>
+  </outline>
+</glyph>

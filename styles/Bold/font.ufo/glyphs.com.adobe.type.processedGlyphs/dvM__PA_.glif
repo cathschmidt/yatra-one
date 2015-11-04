@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="dvM_PA">
+  <advance width="1019" />
+  <outline>
+    <contour>
+      <point type="line" x="814" y="292" />
+      <point x="764" y="207" />
+      <point x="639" y="149" />
+      <point type="curve" x="584" y="208" />
+      <point type="line" x="582" y="522" />
+      <point type="line" x="814" y="522" />
+    </contour>
+    <contour>
+      <point type="line" x="1015" y="619" />
+      <point type="line" x="396" y="619" />
+      <point type="line" x="396" y="522" />
+      <point type="line" x="460" y="522" />
+      <point x="459" y="460" />
+      <point x="457" y="256" />
+      <point type="curve" x="465" y="248" />
+      <point x="529" y="180" />
+      <point x="620" y="71" />
+      <point type="curve" x="696" y="71" />
+      <point x="735" y="71" />
+      <point x="777" y="95" />
+      <point type="curve" x="814" y="126" />
+      <point type="line" x="814" y="1" />
+      <point type="line" x="938" y="-55" />
+      <point type="line" x="938" y="522" />
+      <point type="line" x="1015" y="522" />
+    </contour>
+  </outline>
+</glyph>

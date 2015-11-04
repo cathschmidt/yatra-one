@@ -1,0 +1,22 @@
+# Created: Wed Nov  4 17:59:57 2015
+# PS Name: SomeDevanagari-SemiBold
+# MM Inst: None
+# exported from noApp
+
+@mGC_abvm.bindu_n82_662 = [dvmEcandra dvAnusvara dvCandrabindu];
+@mGC_abvm.e_n82_672 = [dvReph_Anusvara dvmE_Anusvara dvmE_Reph dvmAI_Anusvara dvmAI_Reph dvmAI_Reph_Anusvara];
+@mGC_abvm.i_n82_587 = [dvReph.amI dvReph_Anusvara.amI];
+@mGC_blwm.virama_n139_n10 = [dvmvR dvmvRR dvVirama];
+
+markClass @mGC_abvm.bindu_n82_662 <anchor -82 662> @MC_abvm.bindu;
+markClass @mGC_abvm.e_n82_672 <anchor -82 672> @MC_abvm.e;
+markClass @mGC_abvm.i_n82_587 <anchor -82 587> @MC_abvm.i;
+markClass @mGC_blwm.virama_n139_n10 <anchor -139 -10> @MC_blwm.virama;
+markClass dvAnusvara.amI <anchor -106 587> @MC_abvm.i;
+markClass dvReph <anchor -78 615> @MC_abvm.e;
+markClass dvmAI <anchor -98 612> @MC_abvm.e;
+markClass dvmE <anchor -166 616> @MC_abvm.e;
+markClass dvmE_Reph_Anusvara <anchor -146 672> @MC_abvm.e;
+markClass dvmU <anchor -130 0> @MC_blwm.u;
+markClass dvmUU <anchor -139 0> @MC_blwm.u;
+

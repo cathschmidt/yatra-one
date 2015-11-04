@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="copyright" format="1">
+  <advance width="708"/>
+  <unicode hex="00A9"/>
+  <outline>
+    <contour>
+      <point x="316" y="198" type="move" name="cedilla"/>
+    </contour>
+    <contour>
+      <point x="417" y="510" type="move" name="top"/>
+    </contour>
+  </outline>
+</glyph>

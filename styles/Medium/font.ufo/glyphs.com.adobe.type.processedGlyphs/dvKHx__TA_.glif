@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="dvKHx_TA">
+  <advance width="1288" />
+  <outline>
+    <contour>
+      <point type="line" x="1330" y="619" />
+      <point type="line" x="645" y="619" />
+      <point type="line" x="645" y="522" />
+      <point type="line" x="1129" y="522" />
+      <point type="line" x="1129" y="403" />
+      <point type="line" x="879" y="405" />
+      <point x="766" y="406" />
+      <point x="699" y="235" />
+      <point type="curve" x="706" y="195" />
+      <point x="715" y="133" />
+      <point x="833" y="31" />
+      <point type="curve" x="932" y="-56" />
+      <point type="line" x="967" y="-27" />
+      <point x="918" y="20" />
+      <point x="908" y="32" />
+      <point type="curve" x="881" y="62" />
+      <point x="774" y="182" />
+      <point x="828" y="313" />
+      <point type="curve" x="950" y="310" />
+      <point type="line" x="1129" y="307" />
+      <point type="line" x="1129" y="1" />
+      <point type="line" x="1253" y="-55" />
+      <point type="line" x="1253" y="522" />
+      <point type="line" x="1330" y="522" />
+    </contour>
+  </outline>
+</glyph>

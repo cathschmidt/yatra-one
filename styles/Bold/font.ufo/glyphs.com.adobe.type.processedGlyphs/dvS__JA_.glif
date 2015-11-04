@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="dvS_JA">
+  <advance width="1296" />
+  <outline>
+    <contour>
+      <point type="line" x="1346" y="619" />
+      <point type="line" x="502" y="619" />
+      <point type="line" x="502" y="522" />
+      <point type="line" x="1136" y="522" />
+      <point type="line" x="1136" y="402" />
+      <point type="line" x="763" y="401" />
+      <point type="line" x="856" y="319" />
+      <point type="line" x="932" y="319" />
+      <point x="1000" y="234" />
+      <point x="933" y="196" />
+      <point type="curve" x="883" y="178" />
+      <point x="737" y="123" />
+      <point x="627" y="306" />
+      <point type="curve" x="568" y="382" />
+      <point type="line" x="543" y="364" />
+      <point x="629" y="237" />
+      <point x="711" y="124" />
+      <point type="curve" x="763" y="88" />
+      <point x="850" y="29" />
+      <point x="1086" y="128" />
+      <point type="curve" x="1050" y="231" />
+      <point x="1044" y="251" />
+      <point x="1013" y="289" />
+      <point type="curve" x="974" y="319" />
+      <point type="line" x="1136" y="319" />
+      <point type="line" x="1136" y="0" />
+      <point type="line" x="1260" y="-56" />
+      <point type="line" x="1260" y="522" />
+      <point type="line" x="1346" y="522" />
+    </contour>
+  </outline>
+</glyph>
