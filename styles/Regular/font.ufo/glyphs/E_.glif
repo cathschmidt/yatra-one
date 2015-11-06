@@ -4,10 +4,10 @@
   <unicode hex="0045"/>
   <outline>
     <contour>
-      <point x="342" y="743" type="move" name="top"/>
+      <point x="440" y="101" type="move" name="ogonek"/>
     </contour>
     <contour>
-      <point x="440" y="101" type="move" name="ogonek"/>
+      <point x="342" y="743" type="move" name="top"/>
     </contour>
   </outline>
 </glyph>

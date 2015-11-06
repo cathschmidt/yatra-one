@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ecircumflex" format="1">
+  <advance width="551"/>
+  <unicode hex="00CA"/>
+  <outline>
+    <contour>
+      <point x="440" y="101" type="move" name="ogonek"/>
+    </contour>
+    <contour>
+      <point x="342" y="743" type="move" name="top"/>
+    </contour>
+  </outline>
+</glyph>

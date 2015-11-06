@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="dvOm" format="1">
-  <advance width="935"/>
-  <outline>
-    <component base="dvAnusvara" xOffset="876" yOffset="28"/>
-    <component base="dvmEcandra" xOffset="818" yOffset="-146"/>
-  </outline>
-</glyph>
