@@ -8,7 +8,7 @@
     <contour>
       <point x="860" y="672" type="move" name="abvm.e"/>
     </contour>
-    <component base="dvN"/>
+    <component base="dvN" xOffset="6"/>
     <component base="dvDA_mU" xOffset="428"/>
   </outline>
 </glyph>

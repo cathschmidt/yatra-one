@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvmvRR" format="1">
+  <advance width="0"/>
+  <outline>
+    <contour>
+      <point x="-139" y="-10" type="move" name="_blwm.virama"/>
+    </contour>
+  </outline>
+</glyph>

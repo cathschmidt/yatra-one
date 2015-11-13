@@ -3,6 +3,6 @@
   <advance width="1593"/>
   <outline>
     <component base="dvT_SA" xOffset="412"/>
-    <component base="dvN"/>
+    <component base="dvN" xOffset="6"/>
   </outline>
 </glyph>

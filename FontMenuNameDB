@@ -9,27 +9,27 @@
 #   l = Compatible Family Menu Name
 #   m = 1, Macintosh Compatible Full Name
 
-# [SomeDevanagari-Light]
-#  f = Some Devanagari
+# [Yatra-Light]
+#  f = Yatra
 #  s = Light
-#  l = Some Devanagari Light
+#  l = Yatra Light
 
-[Yatra]
-  f = Yatra
+[SomeDevanagari-Regular]
+  f = SomeDevanagari
   s = Regular
-  l = Yatra
+  l = SomeDevanagari
 
-# [SomeDevanagari-Medium]
-#  f = Some Devanagari
+# [Yatra-Medium]
+#  f = Yatra
 #  s = Medium
-#  l = Some Devanagari Medium
+#  l = Yatra Medium
 
-# [SomeDevanagari-SemiBold]
-#  f = Some Devanagari
+# [Yatra-SemiBold]
+#  f = Yatra
 #  s = SemiBold
-#  l = Some Devanagari SemiBold
+#  l = Yatra SemiBold
 
-# [SomeDevanagari-Bold]
-#  f = Some Devanagari
+# [Yatra-Bold]
+#  f = Yatra
 #  s = Bold
   # styles/Bold/fontinfo: IsBoldStyle true

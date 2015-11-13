@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvD_VA" format="1">
+  <advance width="559"/>
+  <outline>
+    <contour>
+      <point x="450" y="662" type="move" name="abvm.bindu"/>
+    </contour>
+    <contour>
+      <point x="315" y="-275" type="move" name="blwm.virama"/>
+    </contour>
+    <contour>
+      <point x="450" y="672" type="move" name="abvm.e"/>
+    </contour>
+    <contour>
+      <point x="315" y="-265" type="move" name="blwm.u"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="dvSS_MA">
+  <advance width="1062" />
+  <outline>
+    <contour>
+      <point type="line" x="885" y="303" />
+      <point type="line" x="679" y="303" />
+      <point type="line" x="679" y="523" />
+      <point type="line" x="885" y="523" />
+    </contour>
+    <contour>
+      <point type="line" x="555" y="303" />
+      <point type="line" x="470" y="303" />
+      <point type="line" x="465" y="303" />
+      <point x="453" y="315" />
+      <point x="444" y="324" />
+      <point type="curve" x="444" y="325" />
+      <point x="441" y="315" />
+      <point x="436" y="305" />
+      <point type="curve" x="431" y="296" />
+      <point type="line" x="189" y="523" />
+      <point type="line" x="555" y="523" />
+    </contour>
+    <contour>
+      <point type="line" x="177" y="468" />
+      <point type="line" x="400" y="259" />
+      <point x="337" y="199" />
+      <point x="228" y="173" />
+      <point type="curve" x="181" y="224" />
+    </contour>
+    <contour>
+      <point type="line" x="1084" y="619" />
+      <point type="line" x="-9" y="619" />
+      <point type="line" x="-9" y="523" />
+      <point type="line" x="54" y="523" />
+      <point x="54" y="467" />
+      <point x="52" y="256" />
+      <point type="curve" x="60" y="248" />
+      <point x="124" y="180" />
+      <point x="205" y="85" />
+      <point type="curve" x="275" y="85" />
+      <point x="333" y="85" />
+      <point x="392" y="116" />
+      <point type="curve" x="438" y="150" />
+      <point x="485" y="110" />
+      <point x="489" y="109" />
+      <point type="curve" x="523" y="79" />
+      <point x="586" y="23" />
+      <point x="679" y="73" />
+      <point type="curve" x="679" y="166" />
+      <point type="line" x="679" y="206" />
+      <point type="line" x="885" y="206" />
+      <point type="line" x="885" y="0" />
+      <point type="line" x="1009" y="-56" />
+      <point type="line" x="1009" y="523" />
+      <point type="line" x="1084" y="523" />
+    </contour>
+  </outline>
+</glyph>

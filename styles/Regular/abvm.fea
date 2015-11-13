@@ -1,6 +1,6 @@
-# Created: Fri Nov  6 17:33:39 2015
-# PS Name: Yatra
-# MM Inst: Yatra
+# Created: Thu Nov 12 19:11:39 2015
+# PS Name: SomeDevanagari-Regular
+# MM Inst: None
 # exported from noApp
 
 # NOTE: The markClass declarations can be found in the file 'markclasses.fea'.
@@ -13,7 +13,8 @@ lookup MARK_BASE_abvm.bindu {
 	@bGC_dvDDHA_abvm.bindu = [dvDDHA dvDDH_RA];
 	@bGC_dvDDH_DDHA_abvm.bindu = [dvDDH_DDHA dvDDH_VA];
 	@bGC_dvD_RA_abvm.bindu = [dvD_RA dvD_NA dvD_GA dvD_BA dvD_VA dvD_B_RA];
-	@bGC_dvG_DA_abvm.bindu = [dvG_DA dvG_DA_mU dvG_DA_mUU];
+	@bGC_dvG_DA_abvm.bindu = [dvG_DA dvD_BHA];
+	@bGC_dvG_DA_mU_abvm.bindu = [dvG_DA_mU dvG_DA_mUU];
 	@bGC_dvHA_abvm.bindu = [dvHA dvHA_mUU];
 	@bGC_dvH_NA_abvm.bindu = [dvH_NA dvH_LA];
 	@bGC_dvJ_DA_abvm.bindu = [dvJ_DA dvJ_DA_mU dvJ_DA_mUU];
@@ -44,7 +45,8 @@ lookup MARK_BASE_abvm.bindu {
 	pos base @bGC_dvDDHA_abvm.bindu <anchor 475 662> mark @MC_abvm.bindu;
 	pos base @bGC_dvDDH_DDHA_abvm.bindu <anchor 460 662> mark @MC_abvm.bindu;
 	pos base @bGC_dvD_RA_abvm.bindu <anchor 450 662> mark @MC_abvm.bindu;
-	pos base @bGC_dvG_DA_abvm.bindu <anchor 829 662> mark @MC_abvm.bindu;
+	pos base @bGC_dvG_DA_abvm.bindu <anchor 767 662> mark @MC_abvm.bindu;
+	pos base @bGC_dvG_DA_mU_abvm.bindu <anchor 829 662> mark @MC_abvm.bindu;
 	pos base @bGC_dvHA_abvm.bindu <anchor 422 662> mark @MC_abvm.bindu;
 	pos base @bGC_dvH_NA_abvm.bindu <anchor 501 662> mark @MC_abvm.bindu;
 	pos base @bGC_dvJ_DA_abvm.bindu <anchor 908 662> mark @MC_abvm.bindu;
@@ -84,7 +86,6 @@ lookup MARK_BASE_abvm.bindu {
 	pos base dvDD_DDA <anchor 407 662> mark @MC_abvm.bindu;
 	pos base dvDD_DDHA <anchor 398 662> mark @MC_abvm.bindu;
 	pos base dvDD_VA <anchor 474 662> mark @MC_abvm.bindu;
-	pos base dvD_BHA <anchor 767 662> mark @MC_abvm.bindu;
 	pos base dvD_DA <anchor 391 662> mark @MC_abvm.bindu;
 	pos base dvD_DHA <anchor 649 662> mark @MC_abvm.bindu;
 	pos base dvD_GHA <anchor 618 662> mark @MC_abvm.bindu;
@@ -237,7 +238,7 @@ lookup MARK_BASE_abvm.e {
 	pos base dvD_GHA <anchor 618 672> mark @MC_abvm.e;
 	pos base dvD_G_RA <anchor 535 672> mark @MC_abvm.e;
 	pos base dvEyelash_HA <anchor 619 672> mark @MC_abvm.e;
-	pos base dvG_DA <anchor 828 672> mark @MC_abvm.e;
+	pos base dvG_DA <anchor 766 672> mark @MC_abvm.e;
 	pos base dvHA <anchor 420 621> mark @MC_abvm.e;
 	pos base dvHA_mUU <anchor 422 672> mark @MC_abvm.e;
 	pos base dvHA_mvR <anchor 505 672> mark @MC_abvm.e;

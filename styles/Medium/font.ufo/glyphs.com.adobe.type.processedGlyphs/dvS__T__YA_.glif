@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="dvS_T_YA">
+  <advance width="1593" />
+  <outline>
+    <contour>
+      <point type="line" x="1380" y="339" />
+      <point x="1313" y="209" />
+      <point x="1161" y="101" />
+      <point type="curve" x="1036" y="231" />
+      <point x="1124" y="309" />
+      <point x="1197" y="364" />
+      <point type="curve" x="1192" y="426" />
+      <point x="1189" y="455" />
+      <point x="1164" y="492" />
+      <point type="curve" x="1127" y="523" />
+      <point type="line" x="1380" y="523" />
+    </contour>
+    <contour>
+      <point type="line" x="1580" y="619" />
+      <point type="line" x="505" y="619" />
+      <point type="line" x="505" y="522" />
+      <point type="line" x="1062" y="522" />
+      <point x="1096" y="484" />
+      <point x="1097" y="450" />
+      <point type="curve" x="1042" y="393" />
+      <point type="line" x="1042" y="403" />
+      <point type="line" x="739" y="405" />
+      <point x="626" y="406" />
+      <point x="559" y="235" />
+      <point type="curve" x="566" y="195" />
+      <point x="575" y="133" />
+      <point x="693" y="31" />
+      <point type="curve" x="792" y="-56" />
+      <point type="line" x="827" y="-27" />
+      <point x="778" y="20" />
+      <point x="768" y="32" />
+      <point type="curve" x="741" y="62" />
+      <point x="634" y="182" />
+      <point x="688" y="313" />
+      <point type="curve" x="810" y="310" />
+      <point type="line" x="942" y="308" />
+      <point x="929" y="297" />
+      <point x="920" y="288" />
+      <point type="curve" x="921" y="284" />
+      <point x="929" y="259" />
+      <point x="1097" y="71" />
+      <point type="curve" x="1219" y="71" />
+      <point x="1285" y="71" />
+      <point x="1343" y="124" />
+      <point type="curve" x="1380" y="167" />
+      <point type="line" x="1380" y="1" />
+      <point type="line" x="1504" y="-55" />
+      <point type="line" x="1504" y="523" />
+      <point type="line" x="1580" y="523" />
+    </contour>
+  </outline>
+</glyph>

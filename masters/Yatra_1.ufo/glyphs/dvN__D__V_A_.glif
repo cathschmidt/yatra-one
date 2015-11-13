@@ -14,7 +14,7 @@
     <contour>
       <point x="891" y="672" type="move" name="abvm.e"/>
     </contour>
-    <component base="dvN"/>
+    <component base="dvN" xOffset="6"/>
     <component base="dvD_VA" xOffset="407"/>
   </outline>
 </glyph>

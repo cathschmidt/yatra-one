@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvM_BHA" format="1">
+  <advance width="1113"/>
+  <outline>
+    <component base="dvBHA" xOffset="415"/>
+  </outline>
+</glyph>

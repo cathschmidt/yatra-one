@@ -1,6 +1,6 @@
-# Created: Fri Nov  6 17:33:39 2015
-# PS Name: Yatra
-# MM Inst: Yatra
+# Created: Thu Nov 12 19:11:39 2015
+# PS Name: SomeDevanagari-Regular
+# MM Inst: None
 # exported from noApp
 
 # NOTE: The markClass declarations can be found in the file 'markclasses.fea'.
@@ -47,7 +47,7 @@ lookup MARK_BASE_blwm.u {
 	pos base dvD_NA <anchor 394 -194> mark @MC_blwm.u;
 	pos base dvD_RA <anchor 284 -194> mark @MC_blwm.u;
 	pos base dvEyelash_HA <anchor 604 -6> mark @MC_blwm.u;
-	pos base dvG_DA <anchor 844 -160> mark @MC_blwm.u;
+	pos base dvG_DA <anchor 782 -160> mark @MC_blwm.u;
 	pos base dvHA <anchor 397 -6> mark @MC_blwm.u;
 	pos base dvH_LA <anchor 402 -332> mark @MC_blwm.u;
 	pos base dvH_NA <anchor 392 -332> mark @MC_blwm.u;
@@ -187,7 +187,7 @@ lookup MARK_BASE_blwm.virama {
 	pos base dvD_NA <anchor 375 -204> mark @MC_blwm.virama;
 	pos base dvD_RA <anchor 284 -204> mark @MC_blwm.virama;
 	pos base dvEyelash_HA <anchor 487 -141> mark @MC_blwm.virama;
-	pos base dvG_DA <anchor 624 -231> mark @MC_blwm.virama;
+	pos base dvG_DA <anchor 562 -231> mark @MC_blwm.virama;
 	pos base dvHA <anchor 280 -141> mark @MC_blwm.virama;
 	pos base dvH_LA <anchor 402 -322> mark @MC_blwm.virama;
 	pos base dvH_NA <anchor 392 -322> mark @MC_blwm.virama;

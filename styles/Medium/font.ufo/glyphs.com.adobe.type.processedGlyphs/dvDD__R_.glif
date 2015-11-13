@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="dvDD_R">
+  <advance width="542" />
+  <outline>
+    <contour>
+      <point type="line" x="449" y="389" />
+      <point type="line" x="449" y="522" />
+      <point type="line" x="635" y="522" />
+      <point type="line" x="635" y="619" />
+      <point type="line" x="-4" y="619" />
+      <point type="line" x="-4" y="522" />
+      <point type="line" x="337" y="522" />
+      <point type="line" x="337" y="477" />
+      <point type="line" x="154" y="466" />
+      <point x="100" y="462" />
+      <point x="41" y="338" />
+      <point type="curve" x="82" y="293" />
+      <point x="120" y="253" />
+      <point x="178" y="206" />
+      <point type="curve" x="227" y="166" />
+      <point x="281" y="123" />
+      <point x="438" y="265" />
+      <point type="curve" x="486" y="217" />
+      <point x="539" y="165" />
+      <point x="431" y="67" />
+      <point type="curve" x="302" y="67" />
+      <point x="174" y="67" />
+      <point x="60" y="195" />
+      <point type="curve" x="33" y="227" />
+      <point type="line" x="13" y="208" />
+      <point x="34" y="175" />
+      <point x="161" y="-15" />
+      <point type="curve" x="332" y="-20" />
+      <point type="line" x="186" y="-116" />
+      <point type="line" x="266" y="-204" />
+      <point type="line" x="432" y="-47" />
+      <point type="line" x="597" y="-204" />
+      <point type="line" x="630" y="-164" />
+      <point type="line" x="443" y="-4" />
+      <point x="563" y="35" />
+      <point x="600" y="138" />
+      <point type="curve" x="576" y="175" />
+      <point x="547" y="220" />
+      <point x="502" y="279" />
+      <point type="curve" x="454" y="319" />
+      <point x="440" y="331" />
+      <point x="282" y="278" />
+      <point type="curve" x="236" y="266" />
+      <point x="150" y="243" />
+      <point x="182" y="389" />
+      <point type="curve" x="228" y="389" />
+    </contour>
+  </outline>
+</glyph>

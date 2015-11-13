@@ -1,6 +1,6 @@
 #!/usr/bin/python
 
-FAMILY_NAME = 'YatraOne'
+FAMILY_NAME = 'Yatra'
 
 STYLE_NAMES = [
  #   'Light',

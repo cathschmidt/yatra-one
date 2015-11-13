@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvmI.a12" format="1">
+  <advance width="287"/>
+  <outline>
+    <contour>
+      <point x="1200" y="587" type="move" name="abvm.i"/>
+    </contour>
+  </outline>
+</glyph>
