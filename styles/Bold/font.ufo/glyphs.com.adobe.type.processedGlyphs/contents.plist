@@ -2,6 +2,8 @@
 <!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>C</key>
+	<string>C_.glif</string>
 	<key>O</key>
 	<string>O_.glif</string>
 	<key>Q</key>
@@ -10,6 +12,10 @@
 	<string>R_.glif</string>
 	<key>S</key>
 	<string>S_.glif</string>
+	<key>U</key>
+	<string>U_.glif</string>
+	<key>apostrophemod</key>
+	<string>apostrophemod.glif</string>
 	<key>c</key>
 	<string>c.glif</string>
 	<key>comma</key>
@@ -416,12 +422,16 @@
 	<string>period.glif</string>
 	<key>question</key>
 	<string>question.glif</string>
+	<key>quoteright</key>
+	<string>quoteright.glif</string>
 	<key>rupee</key>
 	<string>rupee.glif</string>
 	<key>s</key>
 	<string>s.glif</string>
 	<key>u</key>
 	<string>u.glif</string>
+	<key>y</key>
+	<string>y.glif</string>
 	<key>zero</key>
 	<string>zero.glif</string>
 </dict>

@@ -1,4 +1,4 @@
-# Created: Thu Nov 12 19:12:02 2015
+# Created: Mon Nov 16 18:44:51 2015
 # PS Name: SomeDevanagari-SemiBold
 # MM Inst: None
 # exported from noApp
@@ -28,8 +28,8 @@ lookup MARK_BASE_blwm.u {
 	pos base dvCH_RA <anchor 344 -190> mark @MC_blwm.u;
 	pos base dvC_CHA <anchor 825 -10> mark @MC_blwm.u;
 	pos base dvC_CH_VA <anchor 814 -388> mark @MC_blwm.u;
-	pos base dvDA <anchor 447 -160> mark @MC_blwm.u;
-	pos base dvDDA <anchor 262 -10> mark @MC_blwm.u;
+	pos base dvDA <anchor 296 -10> mark @MC_blwm.u;
+	pos base dvDDA <anchor 238 -12> mark @MC_blwm.u;
 	pos base dvDDHA <anchor 258 -10> mark @MC_blwm.u;
 	pos base dvDDH_RA <anchor 270 -175> mark @MC_blwm.u;
 	pos base dvDDHxA <anchor 298 -227> mark @MC_blwm.u;
@@ -57,7 +57,7 @@ lookup MARK_BASE_blwm.u {
 	pos base dvJ_DA <anchor 923 -160> mark @MC_blwm.u;
 	pos base dvJ_DDA <anchor 806 -10> mark @MC_blwm.u;
 	pos base dvJ_TTA <anchor 858 -10> mark @MC_blwm.u;
-	pos base dvKA <anchor 380 -10> mark @MC_blwm.u;
+	pos base dvKA <anchor 387 -3> mark @MC_blwm.u;
 	pos base dvK_DA <anchor 958 -160> mark @MC_blwm.u;
 	pos base dvK_KA <anchor 912 -10> mark @MC_blwm.u;
 	pos base dvK_NA <anchor 434 -10> mark @MC_blwm.u;

@@ -4,5 +4,6 @@
   <outline>
     <component base="dvAnusvara" xScale="0.709999978542" yScale="0.712000012398" xOffset="201" yOffset="175"/>
     <component base="dvmII" xOffset="14"/>
+    <component base="dvReph.amI" xOffset="171"/>
   </outline>
 </glyph>

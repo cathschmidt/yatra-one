@@ -1,13 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="T" format="1">
-  <advance width="544"/>
+  <advance width="667"/>
   <unicode hex="0054"/>
   <outline>
     <contour>
-      <point x="365" y="743" type="move" name="top"/>
+      <point x="430" y="743" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="193" y="0" type="move" name="cedilla"/>
+      <point x="258" y="0" type="move" name="cedilla"/>
+    </contour>
+    <contour>
+      <point x="90" y="577" type="line"/>
+      <point x="278" y="577" type="line"/>
+      <point x="278" y="0" type="line"/>
+      <point x="408" y="-29" type="line"/>
+      <point x="406" y="577" type="line"/>
+      <point x="657" y="577" type="line"/>
+      <point x="577" y="667" type="line"/>
+      <point x="10" y="667" type="line"/>
     </contour>
   </outline>
 </glyph>

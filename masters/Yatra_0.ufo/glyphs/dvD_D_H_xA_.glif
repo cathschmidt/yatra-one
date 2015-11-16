@@ -12,7 +12,7 @@
       <point x="298" y="-227" type="move" name="blwm.u"/>
     </contour>
     <contour>
-      <point x="527" y="672" type="move" name="abvm.e"/>
+      <point x="443" y="619" type="move" name="abvm.e"/>
     </contour>
     <component base="dvDDHA"/>
     <component base="dvNukta" xOffset="609"/>

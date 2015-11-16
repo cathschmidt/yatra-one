@@ -1,4 +1,4 @@
-# Created: Thu Nov 12 19:11:28 2015
+# Created: Mon Nov 16 18:44:12 2015
 # PS Name: SomeDevanagari-Light
 # MM Inst: None
 # exported from noApp
@@ -169,9 +169,9 @@ lookup MARK_BASE_abvm.bindu {
 
 
 lookup MARK_BASE_abvm.e {
-	@bGC_dvDDA_abvm.e = [dvDDA dvDDxA dvDD_RA];
 	@bGC_dvDDH_DDHA_abvm.e = [dvDDH_DDHA dvDDH_VA];
 	@bGC_dvDDH_RA_abvm.e = [dvDDH_RA dvH_LA];
+	@bGC_dvDDxA_abvm.e = [dvDDxA dvDD_RA];
 	@bGC_dvG_DA_mU_abvm.e = [dvG_DA_mU dvG_DA_mUU];
 	@bGC_dvJ_DA_mU_abvm.e = [dvJ_DA_mU dvJ_DA_mUU];
 	@bGC_dvK_PHA_abvm.e = [dvK_PHA dvC_CHA];
@@ -193,9 +193,9 @@ lookup MARK_BASE_abvm.e {
 	@bGC_dvTTA_abvm.e = [dvTTA dvTTHA dvDDHA];
 	@bGC_dvTTH_RA_abvm.e = [dvTTH_RA dvDA_mUU];
 	@bGC_dvvL_abvm.e = [dvvL dvvLL];
-	pos base @bGC_dvDDA_abvm.e <anchor 428 672> mark @MC_abvm.e;
 	pos base @bGC_dvDDH_DDHA_abvm.e <anchor 487 672> mark @MC_abvm.e;
 	pos base @bGC_dvDDH_RA_abvm.e <anchor 502 672> mark @MC_abvm.e;
+	pos base @bGC_dvDDxA_abvm.e <anchor 428 672> mark @MC_abvm.e;
 	pos base @bGC_dvG_DA_mU_abvm.e <anchor 829 672> mark @MC_abvm.e;
 	pos base @bGC_dvJ_DA_mU_abvm.e <anchor 908 672> mark @MC_abvm.e;
 	pos base @bGC_dvK_PHA_abvm.e <anchor 1050 672> mark @MC_abvm.e;
@@ -228,7 +228,8 @@ lookup MARK_BASE_abvm.e {
 	pos base dvC_CH_VA <anchor 1068 672> mark @MC_abvm.e;
 	pos base dvDA <anchor 458 621> mark @MC_abvm.e;
 	pos base dvDA_mU <anchor 432 672> mark @MC_abvm.e;
-	pos base dvDDHxA <anchor 527 672> mark @MC_abvm.e;
+	pos base dvDDA <anchor 381 619> mark @MC_abvm.e;
+	pos base dvDDHxA <anchor 443 619> mark @MC_abvm.e;
 	pos base dvDD_DDA <anchor 420 672> mark @MC_abvm.e;
 	pos base dvDD_DDHA <anchor 436 672> mark @MC_abvm.e;
 	pos base dvDD_VA <anchor 474 672> mark @MC_abvm.e;
@@ -250,7 +251,7 @@ lookup MARK_BASE_abvm.e {
 	pos base dvJ_DDA <anchor 972 672> mark @MC_abvm.e;
 	pos base dvJ_KA <anchor 980 672> mark @MC_abvm.e;
 	pos base dvJ_TTA <anchor 988 672> mark @MC_abvm.e;
-	pos base dvKA <anchor 457 633> mark @MC_abvm.e;
+	pos base dvKA <anchor 452 618> mark @MC_abvm.e;
 	pos base dvK_DA <anchor 942 672> mark @MC_abvm.e;
 	pos base dvK_DA_mU <anchor 954 672> mark @MC_abvm.e;
 	pos base dvK_KA <anchor 989 672> mark @MC_abvm.e;
@@ -292,7 +293,7 @@ lookup MARK_BASE_abvm.e {
 	pos base dvP_PHA <anchor 788 672> mark @MC_abvm.e;
 	pos base dvRA <anchor 383 672> mark @MC_abvm.e;
 	pos base dvRA_mUU <anchor 380 672> mark @MC_abvm.e;
-	pos base dvRxA <anchor 382 672> mark @MC_abvm.e;
+	pos base dvRxA <anchor 312 619> mark @MC_abvm.e;
 	pos base dvSHA_mvR <anchor 706 672> mark @MC_abvm.e;
 	pos base dvSH_CHA <anchor 1178 672> mark @MC_abvm.e;
 	pos base dvSH_KA <anchor 962 672> mark @MC_abvm.e;
