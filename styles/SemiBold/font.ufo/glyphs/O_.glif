@@ -21,12 +21,12 @@
       <point x="605" y="590"/>
     </contour>
     <contour>
-      <point x="526" y="563" type="curve" smooth="yes"/>
-      <point x="307" y="715"/>
-      <point x="69" y="282"/>
+      <point x="538" y="555" type="curve" smooth="yes"/>
+      <point x="301" y="719"/>
+      <point x="65" y="288"/>
       <point x="321" y="111" type="curve" smooth="yes"/>
-      <point x="546" y="-41"/>
-      <point x="763" y="398"/>
+      <point x="563" y="-56"/>
+      <point x="771" y="393"/>
     </contour>
   </outline>
 </glyph>

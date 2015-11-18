@@ -2,6 +2,6 @@
 <glyph name="dvDD_YA" format="1">
   <advance width="1203"/>
   <outline>
-    <component base="dvDDA"/>
+    <component base="dvDDA" xOffset="-14"/>
   </outline>
 </glyph>

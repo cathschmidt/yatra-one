@@ -4,6 +4,6 @@
   <outline>
     <component base="dvVirama" xOffset="274" yOffset="-195"/>
     <component base="dvRashtrasign" xOffset="641"/>
-    <component base="dvDDA"/>
+    <component base="dvDDA" xOffset="-14"/>
   </outline>
 </glyph>

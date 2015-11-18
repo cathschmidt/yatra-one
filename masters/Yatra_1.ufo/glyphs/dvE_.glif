@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dvE" format="1">
-  <advance width="547"/>
+  <advance width="553"/>
   <outline>
     <contour>
       <point x="369" y="662" type="move" name="abvm.bindu"/>
@@ -37,8 +37,8 @@
       <point x="495" y="218"/>
       <point x="495" y="246" type="curve" smooth="yes"/>
       <point x="495" y="522" type="line"/>
-      <point x="551" y="522" type="line"/>
-      <point x="551" y="619" type="line"/>
+      <point x="561" y="522" type="line"/>
+      <point x="561" y="619" type="line"/>
       <point x="-7" y="619" type="line"/>
     </contour>
   </outline>

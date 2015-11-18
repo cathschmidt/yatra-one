@@ -15,6 +15,6 @@
       <point x="768" y="-10" type="move" name="blwm.u"/>
     </contour>
     <component base="dvNN"/>
-    <component base="dvDDA" xOffset="506"/>
+    <component base="dvDDA" xOffset="492"/>
   </outline>
 </glyph>

@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph format="1" name="dvAI">
-  <advance width="654" />
+  <advance width="537" />
   <outline>
     <contour>
       <point type="line" x="413" y="619" />
@@ -49,8 +49,8 @@
       <point x="485" y="218" />
       <point type="curve" x="485" y="246" />
       <point type="line" x="485" y="522" />
-      <point type="line" x="541" y="522" />
-      <point type="line" x="541" y="619" />
+      <point type="line" x="551" y="522" />
+      <point type="line" x="551" y="619" />
     </contour>
   </outline>
 </glyph>

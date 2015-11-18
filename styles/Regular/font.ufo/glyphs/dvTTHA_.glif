@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dvTTHA" format="1">
-  <advance width="593"/>
+  <advance width="624"/>
   <outline>
     <contour>
       <point x="427" y="662" type="move" name="abvm.bindu"/>
@@ -32,8 +32,8 @@
       <point x="715" y="235"/>
       <point x="460" y="408" type="curve"/>
       <point x="460" y="522" type="line"/>
-      <point x="610" y="522" type="line"/>
-      <point x="610" y="619" type="line"/>
+      <point x="630" y="522" type="line"/>
+      <point x="630" y="619" type="line"/>
       <point x="-8" y="619" type="line"/>
     </contour>
     <contour>

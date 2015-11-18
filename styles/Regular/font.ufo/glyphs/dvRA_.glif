@@ -9,7 +9,7 @@
       <point x="271" y="-122" type="move" name="blwm.virama"/>
     </contour>
     <contour>
-      <point x="383" y="672" type="move" name="abvm.e"/>
+      <point x="293" y="619" type="move" name="abvm.e"/>
     </contour>
     <contour>
       <point x="210" y="-105" type="move" name="blwm.u"/>

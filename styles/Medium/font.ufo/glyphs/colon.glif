@@ -3,5 +3,33 @@
   <advance width="246"/>
   <unicode hex="003A"/>
   <outline>
+    <contour>
+      <point x="142" y="-22" type="curve"/>
+      <point x="114" y="-9"/>
+      <point x="83" y="17"/>
+      <point x="66" y="51" type="curve"/>
+      <point x="69" y="74"/>
+      <point x="120" y="116"/>
+      <point x="141" y="121" type="curve"/>
+      <point x="186" y="101"/>
+      <point x="207" y="68"/>
+      <point x="216" y="50" type="curve"/>
+      <point x="207" y="27"/>
+      <point x="183" y="-1"/>
+    </contour>
+    <contour>
+      <point x="142" y="336" type="curve"/>
+      <point x="114" y="349"/>
+      <point x="83" y="375"/>
+      <point x="66" y="409" type="curve"/>
+      <point x="69" y="432"/>
+      <point x="120" y="474"/>
+      <point x="141" y="479" type="curve"/>
+      <point x="186" y="459"/>
+      <point x="207" y="426"/>
+      <point x="216" y="408" type="curve"/>
+      <point x="207" y="385"/>
+      <point x="183" y="357"/>
+    </contour>
   </outline>
 </glyph>
