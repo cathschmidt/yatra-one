@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="dvCH_YA">
+  <advance width="1414" />
+  <outline>
+    <contour>
+      <point type="line" x="1201" y="340" />
+      <point x="1135" y="210" />
+      <point x="982" y="101" />
+      <point type="curve" x="857" y="231" />
+      <point x="945" y="309" />
+      <point x="1018" y="364" />
+      <point type="curve" x="1013" y="426" />
+      <point x="1010" y="456" />
+      <point x="985" y="492" />
+      <point type="curve" x="948" y="523" />
+      <point type="line" x="1201" y="523" />
+    </contour>
+    <contour>
+      <point type="line" x="1401" y="619" />
+      <point type="line" x="711" y="619" />
+      <point type="line" x="711" y="523" />
+      <point type="line" x="882" y="523" />
+      <point x="923" y="480" />
+      <point x="918" y="442" />
+      <point type="curve" x="839" y="370" />
+      <point x="805" y="338" />
+      <point x="739" y="295" />
+      <point type="curve" x="742" y="284" />
+      <point x="750" y="259" />
+      <point x="918" y="71" />
+      <point type="curve" x="1040" y="71" />
+      <point x="1106" y="71" />
+      <point x="1164" y="125" />
+      <point type="curve" x="1201" y="167" />
+      <point type="line" x="1201" y="1" />
+      <point type="line" x="1325" y="-55" />
+      <point type="line" x="1325" y="523" />
+      <point type="line" x="1401" y="523" />
+    </contour>
+  </outline>
+</glyph>

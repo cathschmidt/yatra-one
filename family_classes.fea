@@ -28,6 +28,7 @@
   dvmAI_Anusvara
   dvmAI_Reph
   dvmAI_Reph_Anusvara
+  grave
 ];
 
 @mII_BASES = [

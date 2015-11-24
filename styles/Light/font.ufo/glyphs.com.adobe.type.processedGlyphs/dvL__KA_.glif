@@ -3,11 +3,11 @@
   <advance width="1263" />
   <outline>
     <contour>
-      <point type="line" x="844" y="270" />
+      <point type="line" x="844" y="271" />
       <point x="737" y="126" />
       <point x="626" y="172" />
       <point type="curve" x="601" y="200" />
-      <point x="550" y="253" />
+      <point x="550" y="254" />
       <point x="701" y="422" />
       <point type="curve" x="844" y="333" />
     </contour>
@@ -19,9 +19,9 @@
       <point type="line" x="442" y="523" />
       <point type="line" x="442" y="522" />
       <point type="line" x="844" y="522" />
-      <point type="line" x="844" y="386" />
-      <point x="808" y="409" />
-      <point x="763" y="440" />
+      <point type="line" x="844" y="387" />
+      <point x="808" y="410" />
+      <point x="763" y="441" />
       <point type="curve" x="737" y="459" />
       <point x="696" y="487" />
       <point x="575" y="421" />
@@ -43,11 +43,11 @@
       <point x="224" y="24" />
       <point x="188" y="69" />
       <point type="curve" x="160" y="105" />
-      <point x="68" y="219" />
+      <point x="69" y="219" />
       <point x="135" y="400" />
       <point type="curve" x="308" y="280" />
-      <point x="283" y="250" />
-      <point x="266" y="221" />
+      <point x="284" y="251" />
+      <point x="267" y="222" />
       <point type="curve" x="263" y="200" />
       <point type="line" x="340" y="135" />
       <point x="380" y="205" />
@@ -66,7 +66,7 @@
       <point type="line" x="969" y="-56" />
       <point type="line" x="969" y="225" />
       <point x="988" y="284" />
-      <point x="1025" y="319" />
+      <point x="1025" y="320" />
       <point type="curve" x="1080" y="344" />
       <point x="1174" y="385" />
       <point x="1243" y="325" />
@@ -83,7 +83,7 @@
       <point type="curve" x="1111" y="459" />
       <point x="1051" y="461" />
       <point x="1002" y="440" />
-      <point type="curve" x="969" y="411" />
+      <point type="curve" x="969" y="412" />
       <point type="line" x="969" y="522" />
     </contour>
   </outline>

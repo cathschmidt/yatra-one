@@ -1,21 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="f" format="1">
-  <advance width="406"/>
+  <advance width="403"/>
   <unicode hex="0066"/>
   <outline>
     <contour>
       <point x="53" y="408" type="line"/>
-      <point x="127" y="408" type="line"/>
-      <point x="127" y="287"/>
-      <point x="127" y="176"/>
-      <point x="128" y="-1" type="curve"/>
-      <point x="243" y="-29" type="line"/>
-      <point x="238" y="408" type="line"/>
       <point x="380" y="408" type="line"/>
       <point x="350" y="478" type="line"/>
+      <point x="23" y="478" type="line"/>
+    </contour>
+    <contour>
+      <point x="127" y="478" type="line"/>
+      <point x="127" y="327"/>
+      <point x="127" y="210"/>
+      <point x="128" y="-1" type="curve"/>
+      <point x="243" y="-29" type="line"/>
       <point x="238" y="478" type="line"/>
       <point x="240" y="571"/>
-      <point x="269" y="681"/>
+      <point x="253" y="698"/>
       <point x="419" y="617" type="curve"/>
       <point x="438" y="630" type="line"/>
       <point x="397" y="667"/>
@@ -24,8 +26,6 @@
       <point x="277" y="740"/>
       <point x="127" y="626"/>
       <point x="127" y="565" type="curve" smooth="yes"/>
-      <point x="127" y="478" type="line"/>
-      <point x="23" y="478" type="line"/>
     </contour>
   </outline>
 </glyph>

@@ -17,12 +17,18 @@
       <point x="63" y="843"/>
       <point x="-12" y="894"/>
       <point x="-32" y="894" type="curve" smooth="yes"/>
-      <point x="-91" y="894"/>
-      <point x="-163" y="823"/>
-      <point x="-165" y="757" type="curve"/>
-      <point x="-198" y="794"/>
-      <point x="-233" y="823"/>
-      <point x="-265" y="830" type="curve" smooth="yes"/>
+      <point x="-92" y="894"/>
+      <point x="-165" y="821"/>
+      <point x="-165" y="755" type="curve" smooth="yes"/>
+      <point x="-165" y="750"/>
+      <point x="-151" y="676"/>
+      <point x="-84" y="615" type="curve"/>
+    </contour>
+    <contour>
+      <point x="-53" y="617" type="line"/>
+      <point x="-108" y="687"/>
+      <point x="-194" y="814"/>
+      <point x="-265" y="830" type="curve"/>
       <point x="-302" y="837"/>
       <point x="-406" y="826"/>
       <point x="-476" y="804" type="curve"/>
@@ -33,10 +39,6 @@
       <point x="-175" y="711"/>
       <point x="-122" y="652"/>
       <point x="-96" y="616" type="curve"/>
-      <point x="-85" y="616" type="line"/>
-      <point x="-85" y="615"/>
-      <point x="-84" y="615"/>
-      <point x="-84" y="615" type="curve"/>
     </contour>
   </outline>
 </glyph>

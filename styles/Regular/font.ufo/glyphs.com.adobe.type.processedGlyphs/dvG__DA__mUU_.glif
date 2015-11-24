@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="dvG_DA_mUU">
+  <advance width="959" />
+  <outline>
+    <contour>
+      <point type="line" x="437" y="619" />
+      <point type="line" x="-5" y="619" />
+      <point type="line" x="-5" y="522" />
+      <point type="line" x="156" y="522" />
+      <point x="215" y="443" />
+      <point x="223" y="297" />
+      <point type="curve" x="164" y="212" />
+      <point x="158" y="237" />
+      <point x="157" y="250" />
+      <point type="curve" x="145" y="261" />
+      <point x="137" y="268" />
+      <point x="88" y="299" />
+      <point type="curve" x="84" y="298" />
+      <point x="48" y="285" />
+      <point x="32" y="193" />
+      <point type="curve" x="44" y="165" />
+      <point x="53" y="145" />
+      <point x="116" y="70" />
+      <point type="curve" x="141" y="70" />
+      <point x="314" y="70" />
+      <point x="387" y="326" />
+      <point type="curve" x="209" y="522" />
+      <point type="line" x="437" y="522" />
+    </contour>
+  </outline>
+</glyph>

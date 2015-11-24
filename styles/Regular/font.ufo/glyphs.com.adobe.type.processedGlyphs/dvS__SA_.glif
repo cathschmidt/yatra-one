@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="dvS_SA">
+  <advance width="1311" />
+  <outline>
+    <contour>
+      <point type="line" x="1093" y="339" />
+      <point x="1036" y="243" />
+      <point x="935" y="246" />
+      <point type="curve" x="882" y="269" />
+      <point x="921" y="342" />
+      <point x="908" y="436" />
+      <point type="curve" x="851" y="523" />
+      <point type="line" x="1093" y="523" />
+    </contour>
+    <contour>
+      <point type="line" x="1271" y="619" />
+      <point type="line" x="543" y="619" />
+      <point type="line" x="543" y="523" />
+      <point type="line" x="783" y="523" />
+      <point x="817" y="432" />
+      <point x="827" y="306" />
+      <point type="curve" x="715" y="269" />
+      <point x="704" y="306" />
+      <point x="704" y="338" />
+      <point type="curve" x="692" y="351" />
+      <point x="672" y="370" />
+      <point x="630" y="398" />
+      <point type="curve" x="616" y="382" />
+      <point x="598" y="361" />
+      <point x="582" y="324" />
+      <point type="curve" x="570" y="290" />
+      <point x="630" y="122" />
+      <point x="804" y="20" />
+      <point type="curve" x="925" y="-56" />
+      <point type="line" x="953" y="-19" />
+      <point x="887" y="26" />
+      <point x="774" y="116" />
+      <point type="curve" x="748" y="166" />
+      <point x="795" y="182" />
+      <point x="832" y="205" />
+      <point type="curve" x="857" y="234" />
+      <point x="890" y="212" />
+      <point x="954" y="171" />
+      <point type="curve" x="986" y="171" />
+      <point x="1019" y="171" />
+      <point x="1059" y="186" />
+      <point type="curve" x="1093" y="202" />
+      <point type="line" x="1093" y="1" />
+      <point type="line" x="1217" y="-55" />
+      <point type="line" x="1217" y="523" />
+      <point type="line" x="1271" y="523" />
+    </contour>
+  </outline>
+</glyph>

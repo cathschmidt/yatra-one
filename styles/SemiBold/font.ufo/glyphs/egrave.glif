@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="egrave" format="1">
-  <advance width="454"/>
+  <advance width="563"/>
   <unicode hex="00E8"/>
   <outline>
     <contour>
@@ -9,5 +9,7 @@
     <contour>
       <point x="279" y="43" type="move" name="ogonek"/>
     </contour>
+    <component base="e" xOffset="5"/>
+    <component base="grave" xOffset="-30"/>
   </outline>
 </glyph>

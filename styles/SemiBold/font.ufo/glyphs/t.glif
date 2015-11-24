@@ -7,12 +7,14 @@
       <point x="180" y="15" type="move" name="cedilla"/>
     </contour>
     <contour>
+      <point x="53" y="408" type="line"/>
+      <point x="380" y="408" type="line"/>
+      <point x="350" y="478" type="line"/>
+      <point x="23" y="478" type="line"/>
+    </contour>
+    <contour>
       <point x="218" y="558" type="line"/>
       <point x="105" y="586" type="line"/>
-      <point x="105" y="478" type="line"/>
-      <point x="23" y="478" type="line"/>
-      <point x="53" y="408" type="line"/>
-      <point x="105" y="408" type="line"/>
       <point x="105" y="122" type="line" smooth="yes"/>
       <point x="105" y="61"/>
       <point x="255" y="-53"/>
@@ -22,12 +24,15 @@
       <point x="416" y="57" type="curve"/>
       <point x="389" y="88" type="line"/>
       <point x="210" y="-29"/>
-      <point x="213" y="192"/>
+      <point x="218" y="151"/>
       <point x="218" y="281" type="curve"/>
-      <point x="218" y="408" type="line"/>
-      <point x="380" y="408" type="line"/>
-      <point x="350" y="478" type="line"/>
-      <point x="218" y="478" type="line"/>
+    </contour>
+    <contour>
+      <point x="106" y="478" type="line"/>
+      <point x="105" y="563" type="line"/>
+      <point x="99" y="508"/>
+      <point x="80" y="486"/>
+      <point x="53" y="478" type="curve"/>
     </contour>
   </outline>
 </glyph>
