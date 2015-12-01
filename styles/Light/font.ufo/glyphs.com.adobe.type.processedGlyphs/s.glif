@@ -31,9 +31,9 @@
       <point x="170" y="261" />
       <point type="curve" x="165" y="283" />
       <point x="155" y="330" />
-      <point x="189" y="411" />
-      <point type="curve" x="258" y="420" />
-      <point x="280" y="423" />
+      <point x="189" y="405" />
+      <point type="curve" x="258" y="414" />
+      <point x="280" y="417" />
       <point x="356" y="407" />
       <point type="curve" x="404" y="396" />
     </contour>

@@ -10,13 +10,11 @@
       <point x="420" y="743" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="396" y="625" type="line"/>
-      <point x="268" y="666" type="line"/>
+      <point x="80" y="577" type="line"/>
+      <point x="268" y="577" type="line"/>
       <point x="268" y="0" type="line"/>
       <point x="398" y="-29" type="line"/>
-    </contour>
-    <contour>
-      <point x="80" y="577" type="line"/>
+      <point x="396" y="577" type="line"/>
       <point x="647" y="577" type="line"/>
       <point x="567" y="667" type="line"/>
       <point x="0" y="667" type="line"/>
