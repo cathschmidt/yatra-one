@@ -1,19 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dvP_TTA" format="1">
-  <advance width="908"/>
+  <advance width="932"/>
   <outline>
     <contour>
-      <point x="596" y="0" type="move" name="blwm.virama"/>
+      <point x="653" y="0" type="move" name="blwm.virama"/>
     </contour>
     <contour>
-      <point x="766" y="662" type="move" name="abvm.bindu"/>
+      <point x="823" y="662" type="move" name="abvm.bindu"/>
     </contour>
     <contour>
-      <point x="655" y="-10" type="move" name="blwm.u"/>
+      <point x="712" y="-10" type="move" name="blwm.u"/>
     </contour>
     <contour>
-      <point x="785" y="672" type="move" name="abvm.e"/>
+      <point x="842" y="672" type="move" name="abvm.e"/>
     </contour>
-    <component base="dvTTA" xOffset="285"/>
+    <component base="dvTTA" xOffset="342"/>
+    <component base="dvP" xOffset="-13"/>
   </outline>
 </glyph>

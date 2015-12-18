@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="dvNG_R">
+  <advance width="687" />
+  <outline>
+    <contour>
+      <point type="curve" x="23" y="-294" />
+      <point x="35" y="-305" />
+      <point x="284" y="-426" />
+      <point type="curve" x="299" y="-434" />
+      <point x="303" y="-432" />
+      <point x="334" y="-413" />
+      <point type="curve" x="336" y="-409" />
+      <point x="330" y="-401" />
+      <point x="106" y="-241" />
+      <point type="curve" x="94" y="-244" />
+      <point x="82" y="-247" />
+      <point x="28" y="-279" />
+    </contour>
+  </outline>
+</glyph>

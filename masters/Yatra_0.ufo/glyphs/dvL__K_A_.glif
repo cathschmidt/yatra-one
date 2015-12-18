@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dvL_KA" format="1">
-  <advance width="1263"/>
+  <advance width="1242"/>
   <outline>
     <contour>
-      <point x="850" y="0" type="move" name="blwm.virama"/>
+      <point x="776" y="0" type="move" name="blwm.virama"/>
     </contour>
     <contour>
-      <point x="925" y="662" type="move" name="abvm.bindu"/>
+      <point x="851" y="662" type="move" name="abvm.bindu"/>
     </contour>
     <contour>
-      <point x="849" y="-10" type="move" name="blwm.u"/>
+      <point x="775" y="-10" type="move" name="blwm.u"/>
     </contour>
     <contour>
-      <point x="926" y="672" type="move" name="abvm.e"/>
+      <point x="852" y="672" type="move" name="abvm.e"/>
     </contour>
-    <component base="dvL"/>
-    <component base="dvKA" xOffset="469"/>
+    <component base="dvL" xOffset="6"/>
+    <component base="dvKA" xOffset="395"/>
   </outline>
 </glyph>

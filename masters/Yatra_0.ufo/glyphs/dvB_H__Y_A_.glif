@@ -1,8 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dvBH_YA" format="1">
-  <advance width="1133"/>
+  <advance width="1031"/>
   <outline>
-    <component base="dvBH"/>
-    <component base="dvYA" xOffset="437"/>
+    <contour>
+      <point x="314" y="619" type="line"/>
+      <point x="695" y="619" type="line"/>
+      <point x="695" y="523" type="line"/>
+      <point x="352" y="523" type="line"/>
+    </contour>
+    <component base="dvBH" xOffset="-52"/>
+    <component base="dvYA" xOffset="360"/>
   </outline>
 </glyph>

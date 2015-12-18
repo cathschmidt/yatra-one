@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dvSH_TTA" format="1">
-  <advance width="1137"/>
+  <advance width="1051"/>
   <outline>
     <contour>
       <point x="995" y="662" type="move" name="abvm.bindu"/>
@@ -14,6 +14,13 @@
     <contour>
       <point x="884" y="-10" type="move" name="blwm.u"/>
     </contour>
+    <contour>
+      <point x="379" y="619" type="line"/>
+      <point x="666" y="619" type="line"/>
+      <point x="666" y="523" type="line"/>
+      <point x="418" y="523" type="line"/>
+    </contour>
+    <component base="dvTTA" xOffset="460"/>
     <component base="dvSH"/>
   </outline>
 </glyph>

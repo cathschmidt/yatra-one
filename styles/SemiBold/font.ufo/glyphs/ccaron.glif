@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ccaron" format="1">
-  <advance width="493"/>
+  <advance width="535"/>
   <unicode hex="010D"/>
   <outline>
     <contour>
@@ -9,5 +9,7 @@
     <contour>
       <point x="175" y="7" type="move" name="cedilla"/>
     </contour>
+    <component base="caron" xOffset="105"/>
+    <component base="c"/>
   </outline>
 </glyph>

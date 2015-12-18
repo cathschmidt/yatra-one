@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ucircumflex" format="1">
-  <advance width="479"/>
+  <advance width="592"/>
   <unicode hex="00FB"/>
   <outline>
     <contour>
@@ -9,5 +9,7 @@
     <contour>
       <point x="287" y="507" type="move" name="top"/>
     </contour>
+    <component base="u"/>
+    <component base="circumflex" xOffset="123"/>
   </outline>
 </glyph>

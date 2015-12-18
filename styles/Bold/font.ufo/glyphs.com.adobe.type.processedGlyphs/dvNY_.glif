@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="dvNY">
+  <advance width="587" />
+  <outline>
+    <contour>
+      <point type="line" x="-40" y="522" />
+      <point type="line" x="678" y="522" />
+      <point type="line" x="678" y="619" />
+      <point type="line" x="-40" y="619" />
+    </contour>
+    <contour>
+      <point type="line" x="215" y="273" />
+      <point type="line" x="300" y="318" />
+      <point x="370" y="355" />
+      <point x="424" y="288" />
+      <point type="curve" x="402" y="231" />
+      <point x="361" y="122" />
+      <point x="189" y="126" />
+      <point type="curve" x="46" y="301" />
+      <point type="line" x="13" y="275" />
+      <point x="107" y="161" />
+      <point x="207" y="56" />
+      <point type="curve" x="346" y="74" />
+      <point x="466" y="89" />
+      <point x="537" y="169" />
+      <point type="curve" x="477" y="271" />
+      <point x="543" y="215" />
+      <point x="590" y="214" />
+      <point type="curve" x="666" y="283" />
+      <point x="665" y="284" />
+      <point x="612" y="371" />
+      <point type="curve" x="611" y="370" />
+      <point x="588" y="315" />
+      <point x="526" y="304" />
+      <point type="curve" x="428" y="324" />
+      <point x="386" y="367" />
+      <point x="338" y="415" />
+      <point type="curve" x="298" y="417" />
+      <point x="266" y="419" />
+      <point x="192" y="381" />
+      <point type="curve" x="135" y="347" />
+    </contour>
+  </outline>
+</glyph>

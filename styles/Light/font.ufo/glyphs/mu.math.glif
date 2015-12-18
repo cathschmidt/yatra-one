@@ -1,7 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="mu.math" format="1">
-  <advance width="439"/>
+  <advance width="621"/>
   <unicode hex="00B5"/>
   <outline>
+    <contour>
+      <point x="89" y="473" type="line"/>
+      <point x="204" y="445" type="line"/>
+      <point x="204" y="101" type="line"/>
+      <point x="205" y="90"/>
+      <point x="205" y="82"/>
+      <point x="207" y="80" type="curve"/>
+      <point x="237" y="15"/>
+      <point x="391" y="106"/>
+      <point x="441" y="222" type="curve"/>
+      <point x="441" y="473" type="line"/>
+      <point x="556" y="445" type="line"/>
+      <point x="556" y="-34" type="line"/>
+      <point x="441" y="-6" type="line"/>
+      <point x="441" y="44" type="line"/>
+      <point x="403" y="5"/>
+      <point x="348" y="-37"/>
+      <point x="293" y="-33" type="curve" smooth="yes"/>
+      <point x="275" y="-32"/>
+      <point x="240" y="-9"/>
+      <point x="204" y="20" type="curve"/>
+      <point x="204" y="-141" type="line" smooth="yes"/>
+      <point x="204" y="-222"/>
+      <point x="157" y="-265"/>
+      <point x="36" y="-255" type="curve"/>
+      <point x="87" y="-235"/>
+      <point x="89" y="-177"/>
+      <point x="89" y="-114" type="curve" smooth="yes"/>
+      <point x="89" y="217" type="line"/>
+      <point x="87" y="316"/>
+      <point x="88" y="473"/>
+      <point x="88" y="473" type="curve"/>
+      <point x="88" y="473"/>
+      <point x="88" y="472"/>
+      <point x="89" y="472" type="curve"/>
+    </contour>
   </outline>
 </glyph>

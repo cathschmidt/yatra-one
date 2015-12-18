@@ -3,5 +3,6 @@
   <advance width="377"/>
   <unicode hex="02C9"/>
   <outline>
+    <component base="macron"/>
   </outline>
 </glyph>

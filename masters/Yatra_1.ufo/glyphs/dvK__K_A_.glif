@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dvK_KA" format="1">
-  <advance width="1326"/>
+  <advance width="1515"/>
   <outline>
     <contour>
       <point x="913" y="0" type="move" name="blwm.virama"/>
@@ -14,5 +14,7 @@
     <contour>
       <point x="989" y="672" type="move" name="abvm.e"/>
     </contour>
+    <component base="dvK"/>
+    <component base="dvKA" xOffset="677"/>
   </outline>
 </glyph>

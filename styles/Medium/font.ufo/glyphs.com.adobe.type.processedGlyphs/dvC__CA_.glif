@@ -1,22 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph format="1" name="dvC_CA">
-  <advance width="1129" />
+  <advance width="1203" />
   <outline>
     <contour>
       <point type="line" x="1211" y="619" />
       <point type="line" x="-9" y="619" />
       <point type="line" x="-9" y="523" />
-      <point type="line" x="367" y="523" />
-      <point type="line" x="367" y="522" />
-      <point type="line" x="1001" y="522" />
+      <point type="line" x="1001" y="523" />
       <point type="line" x="1001" y="335" />
       <point x="948" y="221" />
       <point x="774" y="116" />
       <point type="curve" x="718" y="169" />
-      <point x="655" y="227" />
-      <point x="735" y="317" />
-      <point type="curve" x="846" y="319" />
-      <point type="line" x="855" y="319" />
+      <point x="654" y="229" />
+      <point x="739" y="322" />
+      <point type="curve" x="855" y="319" />
       <point type="line" x="757" y="402" />
       <point type="line" x="439" y="402" />
       <point type="line" x="535" y="319" />
@@ -48,8 +45,8 @@
       <point type="curve" x="1001" y="154" />
       <point type="line" x="1001" y="0" />
       <point type="line" x="1125" y="-56" />
-      <point type="line" x="1125" y="522" />
-      <point type="line" x="1211" y="522" />
+      <point type="line" x="1125" y="523" />
+      <point type="line" x="1211" y="523" />
     </contour>
   </outline>
 </glyph>

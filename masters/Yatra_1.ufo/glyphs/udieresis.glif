@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="udieresis" format="1">
-  <advance width="479"/>
+  <advance width="592"/>
   <unicode hex="00FC"/>
   <outline>
     <contour>
@@ -9,5 +9,7 @@
     <contour>
       <point x="287" y="507" type="move" name="top"/>
     </contour>
+    <component base="u"/>
+    <component base="dieresis" xOffset="118"/>
   </outline>
 </glyph>

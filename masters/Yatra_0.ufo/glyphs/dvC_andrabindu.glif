@@ -6,5 +6,6 @@
       <point x="-82" y="662" type="move" name="_abvm.bindu"/>
     </contour>
     <component base="dvmEcandra" xOffset="10"/>
+    <component base="dvAnusvara" xOffset="-24" yOffset="102"/>
   </outline>
 </glyph>

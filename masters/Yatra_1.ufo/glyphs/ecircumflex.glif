@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ecircumflex" format="1">
-  <advance width="454"/>
+  <advance width="558"/>
   <unicode hex="00EA"/>
   <outline>
     <contour>
@@ -9,5 +9,7 @@
     <contour>
       <point x="263" y="507" type="move" name="top"/>
     </contour>
+    <component base="e"/>
+    <component base="circumflex" xOffset="112"/>
   </outline>
 </glyph>

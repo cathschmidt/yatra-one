@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dvV_HA" format="1">
-  <advance width="802"/>
+  <advance width="821"/>
   <outline>
     <contour>
-      <point x="734" y="662" type="move" name="abvm.bindu"/>
+      <point x="700" y="667" type="move" name="abvm.bindu"/>
     </contour>
     <contour>
-      <point x="592" y="-141" type="move" name="blwm.virama"/>
+      <point x="559" y="-183" type="move" name="blwm.virama"/>
     </contour>
     <contour>
-      <point x="724" y="672" type="move" name="abvm.e"/>
+      <point x="697" y="619" type="move" name="abvm.e"/>
     </contour>
     <contour>
-      <point x="709" y="-6" type="move" name="blwm.u"/>
+      <point x="558" y="-144" type="move" name="blwm.u"/>
     </contour>
     <component base="dvV"/>
     <component base="dvHA" xOffset="312"/>

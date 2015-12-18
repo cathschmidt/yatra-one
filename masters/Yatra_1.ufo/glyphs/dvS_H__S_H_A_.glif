@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dvSH_SHA" format="1">
-  <advance width="1313"/>
+  <advance width="1174"/>
   <outline>
-    <component base="dvSH"/>
-    <component base="dvSHA" xOffset="579"/>
+    <component base="dvSH" xOffset="31"/>
+    <component base="dvSHA" xOffset="480"/>
   </outline>
 </glyph>

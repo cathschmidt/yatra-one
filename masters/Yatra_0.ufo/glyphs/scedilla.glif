@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="scedilla" format="1">
-  <advance width="467"/>
+  <advance width="555"/>
   <unicode hex="015F"/>
   <outline>
     <contour>
@@ -9,5 +9,7 @@
     <contour>
       <point x="261" y="507" type="move" name="top"/>
     </contour>
+    <component base="s"/>
+    <component base="cedilla" xOffset="70"/>
   </outline>
 </glyph>

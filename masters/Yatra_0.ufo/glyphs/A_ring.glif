@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Aring" format="1">
-  <advance width="631"/>
+  <advance width="657"/>
   <unicode hex="00C5"/>
   <outline>
     <contour>
@@ -9,5 +9,7 @@
     <contour>
       <point x="332" y="743" type="move" name="top"/>
     </contour>
+    <component base="A"/>
+    <component base="ring" xOffset="182" yOffset="165"/>
   </outline>
 </glyph>

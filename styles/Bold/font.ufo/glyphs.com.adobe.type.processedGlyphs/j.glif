@@ -4,20 +4,6 @@
   <unicode hex="006A" />
   <outline>
     <contour>
-      <point type="curve" x="125" y="539" />
-      <point x="166" y="560" />
-      <point x="190" y="588" />
-      <point type="curve" x="199" y="611" />
-      <point x="190" y="629" />
-      <point x="169" y="662" />
-      <point type="curve" x="124" y="682" />
-      <point x="103" y="677" />
-      <point x="52" y="635" />
-      <point type="curve" x="49" y="612" />
-      <point x="66" y="578" />
-      <point x="97" y="552" />
-    </contour>
-    <contour>
       <point type="line" x="183" y="450" />
       <point type="line" x="68" y="478" />
       <point type="line" x="71" y="-8" />
@@ -31,6 +17,20 @@
       <point x="55" y="-246" />
       <point x="183" y="-136" />
       <point type="curve" x="183" y="-75" />
+    </contour>
+    <contour>
+      <point type="curve" x="125" y="539" />
+      <point x="166" y="560" />
+      <point x="190" y="588" />
+      <point type="curve" x="199" y="611" />
+      <point x="190" y="629" />
+      <point x="169" y="662" />
+      <point type="curve" x="124" y="682" />
+      <point x="103" y="677" />
+      <point x="52" y="635" />
+      <point type="curve" x="49" y="612" />
+      <point x="66" y="578" />
+      <point x="97" y="552" />
     </contour>
   </outline>
 </glyph>

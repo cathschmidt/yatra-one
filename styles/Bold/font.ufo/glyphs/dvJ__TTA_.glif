@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dvJ_TTA" format="1">
-  <advance width="1111"/>
+  <advance width="1122"/>
   <outline>
     <contour>
       <point x="969" y="662" type="move" name="abvm.bindu"/>
@@ -14,7 +14,7 @@
     <contour>
       <point x="858" y="-10" type="move" name="blwm.u"/>
     </contour>
-    <component base="dvTTA" xOffset="488"/>
+    <component base="dvTTA" xOffset="548"/>
     <component base="dvJ"/>
   </outline>
 </glyph>

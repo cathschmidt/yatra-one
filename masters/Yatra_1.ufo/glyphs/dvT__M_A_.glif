@@ -3,5 +3,6 @@
   <advance width="993"/>
   <outline>
     <component base="dvMA" xOffset="312"/>
+    <component base="dvT" xOffset="40"/>
   </outline>
 </glyph>

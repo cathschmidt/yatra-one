@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dvDH_R" format="1">
-  <advance width="411"/>
+  <advance width="487"/>
   <outline>
+    <contour>
+      <point x="539" y="154" type="line"/>
+      <point x="518" y="98"/>
+      <point x="432" y="2"/>
+      <point x="359" y="-64" type="curve"/>
+      <point x="275" y="2" type="line"/>
+      <point x="364" y="68"/>
+      <point x="446" y="130"/>
+      <point x="508" y="203" type="curve"/>
+    </contour>
+    <component base="dvDH"/>
   </outline>
 </glyph>

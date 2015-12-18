@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dvKH_KHA" format="1">
-  <advance width="1534"/>
+  <advance width="1517"/>
   <outline>
     <component base="dvKHA" xOffset="653"/>
     <component base="dvKH" xOffset="12"/>

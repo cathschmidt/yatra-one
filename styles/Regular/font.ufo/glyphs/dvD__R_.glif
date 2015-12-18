@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dvD_R" format="1">
-  <advance width="571"/>
+  <advance width="595"/>
   <outline>
-    <component base="dvVirama" xOffset="328" yOffset="-223"/>
-    <component base="dvD_RA"/>
+    <component base="dvVirama" xOffset="444" yOffset="-173"/>
+    <component base="dvRashtrasign" xOffset="558"/>
+    <component base="dvDA"/>
   </outline>
 </glyph>

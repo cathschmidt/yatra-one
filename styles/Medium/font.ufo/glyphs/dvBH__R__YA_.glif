@@ -1,6 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dvBH_R_YA" format="1">
-  <advance width="1133"/>
+  <advance width="1041"/>
   <outline>
+    <contour>
+      <point x="297" y="619" type="line"/>
+      <point x="624" y="619" type="line"/>
+      <point x="624" y="523" type="line"/>
+      <point x="336" y="523" type="line"/>
+    </contour>
+    <contour>
+      <point x="536" y="138" type="line"/>
+      <point x="515" y="82"/>
+      <point x="424" y="-10"/>
+      <point x="331" y="-64" type="curve"/>
+      <point x="247" y="2" type="line"/>
+      <point x="350" y="44"/>
+      <point x="446" y="111"/>
+      <point x="508" y="184" type="curve"/>
+    </contour>
+    <component base="dvYA" xOffset="362"/>
+    <component base="dvBH" xOffset="-49"/>
   </outline>
 </glyph>

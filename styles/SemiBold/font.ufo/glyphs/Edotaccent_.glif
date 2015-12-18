@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Edotaccent" format="1">
-  <advance width="551"/>
+  <advance width="647"/>
   <unicode hex="0116"/>
   <outline>
     <contour>
@@ -9,5 +9,7 @@
     <contour>
       <point x="440" y="101" type="move" name="ogonek"/>
     </contour>
+    <component base="E"/>
+    <component base="dotaccent" xOffset="257" yOffset="145"/>
   </outline>
 </glyph>

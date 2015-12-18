@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Uhungarumlaut" format="1">
-  <advance width="578"/>
+  <advance width="666"/>
   <unicode hex="0170"/>
   <outline>
     <contour>
@@ -9,5 +9,7 @@
     <contour>
       <point x="313" y="743" type="move" name="top"/>
     </contour>
+    <component base="U" xOffset="-20"/>
+    <component base="hungarumlaut" xOffset="146" yOffset="163"/>
   </outline>
 </glyph>

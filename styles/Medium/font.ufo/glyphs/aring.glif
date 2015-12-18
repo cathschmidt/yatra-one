@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="aring" format="1">
-  <advance width="518"/>
+  <advance width="580"/>
   <unicode hex="00E5"/>
   <outline>
     <contour>
@@ -9,5 +9,7 @@
     <contour>
       <point x="344" y="7" type="move" name="ogonek"/>
     </contour>
+    <component base="a" xOffset="14"/>
+    <component base="ring" xOffset="170"/>
   </outline>
 </glyph>

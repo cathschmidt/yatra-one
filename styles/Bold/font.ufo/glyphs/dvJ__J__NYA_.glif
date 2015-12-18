@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dvJ_J_NYA" format="1">
-  <advance width="1338"/>
+  <advance width="1265"/>
   <outline>
-    <component base="dvJ_NYA" xOffset="585"/>
+    <component base="dvJ_NYA" xOffset="546"/>
+    <component base="dvJ" xOffset="-1"/>
   </outline>
 </glyph>

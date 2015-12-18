@@ -1,9 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dvG_BH_YA" format="1">
-  <advance width="1549"/>
+  <advance width="1416"/>
   <outline>
-    <component base="dvBH" xOffset="416"/>
-    <component base="dvYA" xOffset="853"/>
-    <component base="dvG"/>
+    <contour>
+      <point x="641" y="619" type="line"/>
+      <point x="968" y="619" type="line"/>
+      <point x="968" y="523" type="line"/>
+      <point x="680" y="523" type="line"/>
+    </contour>
+    <component base="dvBH" xOffset="327"/>
+    <component base="dvYA" xOffset="744"/>
+    <component base="dvG" xOffset="1"/>
   </outline>
 </glyph>

@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dvGH_R" format="1">
-  <advance width="387"/>
+  <advance width="505"/>
   <outline>
+    <contour>
+      <point x="556" y="154" type="line"/>
+      <point x="525" y="104"/>
+      <point x="478" y="17"/>
+      <point x="376" y="-64" type="curve"/>
+      <point x="292" y="2" type="line"/>
+      <point x="381" y="68"/>
+      <point x="463" y="130"/>
+      <point x="525" y="203" type="curve"/>
+    </contour>
+    <component base="dvGH"/>
   </outline>
 </glyph>

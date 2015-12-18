@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Imacron" format="1">
-  <advance width="309"/>
+  <advance width="300"/>
   <unicode hex="012A"/>
   <outline>
     <contour>
@@ -9,5 +9,7 @@
     <contour>
       <point x="234" y="743" type="move" name="top"/>
     </contour>
+    <component base="I"/>
+    <component base="macron" xOffset="-47" yOffset="168"/>
   </outline>
 </glyph>

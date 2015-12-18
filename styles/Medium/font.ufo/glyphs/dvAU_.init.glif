@@ -3,10 +3,9 @@
   <advance width="1030"/>
   <outline>
     <contour>
-      <point x="1061" y="678" type="move" name="abvm.bindu"/>
+      <point x="980" y="625" type="move" name="abvm.bindu"/>
     </contour>
     <component base="dvmAI" xOffset="1047"/>
-    <component base="dvmAA" xOffset="762"/>
-    <component base="dvA.init" xOffset="-10"/>
+    <component base="dvAA.init"/>
   </outline>
 </glyph>

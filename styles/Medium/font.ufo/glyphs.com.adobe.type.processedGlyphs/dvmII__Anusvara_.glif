@@ -17,12 +17,12 @@
       <point x="145" y="707" />
     </contour>
     <contour>
-      <point type="line" x="-30" y="522" />
-      <point type="line" x="46" y="522" />
+      <point type="line" x="-30" y="523" />
+      <point type="line" x="46" y="523" />
       <point type="line" x="46" y="1" />
       <point type="line" x="170" y="-55" />
-      <point type="line" x="170" y="522" />
-      <point type="line" x="247" y="522" />
+      <point type="line" x="170" y="523" />
+      <point type="line" x="247" y="523" />
       <point type="line" x="247" y="619" />
       <point type="line" x="119" y="619" />
       <point x="22" y="740" />

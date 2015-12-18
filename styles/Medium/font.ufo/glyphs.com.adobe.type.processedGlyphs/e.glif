@@ -1,17 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph format="1" name="e">
-  <advance width="558" />
+  <advance width="553" />
   <unicode hex="0065" />
   <outline>
-    <contour>
-      <point type="line" x="150" y="198" />
-      <point x="149" y="295" />
-      <point x="214" y="412" />
-      <point type="curve" x="285" y="412" />
-      <point x="313" y="412" />
-      <point x="354" y="390" />
-      <point type="curve" x="400" y="358" />
-    </contour>
     <contour>
       <point type="curve" x="179" y="104" />
       <point x="179" y="104" />
@@ -37,6 +28,15 @@
       <point type="curve" x="240" y="59" />
       <point x="218" y="63" />
       <point x="186" y="94" />
+    </contour>
+    <contour>
+      <point type="line" x="150" y="198" />
+      <point x="149" y="295" />
+      <point x="214" y="412" />
+      <point type="curve" x="285" y="412" />
+      <point x="313" y="412" />
+      <point x="354" y="390" />
+      <point type="curve" x="400" y="358" />
     </contour>
   </outline>
 </glyph>

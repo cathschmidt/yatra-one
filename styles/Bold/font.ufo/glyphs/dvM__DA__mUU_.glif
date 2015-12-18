@@ -1,14 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dvM_DA_mUU" format="1">
-  <advance width="982"/>
+  <advance width="955"/>
   <outline>
     <contour>
-      <point x="852" y="662" type="move" name="abvm.bindu"/>
+      <point x="780" y="618" type="move" name="abvm.bindu"/>
     </contour>
     <contour>
-      <point x="852" y="672" type="move" name="abvm.e"/>
+      <point x="762" y="619" type="move" name="abvm.e"/>
     </contour>
     <component base="dvM"/>
-    <component base="dvDA_mUU" xOffset="419"/>
+    <component base="dvDA" xOffset="350"/>
+    <component base="dvmUU" xOffset="804"/>
   </outline>
 </glyph>

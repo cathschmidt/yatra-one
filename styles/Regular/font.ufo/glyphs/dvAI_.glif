@@ -3,7 +3,7 @@
   <advance width="537"/>
   <outline>
     <contour>
-      <point x="514" y="662" type="move" name="abvm.bindu"/>
+      <point x="442" y="625" type="move" name="abvm.bindu"/>
     </contour>
     <component base="dvE" xOffset="-10"/>
     <component base="dvmE" xOffset="538"/>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dvK_KA" format="1">
-  <advance width="1326"/>
+  <advance width="1515"/>
   <outline>
     <contour>
       <point x="988" y="662" type="move" name="abvm.bindu"/>
@@ -14,5 +14,7 @@
     <contour>
       <point x="912" y="-10" type="move" name="blwm.u"/>
     </contour>
+    <component base="dvKA" xOffset="677"/>
+    <component base="dvK"/>
   </outline>
 </glyph>

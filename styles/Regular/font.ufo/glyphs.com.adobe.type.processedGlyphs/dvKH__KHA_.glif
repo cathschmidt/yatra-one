@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph format="1" name="dvKH_KHA">
-  <advance width="1534" />
+  <advance width="1517" />
   <outline>
     <contour>
       <point type="line" x="1325" y="396" />
@@ -12,8 +12,8 @@
       <point type="curve" x="1022" y="354" />
       <point x="1024" y="410" />
       <point x="1005" y="469" />
-      <point type="curve" x="971" y="522" />
-      <point type="line" x="1325" y="522" />
+      <point type="curve" x="970" y="523" />
+      <point type="line" x="1325" y="523" />
     </contour>
     <contour>
       <point type="line" x="1325" y="251" />
@@ -39,8 +39,10 @@
       <point x="1119" y="17" />
     </contour>
     <contour>
-      <point type="line" x="904" y="522" />
-      <point x="936" y="431" />
+      <point type="line" x="724" y="522" />
+      <point type="line" x="724" y="523" />
+      <point type="line" x="904" y="523" />
+      <point x="937" y="432" />
       <point x="947" y="310" />
       <point type="curve" x="835" y="273" />
       <point x="824" y="305" />
@@ -122,8 +124,8 @@
       <point type="curve" x="1325" y="106" />
       <point type="line" x="1325" y="0" />
       <point type="line" x="1449" y="-56" />
-      <point type="line" x="1449" y="522" />
-      <point type="line" x="1525" y="522" />
+      <point type="line" x="1449" y="523" />
+      <point type="line" x="1525" y="523" />
     </contour>
   </outline>
 </glyph>

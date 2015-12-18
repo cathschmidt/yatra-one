@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dvN_PHA" format="1">
-  <advance width="1215"/>
+  <advance width="1302"/>
   <outline>
     <contour>
-      <point x="870" y="662" type="move" name="abvm.bindu"/>
+      <point x="860" y="662" type="move" name="abvm.bindu"/>
     </contour>
     <contour>
-      <point x="812" y="0" type="move" name="blwm.virama"/>
+      <point x="802" y="0" type="move" name="blwm.virama"/>
     </contour>
     <contour>
-      <point x="890" y="672" type="move" name="abvm.e"/>
+      <point x="880" y="672" type="move" name="abvm.e"/>
     </contour>
     <contour>
-      <point x="810" y="-10" type="move" name="blwm.u"/>
+      <point x="800" y="-10" type="move" name="blwm.u"/>
     </contour>
-    <component base="dvPHA" xOffset="440"/>
-    <component base="dvN" xOffset="6"/>
+    <component base="dvPHA" xOffset="430"/>
+    <component base="dvN" xOffset="-4"/>
   </outline>
 </glyph>

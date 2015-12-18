@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="Ntilde">
+  <advance width="762" />
+  <unicode hex="00D1" />
+  <outline>
+    <contour>
+      <point type="curve" x="295" y="886" />
+      <point x="268" y="889" />
+      <point x="161" y="809" />
+      <point type="curve" x="159" y="801" />
+      <point x="159" y="790" />
+      <point x="216" y="712" />
+      <point type="curve" x="225" y="710" />
+      <point x="238" y="714" />
+      <point x="293" y="795" />
+      <point type="curve" x="324" y="796" />
+      <point x="339" y="797" />
+      <point x="422" y="708" />
+      <point type="curve" x="449" y="708" />
+      <point x="499" y="708" />
+      <point x="585" y="800" />
+      <point type="curve" x="584" y="806" />
+      <point x="583" y="813" />
+      <point x="516" y="882" />
+      <point type="curve" x="510" y="883" />
+      <point x="502" y="882" />
+      <point x="438" y="794" />
+      <point type="curve" x="415" y="794" />
+      <point x="394" y="794" />
+      <point x="322" y="883" />
+    </contour>
+    <contour>
+      <point type="line" x="213" y="461" />
+      <point type="line" x="547" y="0" />
+      <point type="line" x="677" y="-29" />
+      <point type="line" x="677" y="626" />
+      <point type="line" x="547" y="666" />
+      <point type="line" x="547" y="171" />
+      <point type="line" x="213" y="626" />
+      <point type="line" x="85" y="666" />
+      <point type="line" x="85" y="0" />
+      <point type="line" x="215" y="-29" />
+    </contour>
+  </outline>
+</glyph>

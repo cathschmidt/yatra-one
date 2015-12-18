@@ -1,8 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dvSH_LA" format="1">
-  <advance width="1330"/>
+  <advance width="1170"/>
   <outline>
-    <component base="dvSH"/>
-    <component base="dvLA" xOffset="551"/>
+    <contour>
+      <point x="417" y="619" type="line"/>
+      <point x="704" y="619" type="line"/>
+      <point x="704" y="523" type="line"/>
+      <point x="456" y="523" type="line"/>
+    </contour>
+    <component base="dvSH" xOffset="8"/>
+    <component base="dvLA" xOffset="499"/>
   </outline>
 </glyph>

@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="dvJA">
+  <advance width="831" />
+  <outline>
+    <contour>
+      <point type="line" x="348" y="319" />
+      <point type="line" x="424" y="319" />
+      <point x="492" y="234" />
+      <point x="425" y="196" />
+      <point type="curve" x="375" y="178" />
+      <point x="229" y="123" />
+      <point x="119" y="306" />
+      <point type="curve" x="60" y="382" />
+      <point type="line" x="35" y="364" />
+      <point x="121" y="237" />
+      <point x="203" y="124" />
+      <point type="curve" x="255" y="88" />
+      <point x="342" y="29" />
+      <point x="578" y="128" />
+      <point type="curve" x="542" y="231" />
+      <point x="536" y="250" />
+      <point x="505" y="288" />
+      <point type="curve" x="466" y="319" />
+      <point type="line" x="628" y="319" />
+      <point type="line" x="628" y="0" />
+      <point type="line" x="752" y="-56" />
+      <point type="line" x="752" y="523" />
+      <point type="line" x="838" y="523" />
+      <point type="line" x="838" y="619" />
+      <point type="line" x="-6" y="619" />
+      <point type="line" x="-6" y="523" />
+      <point type="line" x="628" y="523" />
+      <point type="line" x="628" y="402" />
+      <point type="line" x="255" y="401" />
+    </contour>
+  </outline>
+</glyph>

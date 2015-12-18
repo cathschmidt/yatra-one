@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="Omega.math">
+  <advance width="910" />
+  <unicode hex="2126" />
+  <outline>
+    <contour>
+      <point type="line" x="108" y="0" />
+      <point type="line" x="346" y="0" />
+      <point type="line" x="266" y="90" />
+      <point x="126" y="271" />
+      <point x="317" y="669" />
+      <point type="curve" x="553" y="514" />
+      <point x="691" y="423" />
+      <point x="664" y="206" />
+      <point type="curve" x="565" y="90" />
+      <point type="line" x="564" y="90" />
+      <point type="line" x="564" y="89" />
+      <point type="line" x="566" y="87" />
+      <point type="line" x="642" y="0" />
+      <point type="line" x="880" y="0" />
+      <point type="line" x="800" y="90" />
+      <point type="line" x="736" y="90" />
+      <point x="800" y="213" />
+      <point x="807" y="369" />
+      <point type="curve" x="709" y="465" />
+      <point x="648" y="524" />
+      <point x="586" y="571" />
+      <point type="curve" x="486" y="625" />
+      <point x="223" y="767" />
+      <point x="-50" y="288" />
+      <point type="curve" x="153" y="94" />
+      <point x="154" y="92" />
+      <point x="156" y="91" />
+      <point type="curve" x="157" y="90" />
+      <point type="line" x="30" y="90" />
+    </contour>
+  </outline>
+</glyph>

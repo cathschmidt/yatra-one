@@ -3,12 +3,13 @@
   <advance width="1053"/>
   <outline>
     <contour>
-      <point x="923" y="662" type="move" name="abvm.bindu"/>
+      <point x="890" y="620" type="move" name="abvm.bindu"/>
     </contour>
     <contour>
-      <point x="923" y="672" type="move" name="abvm.e"/>
+      <point x="866" y="619" type="move" name="abvm.e"/>
     </contour>
     <component base="dvS"/>
-    <component base="dvDA_mUU" xOffset="490"/>
+    <component base="dvDA" xOffset="455"/>
+    <component base="dvmUU" xOffset="909"/>
   </outline>
 </glyph>

@@ -1,21 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dvPHx_PHxA" format="1">
-  <advance width="1389"/>
+  <advance width="1540"/>
   <outline>
     <contour>
-      <point x="801" y="-180" type="move" name="blwm.virama"/>
+      <point x="1041" y="-128" type="move" name="blwm.virama"/>
     </contour>
     <contour>
-      <point x="1044" y="662" type="move" name="abvm.bindu"/>
+      <point x="1165" y="619" type="move" name="abvm.bindu"/>
     </contour>
     <contour>
-      <point x="1187" y="-17" type="move" name="blwm.u"/>
+      <point x="1142" y="-24" type="move" name="blwm.u"/>
     </contour>
     <contour>
-      <point x="1064" y="672" type="move" name="abvm.e"/>
+      <point x="1152" y="619" type="move" name="abvm.e"/>
     </contour>
-    <component base="dvNukta" xOffset="567" yOffset="55"/>
-    <component base="dvPHA" xOffset="614"/>
-    <component base="dvNukta" xOffset="1171" yOffset="55"/>
+    <component base="dvPHA" xOffset="671"/>
+    <component base="dvNukta" xOffset="556" yOffset="75"/>
+    <component base="dvPH" xOffset="-10"/>
+    <component base="dvNukta" xOffset="1228" yOffset="75"/>
   </outline>
 </glyph>

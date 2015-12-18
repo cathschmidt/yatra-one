@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="Ugrave">
+  <advance width="666" />
+  <unicode hex="00D9" />
+  <outline>
+    <contour>
+      <point type="line" x="358" y="751" />
+      <point x="320" y="804" />
+      <point x="269" y="860" />
+      <point type="curve" x="220" y="930" />
+      <point x="205" y="932" />
+      <point x="138" y="851" />
+      <point type="curve" x="156" y="836" />
+      <point x="211" y="789" />
+      <point x="281" y="738" />
+      <point type="curve" x="335" y="710" />
+    </contour>
+    <contour>
+      <point type="line" x="492" y="667" />
+      <point type="line" x="492" y="196" />
+      <point x="447" y="85" />
+      <point x="322" y="3" />
+      <point type="curve" x="176" y="118" />
+      <point x="171" y="124" />
+      <point x="175" y="626" />
+      <point type="curve" x="175" y="626" />
+      <point x="175" y="627" />
+      <point x="48" y="665" />
+      <point type="curve" x="47" y="667" />
+      <point x="47" y="663" />
+      <point x="41" y="181" />
+      <point type="curve" x="50" y="171" />
+      <point x="140" y="71" />
+      <point x="273" y="-30" />
+      <point type="curve" x="356" y="-30" />
+      <point x="496" y="-30" />
+      <point x="621" y="87" />
+      <point type="curve" x="621" y="158" />
+      <point type="line" x="621" y="626" />
+    </contour>
+  </outline>
+</glyph>

@@ -6,15 +6,15 @@
       <point x="250" y="-189" type="move" name="blwm.virama"/>
     </contour>
     <contour>
-      <point x="427" y="662" type="move" name="abvm.bindu"/>
+      <point x="409" y="619" type="move" name="abvm.bindu"/>
     </contour>
     <contour>
       <point x="250" y="-179" type="move" name="blwm.u"/>
     </contour>
     <contour>
-      <point x="433" y="672" type="move" name="abvm.e"/>
+      <point x="427" y="620" type="move" name="abvm.e"/>
     </contour>
     <component base="dvTTHA"/>
-    <component base="dvRashtrasign" xOffset="573" yOffset="20"/>
+    <component base="dvRashtrasign" xOffset="563" yOffset="20"/>
   </outline>
 </glyph>

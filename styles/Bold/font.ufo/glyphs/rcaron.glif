@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="rcaron" format="1">
-  <advance width="326"/>
+  <advance width="465"/>
   <unicode hex="0159"/>
   <outline>
     <contour>
       <point x="207" y="507" type="move" name="top"/>
     </contour>
+    <component base="caron" xOffset="65"/>
+    <component base="r"/>
   </outline>
 </glyph>

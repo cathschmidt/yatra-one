@@ -1,18 +1,24 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph format="1" name="dvM_DA">
-  <advance width="979" />
+  <advance width="1009" />
   <outline>
     <contour>
       <point type="line" x="297" y="268" />
       <point type="line" x="297" y="523" />
-      <point type="line" x="412" y="523" />
-      <point type="line" x="412" y="522" />
-      <point type="line" x="769" y="522" />
+      <point type="line" x="769" y="523" />
       <point type="line" x="769" y="468" />
       <point type="line" x="585" y="457" />
       <point x="529" y="451" />
       <point x="473" y="352" />
       <point type="curve" x="465" y="269" />
+    </contour>
+    <contour>
+      <point type="curve" x="113" y="113" />
+      <point x="89" y="133" />
+      <point x="84" y="177" />
+      <point type="curve" x="172" y="173" />
+      <point x="172" y="97" />
+      <point x="135" y="95" />
     </contour>
     <contour>
       <point type="line" x="924" y="51" />
@@ -36,8 +42,8 @@
       <point x="584" y="380" />
       <point type="curve" x="689" y="381" />
       <point type="line" x="880" y="381" />
-      <point type="line" x="880" y="522" />
-      <point type="line" x="1030" y="522" />
+      <point type="line" x="880" y="523" />
+      <point type="line" x="1030" y="523" />
       <point type="line" x="1030" y="619" />
       <point type="line" x="-7" y="619" />
       <point type="line" x="-7" y="523" />

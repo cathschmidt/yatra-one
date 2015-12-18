@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="Tcedilla">
+  <advance width="647" />
+  <unicode hex="0162" />
+  <outline>
+    <contour>
+      <point type="line" x="374" y="-24" />
+      <point type="line" x="398" y="-29" />
+      <point type="line" x="396" y="577" />
+      <point type="line" x="647" y="577" />
+      <point type="line" x="567" y="667" />
+      <point type="line" x="0" y="667" />
+      <point type="line" x="80" y="577" />
+      <point type="line" x="268" y="577" />
+      <point type="line" x="268" y="0" />
+      <point type="line" x="299" y="-7" />
+      <point type="line" x="280" y="-114" />
+      <point x="280" y="-114" />
+      <point x="357" y="-113" />
+      <point type="curve" x="363" y="-118" />
+      <point x="383" y="-134" />
+      <point x="356" y="-189" />
+      <point type="curve" x="329" y="-194" />
+      <point x="293" y="-201" />
+      <point x="284" y="-196" />
+      <point type="curve" x="253" y="-192" />
+      <point type="line" x="242" y="-210" />
+      <point x="312" y="-244" />
+      <point x="373" y="-246" />
+      <point type="curve" x="385" y="-245" />
+      <point x="466" y="-237" />
+      <point x="474" y="-115" />
+      <point type="curve" x="449" y="-77" />
+      <point x="439" y="-62" />
+      <point x="407" y="-72" />
+      <point type="curve" x="358" y="-81" />
+    </contour>
+  </outline>
+</glyph>

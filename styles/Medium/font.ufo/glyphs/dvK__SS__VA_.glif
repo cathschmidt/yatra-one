@@ -1,8 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dvK_SS_VA" format="1">
-  <advance width="1176"/>
+  <advance width="1014"/>
   <outline>
-    <component base="dvK_SS"/>
-    <component base="dvVA" xOffset="587"/>
+    <contour>
+      <point x="369" y="619" type="line"/>
+      <point x="696" y="619" type="line"/>
+      <point x="696" y="523" type="line"/>
+      <point x="408" y="523" type="line"/>
+    </contour>
+    <component base="dvK_SS" xOffset="3"/>
+    <component base="dvVA" xOffset="425"/>
   </outline>
 </glyph>

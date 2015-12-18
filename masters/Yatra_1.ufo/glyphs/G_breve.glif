@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Gbreve" format="1">
-  <advance width="597"/>
+  <advance width="823"/>
   <unicode hex="011E"/>
   <outline>
     <contour>
       <point x="461" y="723" type="move" name="top"/>
     </contour>
+    <component base="G"/>
+    <component base="breve" xOffset="234" yOffset="215"/>
   </outline>
 </glyph>

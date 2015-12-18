@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dvN_D_VA" format="1">
-  <advance width="966"/>
+  <advance width="985"/>
   <outline>
     <contour>
-      <point x="891" y="662" type="move" name="abvm.bindu"/>
+      <point x="807" y="618" type="move" name="abvm.bindu"/>
     </contour>
     <contour>
       <point x="756" y="-275" type="move" name="blwm.virama"/>
     </contour>
     <contour>
-      <point x="891" y="672" type="move" name="abvm.e"/>
+      <point x="801" y="619" type="move" name="abvm.e"/>
     </contour>
     <contour>
       <point x="756" y="-265" type="move" name="blwm.u"/>

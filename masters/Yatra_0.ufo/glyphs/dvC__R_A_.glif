@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dvC_RA" format="1">
-  <advance width="738"/>
+  <advance width="756"/>
   <outline>
+    <contour>
+      <point x="591" y="141" type="line"/>
+      <point x="560" y="91"/>
+      <point x="513" y="4"/>
+      <point x="411" y="-77" type="curve"/>
+      <point x="327" y="-11" type="line"/>
+      <point x="416" y="55"/>
+      <point x="498" y="117"/>
+      <point x="560" y="190" type="curve"/>
+    </contour>
+    <component base="dvCA"/>
   </outline>
 </glyph>

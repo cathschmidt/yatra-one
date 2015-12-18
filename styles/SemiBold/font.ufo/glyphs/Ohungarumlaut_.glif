@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ohungarumlaut" format="1">
-  <advance width="619"/>
+  <advance width="823"/>
   <unicode hex="0150"/>
   <outline>
     <contour>
       <point x="454" y="743" type="move" name="top"/>
     </contour>
+    <component base="hungarumlaut" xOffset="272" yOffset="211"/>
+    <component base="O"/>
   </outline>
 </glyph>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="rupee" format="1">
-  <advance width="1048"/>
+  <advance width="1147"/>
   <unicode hex="20A8"/>
   <outline>
-    <component base="R" xOffset="-80"/>
-    <component base="s" xOffset="1209"/>
+    <component base="R" xOffset="-44"/>
+    <component base="s" xOffset="595"/>
   </outline>
 </glyph>

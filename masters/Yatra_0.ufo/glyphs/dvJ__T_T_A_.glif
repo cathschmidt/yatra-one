@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dvJ_TTA" format="1">
-  <advance width="1111"/>
+  <advance width="1122"/>
   <outline>
     <contour>
       <point x="799" y="0" type="move" name="blwm.virama"/>
@@ -15,6 +15,6 @@
       <point x="988" y="672" type="move" name="abvm.e"/>
     </contour>
     <component base="dvJ"/>
-    <component base="dvTTA" xOffset="488"/>
+    <component base="dvTTA" xOffset="548"/>
   </outline>
 </glyph>

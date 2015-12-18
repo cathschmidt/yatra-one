@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Abreve" format="1">
-  <advance width="631"/>
+  <advance width="657"/>
   <unicode hex="0102"/>
   <outline>
     <contour>
@@ -9,5 +9,7 @@
     <contour>
       <point x="397" y="8" type="move" name="ogonek"/>
     </contour>
+    <component base="A"/>
+    <component base="breve" xOffset="133" yOffset="166"/>
   </outline>
 </glyph>

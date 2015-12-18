@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="dvCandrabindu">
+  <advance width="0" />
+  <outline>
+    <contour>
+      <point type="line" x="-247" y="798" />
+      <point x="-247" y="798" />
+      <point x="-135" y="662" />
+      <point type="curve" x="-72" y="661" />
+      <point x="37" y="660" />
+      <point x="140" y="772" />
+      <point type="curve" x="140" y="772" />
+      <point type="line" x="81" y="834" />
+      <point x="81" y="834" />
+      <point x="-21" y="725" />
+      <point type="curve" x="-84" y="724" />
+      <point x="-122" y="724" />
+      <point x="-222" y="823" />
+      <point type="curve" x="-222" y="823" />
+    </contour>
+    <contour>
+      <point type="curve" x="-66" y="795" />
+      <point x="-24" y="817" />
+      <point x="2" y="847" />
+      <point type="curve" x="11" y="872" />
+      <point x="2" y="891" />
+      <point x="-20" y="926" />
+      <point type="curve" x="-68" y="947" />
+      <point x="-89" y="942" />
+      <point x="-143" y="897" />
+      <point type="curve" x="-146" y="873" />
+      <point x="-128" y="836" />
+      <point x="-96" y="809" />
+    </contour>
+  </outline>
+</glyph>

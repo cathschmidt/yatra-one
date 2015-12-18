@@ -2,6 +2,6 @@
 <glyph name="dvNG_R" format="1">
   <advance width="687"/>
   <outline>
-    <component base="dvVirama" xOffset="317" yOffset="-196"/>
+    <component base="dvVirama" xOffset="289" yOffset="-196"/>
   </outline>
 </glyph>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="cacute" format="1">
-  <advance width="493"/>
+  <advance width="535"/>
   <unicode hex="0107"/>
   <outline>
     <contour>
@@ -9,5 +9,7 @@
     <contour>
       <point x="290" y="507" type="move" name="top"/>
     </contour>
+    <component base="c"/>
+    <component base="acute" xOffset="74"/>
   </outline>
 </glyph>

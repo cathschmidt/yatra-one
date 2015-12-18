@@ -1,23 +1,29 @@
-# Created: Tue Dec  8 16:06:56 2015
+# Created: Fri Dec 18 14:24:00 2015
 # PS Name: SomeDevanagari-SemiBold
 # MM Inst: None
 # exported from noApp
 
-@mGC_abvm.bindu_n82_662 = [dvmEcandra dvAnusvara dvCandrabindu];
-@mGC_abvm.e_n82_672 = [dvReph_Anusvara dvmE_Anusvara dvmE_Reph dvmAI_Anusvara dvmAI_Reph dvmAI_Reph_Anusvara];
-@mGC_abvm.i_n82_587 = [dvReph.amI dvReph_Anusvara.amI];
-@mGC_blwm.virama_n139_n10 = [dvmvR dvmvRR dvVirama];
+@mGC_abvm.bindu_n82_662 = [dvmEcandra dvCandrabindu];
 
 markClass @mGC_abvm.bindu_n82_662 <anchor -82 662> @MC_abvm.bindu;
-markClass @mGC_abvm.e_n82_672 <anchor -82 672> @MC_abvm.e;
-markClass @mGC_abvm.i_n82_587 <anchor -82 587> @MC_abvm.i;
-markClass @mGC_blwm.virama_n139_n10 <anchor -139 -10> @MC_blwm.virama;
-markClass dvAnusvara.amI <anchor -106 587> @MC_abvm.i;
-markClass dvReph <anchor -78 615> @MC_abvm.e;
-markClass dvmAI <anchor -98 612> @MC_abvm.e;
+markClass dvAnusvara <anchor -97 625> @MC_abvm.bindu;
+markClass dvAnusvara.amI <anchor -100 619> @MC_abvm.i;
+markClass dvReph <anchor -101 615> @MC_abvm.e;
+markClass dvReph.amI <anchor -69 615> @MC_abvm.i;
+markClass dvReph_Anusvara <anchor -103 615> @MC_abvm.e;
+markClass dvReph_Anusvara.amI <anchor -71 615> @MC_abvm.i;
+markClass dvVirama <anchor -184 -10> @MC_blwm.virama;
+markClass dvmAI <anchor -133 613> @MC_abvm.e;
+markClass dvmAI_Anusvara <anchor -132 614> @MC_abvm.e;
+markClass dvmAI_Reph <anchor -134 614> @MC_abvm.e;
+markClass dvmAI_Reph_Anusvara <anchor -121 614> @MC_abvm.e;
 markClass dvmE <anchor -166 616> @MC_abvm.e;
-markClass dvmE_Reph_Anusvara <anchor -146 672> @MC_abvm.e;
+markClass dvmE_Anusvara <anchor -145 616> @MC_abvm.e;
+markClass dvmE_Reph <anchor -68 615> @MC_abvm.e;
+markClass dvmE_Reph_Anusvara <anchor -138 616> @MC_abvm.e;
 markClass dvmU <anchor -130 0> @MC_blwm.u;
 markClass dvmUU <anchor -163 16> @MC_blwm.u;
+markClass dvmvR <anchor -218 -10> @MC_blwm.virama;
+markClass dvmvRR <anchor -139 -10> @MC_blwm.virama;
 markClass grave <anchor 338 546> @MC_top;
 

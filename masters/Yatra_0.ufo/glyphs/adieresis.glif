@@ -9,7 +9,7 @@
     <contour>
       <point x="374" y="507" type="move" name="top"/>
     </contour>
-    <component base="a"/>
+    <component base="a" xOffset="14"/>
     <component base="dieresis" xOffset="140"/>
   </outline>
 </glyph>

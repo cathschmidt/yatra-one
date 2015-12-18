@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tcedilla" format="1">
-  <advance width="364"/>
+  <advance width="427"/>
   <unicode hex="0163"/>
   <outline>
     <contour>
       <point x="124" y="7" type="move" name="cedilla"/>
     </contour>
+    <component base="t" xOffset="18"/>
+    <component base="cedilla" xOffset="30"/>
   </outline>
 </glyph>

@@ -1,8 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dvN_DHA" format="1">
-  <advance width="1092"/>
+  <advance width="1046"/>
   <outline>
-    <component base="dvN" xOffset="6"/>
-    <component base="dvDHA" xOffset="405"/>
+    <contour>
+      <point x="563" y="308" type="line"/>
+      <point x="316" y="311" type="line"/>
+      <point x="418" y="169"/>
+      <point x="247" y="73"/>
+      <point x="202" y="111" type="curve" smooth="yes"/>
+      <point x="154" y="152"/>
+      <point x="118" y="180"/>
+      <point x="76" y="219" type="curve" smooth="yes"/>
+      <point x="16" y="275"/>
+      <point x="34" y="384"/>
+      <point x="101" y="405" type="curve" smooth="yes"/>
+      <point x="115" y="409"/>
+      <point x="177" y="406"/>
+      <point x="463" y="405" type="curve"/>
+    </contour>
+    <contour>
+      <point x="-44" y="619" type="line"/>
+      <point x="533" y="619" type="line"/>
+      <point x="503" y="523" type="line"/>
+      <point x="-44" y="523" type="line"/>
+    </contour>
+    <contour>
+      <point x="259" y="312" type="curve"/>
+      <point x="241" y="312" type="line" smooth="yes"/>
+      <point x="-21" y="315"/>
+      <point x="262" y="48"/>
+    </contour>
+    <component base="dvDHA" xOffset="361"/>
   </outline>
 </glyph>
