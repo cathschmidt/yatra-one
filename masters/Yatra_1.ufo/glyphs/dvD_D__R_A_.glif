@@ -2,6 +2,8 @@
 <glyph name="dvDD_RA" format="1">
   <advance width="542"/>
   <outline>
+    <component base="dvDDA" xOffset="-14"/>
+    <component base="dvRashtrasign" xOffset="549" yOffset="20"/>
     <contour>
       <point x="267" y="-185" type="move" name="blwm.virama"/>
     </contour>
@@ -14,7 +16,12 @@
     <contour>
       <point x="395" y="619" type="move" name="abvm.e"/>
     </contour>
-    <component base="dvDDA" xOffset="-14"/>
-    <component base="dvRashtrasign" xOffset="549" yOffset="20"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

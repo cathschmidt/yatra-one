@@ -5,4 +5,11 @@
     <component base="dvMA" xOffset="541"/>
     <component base="dvNN"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

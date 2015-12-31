@@ -5,4 +5,11 @@
     <component base="dvLLA"/>
     <component base="dvRashtrasign" xOffset="758" yOffset="104"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

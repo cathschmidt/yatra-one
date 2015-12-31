@@ -35,4 +35,11 @@
     </contour>
     <component base="dvPA" xOffset="399"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

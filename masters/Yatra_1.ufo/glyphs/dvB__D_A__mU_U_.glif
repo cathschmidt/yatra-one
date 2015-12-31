@@ -2,14 +2,21 @@
 <glyph name="dvB_DA_mUU" format="1">
   <advance width="945"/>
   <outline>
+    <component base="dvB"/>
+    <component base="dvDA" xOffset="340"/>
+    <component base="dvmUU" xOffset="794"/>
     <contour>
       <point x="769" y="619" type="move" name="abvm.bindu"/>
     </contour>
     <contour>
       <point x="754" y="619" type="move" name="abvm.e"/>
     </contour>
-    <component base="dvB"/>
-    <component base="dvDA" xOffset="340"/>
-    <component base="dvmUU" xOffset="794"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

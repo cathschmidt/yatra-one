@@ -2,10 +2,17 @@
 <glyph name="dvOcandra.init" format="1">
   <advance width="1044"/>
   <outline>
+    <component base="dvmEcandra" xOffset="986"/>
+    <component base="dvAA.init"/>
     <contour>
       <point x="894" y="766" type="move" name="abvm.bindu"/>
     </contour>
-    <component base="dvmEcandra" xOffset="986"/>
-    <component base="dvAA.init"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

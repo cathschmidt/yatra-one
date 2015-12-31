@@ -63,4 +63,11 @@
     </contour>
     <component base="dvYA" xOffset="902"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

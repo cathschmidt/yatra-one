@@ -45,4 +45,11 @@
     </contour>
     <component base="dvCA" xOffset="451"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

@@ -2,6 +2,9 @@
 <glyph name="dvKx_PHA" format="1">
   <advance width="1547"/>
   <outline>
+    <component base="dvPHA" xOffset="677"/>
+    <component base="dvK" xOffset="12"/>
+    <component base="dvNukta" xOffset="584" yOffset="75"/>
     <contour>
       <point x="1075" y="-56" type="move" name="blwm.virama"/>
     </contour>
@@ -14,8 +17,12 @@
     <contour>
       <point x="1160" y="618" type="move" name="abvm.e"/>
     </contour>
-    <component base="dvPHA" xOffset="677"/>
-    <component base="dvK" xOffset="12"/>
-    <component base="dvNukta" xOffset="584" yOffset="75"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

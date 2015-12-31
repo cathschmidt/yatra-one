@@ -5,4 +5,11 @@
     <component base="dvHA"/>
     <component base="dvVirama" xOffset="355" yOffset="-100"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

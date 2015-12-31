@@ -29,4 +29,11 @@
     <component base="dvS" xOffset="687"/>
     <component base="dvK" xOffset="14"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

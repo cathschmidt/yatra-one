@@ -6,4 +6,11 @@
     <component base="dvDDA" xOffset="-14"/>
     <component base="dvRashtrasign" xOffset="549" yOffset="20"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>
