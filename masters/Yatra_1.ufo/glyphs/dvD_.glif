@@ -3,13 +3,42 @@
   <advance width="603"/>
   <outline>
     <component base="dvDA" xOffset="3"/>
-    <component base="dvVirama" xOffset="308" yOffset="49"/>
+    <component base="dvVirama" xOffset="471" yOffset="-41"/>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>Original</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>dvD</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>603</integer>
+        </dict>
       </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>1.0</real>
+        <real>0.8424</real>
+        <real>0.6742</real>
+        <real>1.0</real>
+      </array>
     </dict>
   </lib>
 </glyph>
