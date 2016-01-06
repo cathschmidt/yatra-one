@@ -2,14 +2,43 @@
 <glyph name="dvS_DA_mUU" format="1">
   <advance width="1053"/>
   <outline>
+    <component base="dvS"/>
+    <component base="dvDA" xOffset="455"/>
+    <component base="dvmUU" xOffset="909"/>
     <contour>
       <point x="890" y="620" type="move" name="abvm.bindu"/>
     </contour>
     <contour>
       <point x="866" y="619" type="move" name="abvm.e"/>
     </contour>
-    <component base="dvS"/>
-    <component base="dvDA" xOffset="455"/>
-    <component base="dvmUU" xOffset="909"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>Original</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>dvS_DA_mUU</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1053</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

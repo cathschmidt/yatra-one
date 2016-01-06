@@ -2,6 +2,8 @@
 <glyph name="dvNY_CHA" format="1">
   <advance width="1141"/>
   <outline>
+    <component base="dvNY" xOffset="6"/>
+    <component base="dvCHA" xOffset="401"/>
     <contour>
       <point x="728" y="0" type="move" name="blwm.virama"/>
     </contour>
@@ -14,7 +16,12 @@
     <contour>
       <point x="983" y="619" type="move" name="abvm.e"/>
     </contour>
-    <component base="dvNY" xOffset="6"/>
-    <component base="dvCHA" xOffset="401"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

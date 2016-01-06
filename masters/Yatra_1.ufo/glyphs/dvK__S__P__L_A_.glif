@@ -29,4 +29,33 @@
     <component base="dvS" xOffset="687"/>
     <component base="dvK" xOffset="14"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>Original</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>dvK_S_P_LA</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>2202</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

@@ -5,4 +5,11 @@
     <component base="dvII"/>
     <component base="dvAnusvara" xScale="0.771000027657" yScale="0.771000027657" xOffset="465" yOffset="140"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

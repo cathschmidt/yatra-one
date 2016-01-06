@@ -2,6 +2,8 @@
 <glyph name="dvAcandra.init" format="1">
   <advance width="800"/>
   <outline>
+    <component base="dvA.init"/>
+    <component base="dvmEcandra" xOffset="733"/>
     <contour>
       <point x="653" y="-19" type="move" name="blwm.virama"/>
     </contour>
@@ -14,7 +16,12 @@
     <contour>
       <point x="683" y="619" type="move" name="abvm.e"/>
     </contour>
-    <component base="dvA.init"/>
-    <component base="dvmEcandra" xOffset="733"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

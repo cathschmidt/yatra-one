@@ -32,4 +32,11 @@
     </contour>
     <component base="dvBHA" xOffset="336"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>
