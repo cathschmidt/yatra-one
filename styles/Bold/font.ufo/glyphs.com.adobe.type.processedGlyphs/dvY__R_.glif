@@ -13,23 +13,22 @@
       <point x="87" y="338" />
       <point x="21" y="295" />
       <point type="curve" x="24" y="284" />
-      <point x="32" y="259" />
-      <point x="200" y="71" />
-      <point type="curve" x="322" y="71" />
-      <point x="359" y="71" />
-      <point x="394" y="88" />
-      <point type="curve" x="424" y="111" />
-      <point x="374" y="68" />
-      <point x="315" y="34" />
-      <point type="curve" x="245" y="5" />
-      <point type="line" x="329" y="-61" />
-      <point x="422" y="-7" />
-      <point x="495" y="73" />
-      <point type="curve" x="516" y="129" />
-      <point type="line" x="489" y="174" />
+      <point x="31" y="262" />
+      <point x="168" y="107" />
+      <point type="curve" x="284" y="76" />
+      <point x="248" y="49" />
+      <point x="215" y="24" />
+      <point type="curve" x="187" y="4" />
+      <point type="line" x="271" y="-62" />
+      <point x="347" y="10" />
+      <point x="439" y="111" />
+      <point type="curve" x="488" y="174" />
       <point x="497" y="184" />
       <point x="504" y="193" />
       <point type="curve" x="509" y="200" />
+      <point type="line" x="509" y="201" />
+      <point type="line" x="516" y="212" />
+      <point type="line" x="505" y="234" />
       <point type="line" x="490" y="354" />
       <point x="428" y="218" />
       <point x="269" y="96" />

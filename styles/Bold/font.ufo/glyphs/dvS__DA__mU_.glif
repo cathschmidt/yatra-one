@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dvS_DA_mU" format="1">
-  <advance width="1061"/>
+  <advance width="1101"/>
   <outline>
     <contour>
       <point x="892" y="620" type="move" name="abvm.bindu"/>
@@ -8,8 +8,7 @@
     <contour>
       <point x="874" y="618" type="move" name="abvm.e"/>
     </contour>
-    <component base="dvmU" xOffset="954"/>
-    <component base="dvDA" xOffset="460"/>
+    <component base="dvDA_mU" xOffset="459"/>
     <component base="dvS"/>
   </outline>
 </glyph>

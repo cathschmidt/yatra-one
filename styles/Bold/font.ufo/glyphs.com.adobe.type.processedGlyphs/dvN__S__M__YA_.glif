@@ -25,17 +25,17 @@
       <point x="1272" y="295" />
       <point type="curve" x="1275" y="284" />
       <point x="1276" y="281" />
-      <point x="1279" y="276" />
-      <point type="curve" x="1284" y="269" />
-      <point type="line" x="1169" y="268" />
+      <point x="1279" y="277" />
+      <point type="curve" x="1283" y="271" />
+      <point type="line" x="1169" y="270" />
     </contour>
     <contour>
-      <point type="curve" x="985" y="113" />
-      <point x="961" y="133" />
-      <point x="956" y="177" />
-      <point type="curve" x="1044" y="173" />
-      <point x="1044" y="97" />
-      <point x="1007" y="95" />
+      <point type="curve" x="982" y="115" />
+      <point x="962" y="138" />
+      <point x="978" y="184" />
+      <point type="curve" x="1044" y="176" />
+      <point x="1045" y="99" />
+      <point x="998" y="97" />
     </contour>
     <contour>
       <point type="line" x="1045" y="523" />
@@ -90,19 +90,18 @@
       <point x="742" y="181" />
       <point x="778" y="205" />
       <point type="curve" x="804" y="234" />
-      <point x="826" y="218" />
-      <point x="867" y="192" />
-      <point type="curve" x="900" y="179" />
-      <point x="897" y="158" />
-      <point x="903" y="137" />
-      <point type="curve" x="921" y="122" />
-      <point x="952" y="97" />
-      <point x="995" y="60" />
-      <point type="curve" x="1016" y="43" />
-      <point x="1042" y="21" />
-      <point x="1169" y="29" />
-      <point type="curve" x="1169" y="134" />
-      <point type="line" x="1169" y="172" />
+      <point x="825" y="219" />
+      <point x="863" y="195" />
+      <point type="curve" x="895" y="181" />
+      <point x="890" y="156" />
+      <point x="896" y="132" />
+      <point type="curve" x="907" y="119" />
+      <point x="940" y="80" />
+      <point x="991" y="41" />
+      <point type="curve" x="1013" y="26" />
+      <point x="1041" y="7" />
+      <point x="1169" y="-9" />
+      <point type="curve" x="1169" y="172" />
       <point type="line" x="1376" y="172" />
       <point type="line" x="1376" y="173" />
       <point x="1435" y="121" />

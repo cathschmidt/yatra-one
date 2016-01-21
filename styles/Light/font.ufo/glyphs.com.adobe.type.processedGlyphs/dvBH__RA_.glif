@@ -51,14 +51,14 @@
       <point x="216" y="7" />
       <point x="344" y="-9" />
       <point type="curve" x="344" y="172" />
-      <point type="line" x="493" y="172" />
-      <point x="431" y="104" />
-      <point x="340" y="42" />
-      <point type="curve" x="243" y="2" />
-      <point type="line" x="327" y="-64" />
-      <point x="394" y="-25" />
-      <point x="461" y="34" />
-      <point type="curve" x="500" y="85" />
+      <point type="line" x="494" y="172" />
+      <point x="436" y="105" />
+      <point x="381" y="58" />
+      <point type="curve" x="283" y="-3" />
+      <point type="line" x="367" y="-69" />
+      <point x="414" y="-21" />
+      <point x="466" y="34" />
+      <point type="curve" x="500" y="82" />
       <point type="line" x="500" y="0" />
       <point type="line" x="624" y="-56" />
       <point type="line" x="624" y="523" />

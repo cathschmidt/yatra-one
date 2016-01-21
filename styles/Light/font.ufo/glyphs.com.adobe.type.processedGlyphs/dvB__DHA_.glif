@@ -5,9 +5,7 @@
     <contour>
       <point type="line" x="453" y="315" />
       <point type="line" x="463" y="326" />
-      <point x="469" y="322" />
-      <point x="475" y="318" />
-      <point type="curve" x="480" y="314" />
+      <point type="line" x="480" y="314" />
       <point x="472" y="309" />
       <point x="465" y="304" />
       <point type="curve" x="458" y="299" />
@@ -64,15 +62,15 @@
       <point type="curve" x="521" y="625" />
       <point x="513" y="629" />
       <point x="496" y="627" />
-      <point type="curve" x="476" y="619" />
+      <point type="curve" x="475" y="619" />
       <point type="line" x="-5" y="619" />
       <point type="line" x="-5" y="523" />
-      <point type="line" x="357" y="523" />
-      <point x="341" y="494" />
-      <point x="337" y="461" />
-      <point type="curve" x="358" y="428" />
-      <point x="329" y="444" />
-      <point x="303" y="456" />
+      <point type="line" x="341" y="523" />
+      <point x="322" y="496" />
+      <point x="316" y="468" />
+      <point type="curve" x="333" y="441" />
+      <point x="314" y="450" />
+      <point x="299" y="457" />
       <point type="curve" x="290" y="460" />
       <point x="222" y="482" />
       <point x="12" y="348" />

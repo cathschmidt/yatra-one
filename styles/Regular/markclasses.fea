@@ -1,4 +1,4 @@
-# Created: Wed Jan 20 20:57:43 2016
+# Created: Thu Jan 21 16:36:45 2016
 # PS Name: SomeDevanagari-Regular
 # MM Inst: None
 # exported from noApp
@@ -21,7 +21,7 @@ markClass dvmE <anchor -166 616> @MC_abvm.e;
 markClass dvmE_Anusvara <anchor -145 616> @MC_abvm.e;
 markClass dvmE_Reph <anchor -68 615> @MC_abvm.e;
 markClass dvmE_Reph_Anusvara <anchor -138 616> @MC_abvm.e;
-markClass dvmU <anchor -130 0> @MC_blwm.u;
+markClass dvmU <anchor -126 0> @MC_blwm.u;
 markClass dvmUU <anchor -163 16> @MC_blwm.u;
 markClass dvmvR <anchor -218 -10> @MC_blwm.virama;
 markClass dvmvRR <anchor -139 -10> @MC_blwm.virama;

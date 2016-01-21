@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph format="1" name="dvVirama">
-  <advance width="28" />
+  <advance width="0" />
   <outline>
     <contour>
       <point type="curve" x="-266" y="-98" />

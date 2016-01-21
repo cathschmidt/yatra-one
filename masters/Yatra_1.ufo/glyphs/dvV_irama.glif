@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dvVirama" format="1">
-  <advance width="28"/>
+  <advance width="0"/>
   <outline>
     <contour>
       <point x="-184" y="-10" type="move" name="_blwm.virama"/>
