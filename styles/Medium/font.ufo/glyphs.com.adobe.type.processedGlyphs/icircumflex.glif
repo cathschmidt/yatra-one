@@ -12,12 +12,12 @@
     <contour>
       <point type="curve" x="-8" y="551" />
       <point x="1" y="554" />
-      <point x="105" y="668" />
-      <point type="curve" x="112" y="673" />
-      <point x="121" y="665" />
-      <point x="226" y="552" />
-      <point type="curve" x="240" y="551" />
-      <point x="245" y="548" />
+      <point x="105" y="656" />
+      <point type="curve" x="112" y="661" />
+      <point x="121" y="653" />
+      <point x="217" y="550" />
+      <point type="curve" x="231" y="549" />
+      <point x="236" y="546" />
       <point x="307" y="605" />
       <point type="curve" x="307" y="611" />
       <point x="308" y="618" />

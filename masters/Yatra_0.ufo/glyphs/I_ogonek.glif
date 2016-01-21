@@ -30,6 +30,6 @@
       <point x="4" y="-70"/>
       <point x="131" y="45" type="curve"/>
     </contour>
-    <component base="I"/>
+    <component base="I" xOffset="15"/>
   </outline>
 </glyph>

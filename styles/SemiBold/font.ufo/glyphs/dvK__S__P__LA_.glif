@@ -25,7 +25,7 @@
       <point x="1392" y="142"/>
       <point x="1536" y="230"/>
     </contour>
-    <component base="dvLA" xOffset="1540"/>
+    <component base="dvLA" xOffset="1499"/>
     <component base="dvS" xOffset="687"/>
     <component base="dvK" xOffset="14"/>
   </outline>

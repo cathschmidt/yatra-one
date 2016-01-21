@@ -10,6 +10,6 @@
       <point x="440" y="101" type="move" name="ogonek"/>
     </contour>
     <component base="caron" xOffset="167" yOffset="192"/>
-    <component base="E"/>
+    <component base="E" xOffset="15"/>
   </outline>
 </glyph>

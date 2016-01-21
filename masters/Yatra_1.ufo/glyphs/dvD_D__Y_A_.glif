@@ -37,11 +37,4 @@
     </contour>
     <component base="dvDDA" xOffset="-14"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

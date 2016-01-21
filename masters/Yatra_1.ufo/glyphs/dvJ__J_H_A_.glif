@@ -33,11 +33,4 @@
     </contour>
     <component base="dvJHA" xOffset="516"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

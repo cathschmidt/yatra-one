@@ -44,11 +44,4 @@
     <component base="dvNukta" xOffset="1241" yOffset="76"/>
     <component base="dvNukta" xOffset="563" yOffset="75"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

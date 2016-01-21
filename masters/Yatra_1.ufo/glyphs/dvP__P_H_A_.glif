@@ -2,8 +2,6 @@
 <glyph name="dvP_PHA" format="1">
   <advance width="1192"/>
   <outline>
-    <component base="dvP" xOffset="-10"/>
-    <component base="dvPHA" xOffset="328"/>
     <contour>
       <point x="700" y="0" type="move" name="blwm.virama"/>
     </contour>
@@ -16,12 +14,7 @@
     <contour>
       <point x="778" y="672" type="move" name="abvm.e"/>
     </contour>
+    <component base="dvP" xOffset="-10"/>
+    <component base="dvPHA" xOffset="328"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

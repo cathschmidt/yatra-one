@@ -1,4 +1,4 @@
-# Created: Fri Dec 18 14:22:58 2015
+# Created: Wed Jan 20 20:57:43 2016
 # PS Name: SomeDevanagari-Regular
 # MM Inst: None
 # exported from noApp
@@ -46,7 +46,7 @@ lookup MARK_BASE_blwm.u {
 	pos base dvD_RA <anchor 284 -194> mark @MC_blwm.u;
 	pos base dvEyelash_HA <anchor 639 -6> mark @MC_blwm.u;
 	pos base dvG_DA <anchor 640 -29> mark @MC_blwm.u;
-	pos base dvHA <anchor 240 -119> mark @MC_blwm.u;
+	pos base dvHA <anchor 268 -119> mark @MC_blwm.u;
 	pos base dvH_LA <anchor 402 -332> mark @MC_blwm.u;
 	pos base dvH_NA <anchor 392 -332> mark @MC_blwm.u;
 	pos base dvH_NNA <anchor 357 -332> mark @MC_blwm.u;
@@ -180,7 +180,7 @@ lookup MARK_BASE_blwm.virama {
 	pos base dvD_RA <anchor 284 -204> mark @MC_blwm.virama;
 	pos base dvEyelash_HA <anchor 522 -141> mark @MC_blwm.virama;
 	pos base dvG_DA <anchor 580 2> mark @MC_blwm.virama;
-	pos base dvHA <anchor 280 -141> mark @MC_blwm.virama;
+	pos base dvHA <anchor 308 -141> mark @MC_blwm.virama;
 	pos base dvH_LA <anchor 402 -322> mark @MC_blwm.virama;
 	pos base dvH_NA <anchor 392 -322> mark @MC_blwm.virama;
 	pos base dvH_NNA <anchor 357 -322> mark @MC_blwm.virama;

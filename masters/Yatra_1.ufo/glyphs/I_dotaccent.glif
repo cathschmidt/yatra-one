@@ -3,20 +3,13 @@
   <advance width="300"/>
   <unicode hex="0130"/>
   <outline>
-    <component base="I"/>
-    <component base="dotaccent" xOffset="66" yOffset="143"/>
     <contour>
       <point x="77" y="8" type="move" name="ogonek"/>
     </contour>
     <contour>
       <point x="234" y="743" type="move" name="top"/>
     </contour>
+    <component base="I" xOffset="15"/>
+    <component base="dotaccent" xOffset="66" yOffset="143"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

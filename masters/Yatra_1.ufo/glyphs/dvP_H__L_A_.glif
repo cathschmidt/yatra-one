@@ -2,36 +2,7 @@
 <glyph name="dvPH_LA" format="1">
   <advance width="1336"/>
   <outline>
-    <component base="dvLA" xOffset="677"/>
+    <component base="dvLA" xOffset="636"/>
     <component base="dvPH" xOffset="-16"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>Original</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>dvPH_LA</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>1336</integer>
-        </dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

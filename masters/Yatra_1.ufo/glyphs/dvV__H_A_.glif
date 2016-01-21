@@ -2,8 +2,6 @@
 <glyph name="dvV_HA" format="1">
   <advance width="821"/>
   <outline>
-    <component base="dvV"/>
-    <component base="dvHA" xOffset="312"/>
     <contour>
       <point x="559" y="-183" type="move" name="blwm.virama"/>
     </contour>
@@ -16,12 +14,7 @@
     <contour>
       <point x="697" y="619" type="move" name="abvm.e"/>
     </contour>
+    <component base="dvV"/>
+    <component base="dvHA" xOffset="284"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

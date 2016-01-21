@@ -9,7 +9,7 @@
     <contour>
       <point x="283" y="7" type="move" name="ogonek"/>
     </contour>
-    <component base="u"/>
+    <component base="u" xOffset="15"/>
     <component base="hungarumlaut" xOffset="107"/>
   </outline>
 </glyph>

@@ -5,11 +5,4 @@
     <component base="dvGA"/>
     <component base="dvNukta" xOffset="488" yOffset="75"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

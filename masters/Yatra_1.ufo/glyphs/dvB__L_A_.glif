@@ -40,35 +40,6 @@
       <point x="141" y="277"/>
       <point x="120" y="226"/>
     </contour>
-    <component base="dvLA" xOffset="366"/>
+    <component base="dvLA" xOffset="325"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>Original</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>dvB_LA</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>1026</integer>
-        </dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

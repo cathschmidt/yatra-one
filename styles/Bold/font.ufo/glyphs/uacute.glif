@@ -10,6 +10,6 @@
       <point x="283" y="7" type="move" name="ogonek"/>
     </contour>
     <component base="acute" xOffset="65"/>
-    <component base="u"/>
+    <component base="u" xOffset="15"/>
   </outline>
 </glyph>

@@ -2,9 +2,6 @@
 <glyph name="dvK_S_TTA" format="1">
   <advance width="1744"/>
   <outline>
-    <component base="dvTTA" xOffset="1144"/>
-    <component base="dvS" xOffset="680"/>
-    <component base="dvK" xOffset="10"/>
     <contour>
       <point x="2509" y="0" type="move" name="blwm.virama"/>
     </contour>
@@ -17,12 +14,8 @@
     <contour>
       <point x="2698" y="672" type="move" name="abvm.e"/>
     </contour>
+    <component base="dvTTA" xOffset="1144"/>
+    <component base="dvS" xOffset="680"/>
+    <component base="dvK" xOffset="10"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

@@ -45,6 +45,6 @@
       <point x="120" y="95"/>
       <point x="160" y="95"/>
     </contour>
-    <component base="dvHA" xOffset="405"/>
+    <component base="dvHA" xOffset="377"/>
   </outline>
 </glyph>

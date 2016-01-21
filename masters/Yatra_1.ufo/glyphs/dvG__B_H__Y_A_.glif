@@ -12,11 +12,4 @@
     <component base="dvBH" xOffset="327"/>
     <component base="dvYA" xOffset="744"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

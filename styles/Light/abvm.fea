@@ -1,4 +1,4 @@
-# Created: Fri Dec 18 14:22:27 2015
+# Created: Wed Jan 20 20:57:16 2016
 # PS Name: SomeDevanagari-Light
 # MM Inst: None
 # exported from noApp
@@ -59,7 +59,7 @@ lookup MARK_BASE_abvm.bindu {
 	pos base dvEyelash_HA <anchor 664 662> mark @MC_abvm.bindu;
 	pos base dvG_DA <anchor 766 619> mark @MC_abvm.bindu;
 	pos base dvG_DA_mUU <anchor 782 619> mark @MC_abvm.bindu;
-	pos base dvHA <anchor 391 619> mark @MC_abvm.bindu;
+	pos base dvHA <anchor 419 619> mark @MC_abvm.bindu;
 	pos base dvHA_mU <anchor 366 620> mark @MC_abvm.bindu;
 	pos base dvHA_mUU <anchor 377 619> mark @MC_abvm.bindu;
 	pos base dvHA_mvR <anchor 382 621> mark @MC_abvm.bindu;
@@ -228,7 +228,7 @@ lookup MARK_BASE_abvm.e {
 	pos base dvG_DA <anchor 752 619> mark @MC_abvm.e;
 	pos base dvG_DA_mU <anchor 751 619> mark @MC_abvm.e;
 	pos base dvG_DA_mUU <anchor 769 619> mark @MC_abvm.e;
-	pos base dvHA <anchor 376 619> mark @MC_abvm.e;
+	pos base dvHA <anchor 404 619> mark @MC_abvm.e;
 	pos base dvHA_mU <anchor 375 618> mark @MC_abvm.e;
 	pos base dvHA_mUU <anchor 366 619> mark @MC_abvm.e;
 	pos base dvHA_mvR <anchor 374 620> mark @MC_abvm.e;

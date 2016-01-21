@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ntilde" format="1">
-  <advance width="610"/>
+  <advance width="597"/>
   <unicode hex="00F1"/>
   <outline>
     <contour>
-      <point x="287" y="507" type="move" name="top"/>
+      <point x="225" y="507" type="move" name="top"/>
     </contour>
-    <component base="n" xOffset="62"/>
-    <component base="tilde" xOffset="91" yOffset="-10"/>
+    <component base="n"/>
+    <component base="tilde" xOffset="89" yOffset="-10"/>
   </outline>
 </glyph>

@@ -2,9 +2,6 @@
 <glyph name="dvSS_TT_RA" format="1">
   <advance width="957"/>
   <outline>
-    <component base="dvTTA" xOffset="362"/>
-    <component base="dvRashtrasign" xOffset="911" yOffset="20"/>
-    <component base="dvSS" xOffset="2"/>
     <contour>
       <point x="682" y="-201" type="move" name="blwm.virama"/>
     </contour>
@@ -17,12 +14,8 @@
     <contour>
       <point x="764" y="617" type="move" name="abvm.e"/>
     </contour>
+    <component base="dvTTA" xOffset="362"/>
+    <component base="dvRashtrasign" xOffset="911" yOffset="20"/>
+    <component base="dvSS" xOffset="2"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

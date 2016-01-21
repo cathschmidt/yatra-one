@@ -64,11 +64,4 @@
     <component base="dvMA" xOffset="615"/>
     <component base="dvNukta" xOffset="512" yOffset="55"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

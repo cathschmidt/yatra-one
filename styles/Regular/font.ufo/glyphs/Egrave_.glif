@@ -9,7 +9,7 @@
     <contour>
       <point x="440" y="101" type="move" name="ogonek"/>
     </contour>
-    <component base="E"/>
+    <component base="E" xOffset="15"/>
     <component base="grave" xOffset="3" yOffset="161"/>
   </outline>
 </glyph>

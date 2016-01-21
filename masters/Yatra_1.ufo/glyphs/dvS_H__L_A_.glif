@@ -9,35 +9,6 @@
       <point x="456" y="523" type="line"/>
     </contour>
     <component base="dvSH" xOffset="8"/>
-    <component base="dvLA" xOffset="499"/>
+    <component base="dvLA" xOffset="458"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>Original</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>dvSH_LA</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>1170</integer>
-        </dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

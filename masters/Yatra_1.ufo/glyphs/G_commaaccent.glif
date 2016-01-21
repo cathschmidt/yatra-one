@@ -6,7 +6,7 @@
     <contour>
       <point x="461" y="723" type="move" name="top"/>
     </contour>
-    <component base="G"/>
+    <component base="G" xOffset="10"/>
     <component base="comma" xOffset="293" yOffset="-177"/>
   </outline>
 </glyph>

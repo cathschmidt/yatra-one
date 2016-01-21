@@ -9,7 +9,7 @@
     <contour>
       <point x="234" y="743" type="move" name="top"/>
     </contour>
-    <component base="I"/>
+    <component base="I" xOffset="15"/>
     <component base="macron" xOffset="-47" yOffset="168"/>
   </outline>
 </glyph>

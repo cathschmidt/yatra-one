@@ -42,11 +42,4 @@
     </contour>
     <component base="dvSHA" xOffset="675"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

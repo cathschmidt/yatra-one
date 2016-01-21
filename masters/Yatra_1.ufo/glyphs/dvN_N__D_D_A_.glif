@@ -2,8 +2,6 @@
 <glyph name="dvNN_DDA" format="1">
   <advance width="1157"/>
   <outline>
-    <component base="dvNN"/>
-    <component base="dvDDA" xOffset="522"/>
     <contour>
       <point x="792" y="-3" type="move" name="blwm.virama"/>
     </contour>
@@ -16,12 +14,7 @@
     <contour>
       <point x="950" y="620" type="move" name="abvm.e"/>
     </contour>
+    <component base="dvNN"/>
+    <component base="dvDDA" xOffset="522"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

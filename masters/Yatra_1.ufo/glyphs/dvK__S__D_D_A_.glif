@@ -3,6 +3,18 @@
   <advance width="1769"/>
   <outline>
     <contour>
+      <point x="1386" y="0" type="move" name="blwm.virama"/>
+    </contour>
+    <contour>
+      <point x="1571" y="662" type="move" name="abvm.bindu"/>
+    </contour>
+    <contour>
+      <point x="1418" y="-10" type="move" name="blwm.u"/>
+    </contour>
+    <contour>
+      <point x="1584" y="672" type="move" name="abvm.e"/>
+    </contour>
+    <contour>
       <point x="681" y="619" type="line"/>
       <point x="1329" y="619" type="line"/>
       <point x="1329" y="523" type="line"/>
@@ -46,24 +58,5 @@
     </contour>
     <component base="dvDDA" xOffset="1142"/>
     <component base="dvK" xOffset="10"/>
-    <contour>
-      <point x="1386" y="0" type="move" name="blwm.virama"/>
-    </contour>
-    <contour>
-      <point x="1571" y="662" type="move" name="abvm.bindu"/>
-    </contour>
-    <contour>
-      <point x="1418" y="-10" type="move" name="blwm.u"/>
-    </contour>
-    <contour>
-      <point x="1584" y="672" type="move" name="abvm.e"/>
-    </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

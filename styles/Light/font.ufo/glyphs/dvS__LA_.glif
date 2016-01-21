@@ -44,6 +44,6 @@
       <point x="234" y="523" type="curve"/>
       <point x="-6" y="523" type="line"/>
     </contour>
-    <component base="dvLA" xOffset="479"/>
+    <component base="dvLA" xOffset="438"/>
   </outline>
 </glyph>

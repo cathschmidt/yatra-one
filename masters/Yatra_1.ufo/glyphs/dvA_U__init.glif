@@ -2,17 +2,10 @@
 <glyph name="dvAU.init" format="1">
   <advance width="1030"/>
   <outline>
-    <component base="dvmAI" xOffset="1067"/>
-    <component base="dvAA.init"/>
     <contour>
       <point x="980" y="625" type="move" name="abvm.bindu"/>
     </contour>
+    <component base="dvmAI" xOffset="1047"/>
+    <component base="dvAA.init"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

@@ -12,6 +12,6 @@
       <point x="705" y="625" type="line"/>
       <point x="622" y="680" type="line"/>
     </contour>
-    <component base="O"/>
+    <component base="O" xOffset="10"/>
   </outline>
 </glyph>

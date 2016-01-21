@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dvAA.init" format="1">
-  <advance width="1049"/>
+  <advance width="1056"/>
   <outline>
     <contour>
       <point x="488" y="490" type="curve" smooth="yes"/>
@@ -13,12 +13,12 @@
       <point x="626" y="523" type="line"/>
       <point x="533" y="523" type="line"/>
       <point x="495" y="619" type="line"/>
-      <point x="1053" y="619" type="line"/>
-      <point x="1053" y="523" type="line"/>
-      <point x="978" y="523" type="line"/>
-      <point x="978" y="-52" type="line"/>
-      <point x="854" y="4" type="line"/>
-      <point x="854" y="523" type="line"/>
+      <point x="1063" y="619" type="line"/>
+      <point x="1063" y="523" type="line"/>
+      <point x="998" y="523" type="line"/>
+      <point x="998" y="-52" type="line"/>
+      <point x="874" y="4" type="line"/>
+      <point x="874" y="523" type="line"/>
       <point x="750" y="523" type="line"/>
       <point x="750" y="-52" type="line"/>
       <point x="626" y="4" type="line"/>

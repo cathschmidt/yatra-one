@@ -11,11 +11,11 @@
       <point x="242" y="544" />
       <point x="356" y="657" />
       <point type="curve" x="356" y="657" />
-      <point type="line" x="297" y="719" />
-      <point x="297" y="719" />
-      <point x="219" y="616" />
-      <point type="curve" x="156" y="615" />
-      <point x="118" y="615" />
+      <point type="line" x="286" y="719" />
+      <point x="286" y="719" />
+      <point x="192" y="615" />
+      <point type="curve" x="146" y="617" />
+      <point x="108" y="619" />
       <point x="44" y="710" />
       <point type="curve" x="44" y="710" />
     </contour>
