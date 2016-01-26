@@ -1,45 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dvM_BH_YA" format="1">
-  <advance width="1436"/>
+  <advance width="1476"/>
   <outline>
     <contour>
       <point x="297" y="172" type="line"/>
-      <point x="297" y="134" type="line" smooth="yes"/>
-      <point x="297" y="29"/>
-      <point x="170" y="21"/>
-      <point x="144" y="43" type="curve" smooth="yes"/>
-      <point x="123" y="60"/>
-      <point x="80" y="97"/>
-      <point x="49" y="122" type="curve" smooth="yes"/>
-      <point x="-5" y="166"/>
-      <point x="52" y="268"/>
-      <point x="113" y="268" type="curve" smooth="yes"/>
-      <point x="173" y="268" type="line"/>
+      <point x="297" y="-9"/>
+      <point x="169" y="7"/>
+      <point x="141" y="26" type="curve" smooth="yes"/>
+      <point x="119" y="41"/>
+      <point x="68" y="80"/>
+      <point x="35" y="119" type="curve" smooth="yes"/>
+      <point x="4" y="156"/>
+      <point x="15" y="280"/>
+      <point x="173" y="273" type="curve"/>
       <point x="173" y="523" type="line"/>
       <point x="-7" y="523" type="line"/>
       <point x="-7" y="619" type="line"/>
-      <point x="458" y="619" type="line"/>
-      <point x="458" y="523" type="line"/>
+      <point x="523" y="619" type="line"/>
+      <point x="523" y="523" type="line"/>
       <point x="297" y="523" type="line"/>
-      <point x="297" y="267" type="line"/>
-      <point x="504" y="268" type="line"/>
-      <point x="504" y="172" type="line"/>
+      <point x="297" y="270" type="line"/>
+      <point x="564" y="271" type="line"/>
+      <point x="544" y="172" type="line"/>
     </contour>
     <contour>
-      <point x="682" y="619" type="line"/>
-      <point x="1009" y="619" type="line"/>
-      <point x="1009" y="523" type="line"/>
-      <point x="721" y="523" type="line"/>
+      <point x="172" y="176" type="curve"/>
+      <point x="106" y="184"/>
+      <point x="90" y="138"/>
+      <point x="110" y="115" type="curve" smooth="yes"/>
+      <point x="126" y="97"/>
+      <point x="173" y="99"/>
     </contour>
-    <contour>
-      <point x="172" y="173" type="curve"/>
-      <point x="89" y="177"/>
-      <point x="88" y="138"/>
-      <point x="109" y="117" type="curve" smooth="yes"/>
-      <point x="130" y="96"/>
-      <point x="173" y="93"/>
-    </contour>
-    <component base="dvBH" xOffset="337"/>
-    <component base="dvYA" xOffset="760"/>
+    <component base="dvBH" xOffset="377"/>
+    <component base="dvYA" xOffset="800"/>
   </outline>
 </glyph>

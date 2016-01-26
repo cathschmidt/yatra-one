@@ -34,8 +34,9 @@
       <point x="420" y="-10" />
       <point x="511" y="82" />
       <point type="curve" x="532" y="138" />
-      <point type="line" x="504" y="184" />
-      <point type="line" x="504" y="271" />
+      <point type="line" x="511" y="172" />
+      <point type="line" x="544" y="172" />
+      <point type="line" x="544" y="271" />
       <point type="line" x="297" y="270" />
       <point type="line" x="297" y="523" />
     </contour>

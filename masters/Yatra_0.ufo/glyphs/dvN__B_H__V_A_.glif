@@ -25,12 +25,6 @@
       <point x="-24" y="523" type="line"/>
     </contour>
     <contour>
-      <point x="719" y="619" type="line"/>
-      <point x="1046" y="619" type="line"/>
-      <point x="1046" y="523" type="line"/>
-      <point x="758" y="523" type="line"/>
-    </contour>
-    <contour>
       <point x="279" y="312" type="curve"/>
       <point x="261" y="312" type="line" smooth="yes"/>
       <point x="-1" y="315"/>

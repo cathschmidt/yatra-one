@@ -2,7 +2,7 @@
 <glyph name="dvD" format="1">
   <advance width="603"/>
   <outline>
-    <component base="dvVirama" xOffset="308" yOffset="49"/>
+    <component base="dvVirama" xOffset="456" yOffset="-1"/>
     <component base="dvDA" xOffset="3"/>
   </outline>
 </glyph>

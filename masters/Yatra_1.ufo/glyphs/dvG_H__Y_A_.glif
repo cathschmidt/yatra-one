@@ -7,11 +7,11 @@
       <point x="290" y="310"/>
       <point x="157" y="229"/>
       <point x="220" y="169" type="curve" smooth="yes"/>
-      <point x="278" y="114"/>
-      <point x="467" y="214"/>
-      <point x="511" y="337" type="curve"/>
-      <point x="577" y="251" type="line"/>
-      <point x="498" y="89"/>
+      <point x="268" y="124"/>
+      <point x="415" y="175"/>
+      <point x="487" y="267" type="curve"/>
+      <point x="558" y="206" type="line"/>
+      <point x="462" y="52"/>
       <point x="294" y="37"/>
       <point x="236" y="92" type="curve" smooth="yes"/>
       <point x="177" y="148"/>

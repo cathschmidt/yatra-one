@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dvM_VA" format="1">
-  <advance width="970"/>
+  <advance width="986"/>
   <outline>
-    <component base="dvM" xOffset="-4"/>
-    <component base="dvVA" xOffset="381"/>
+    <component base="dvM" xOffset="-6"/>
+    <component base="dvVA" xOffset="397"/>
   </outline>
 </glyph>

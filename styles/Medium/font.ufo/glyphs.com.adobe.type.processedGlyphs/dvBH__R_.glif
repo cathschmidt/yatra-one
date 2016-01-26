@@ -22,8 +22,6 @@
       <point x="173" y="97" />
     </contour>
     <contour>
-      <point type="line" x="551" y="271" />
-      <point type="line" x="344" y="270" />
       <point type="line" x="344" y="391" />
       <point type="line" x="346" y="467" />
       <point x="308" y="510" />
@@ -57,7 +55,15 @@
       <point x="511" y="82" />
       <point type="curve" x="532" y="138" />
       <point type="line" x="511" y="172" />
-      <point type="line" x="551" y="172" />
+      <point type="line" x="562" y="172" />
+      <point type="line" x="562" y="271" />
+      <point type="line" x="344" y="270" />
+    </contour>
+    <contour>
+      <point type="line" x="318" y="619" />
+      <point type="line" x="356" y="523" />
+      <point type="line" x="699" y="523" />
+      <point type="line" x="699" y="619" />
     </contour>
   </outline>
 </glyph>

@@ -25,21 +25,11 @@
       <point x="-35" y="523" type="line"/>
     </contour>
     <contour>
-      <point x="923" y="154" type="line"/>
-      <point x="902" y="98"/>
-      <point x="816" y="2"/>
-      <point x="743" y="-64" type="curve"/>
-      <point x="659" y="2" type="line"/>
-      <point x="748" y="68"/>
-      <point x="830" y="130"/>
-      <point x="892" y="203" type="curve"/>
-    </contour>
-    <contour>
       <point x="268" y="312" type="curve"/>
       <point x="250" y="312" type="line" smooth="yes"/>
       <point x="-12" y="315"/>
       <point x="271" y="48"/>
     </contour>
-    <component base="dvDHA" xOffset="384"/>
+    <component base="dvDH_RA" xOffset="392"/>
   </outline>
 </glyph>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dvV_LA" format="1">
-  <advance width="1002"/>
+  <advance width="1020"/>
   <outline>
-    <component base="dvV" xOffset="-4"/>
-    <component base="dvLA" xOffset="287"/>
+    <component base="dvV" xOffset="-6"/>
+    <component base="dvLA" xOffset="305"/>
   </outline>
 </glyph>

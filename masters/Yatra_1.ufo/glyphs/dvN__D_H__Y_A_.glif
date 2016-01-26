@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dvN_DH_YA" format="1">
-  <advance width="1485"/>
+  <advance width="1515"/>
   <outline>
     <contour>
       <point x="599" y="308" type="line"/>
@@ -30,5 +30,7 @@
       <point x="14" y="315"/>
       <point x="298" y="48"/>
     </contour>
+    <component base="dvDH" xOffset="418"/>
+    <component base="dvYA" xOffset="839"/>
   </outline>
 </glyph>

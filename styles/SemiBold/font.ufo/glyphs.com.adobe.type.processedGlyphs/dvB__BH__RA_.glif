@@ -92,13 +92,13 @@
       <point x="638" y="-9" />
       <point type="curve" x="638" y="172" />
       <point type="line" x="787" y="172" />
-      <point x="725" y="104" />
-      <point x="634" y="42" />
-      <point type="curve" x="537" y="2" />
-      <point type="line" x="621" y="-64" />
-      <point x="688" y="-25" />
-      <point x="755" y="34" />
-      <point type="curve" x="794" y="85" />
+      <point x="729" y="105" />
+      <point x="674" y="58" />
+      <point type="curve" x="576" y="-3" />
+      <point type="line" x="660" y="-69" />
+      <point x="707" y="-20" />
+      <point x="760" y="35" />
+      <point type="curve" x="794" y="83" />
       <point type="line" x="794" y="0" />
       <point type="line" x="918" y="-56" />
       <point type="line" x="918" y="523" />

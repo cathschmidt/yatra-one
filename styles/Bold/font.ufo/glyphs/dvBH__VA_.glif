@@ -2,12 +2,6 @@
 <glyph name="dvBH_VA" format="1">
   <advance width="1031"/>
   <outline>
-    <contour>
-      <point x="378" y="619" type="line"/>
-      <point x="759" y="619" type="line"/>
-      <point x="759" y="523" type="line"/>
-      <point x="416" y="523" type="line"/>
-    </contour>
     <component base="dvBH" xOffset="4"/>
     <component base="dvVA" xOffset="442"/>
   </outline>

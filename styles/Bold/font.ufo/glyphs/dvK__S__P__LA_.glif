@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dvK_S_P_LA" format="1">
-  <advance width="2202"/>
+  <advance width="2250"/>
   <outline>
     <contour>
       <point x="1577" y="325" type="curve"/>
@@ -25,7 +25,7 @@
       <point x="1392" y="142"/>
       <point x="1536" y="230"/>
     </contour>
-    <component base="dvLA" xOffset="1499"/>
+    <component base="dvLA" xOffset="1530"/>
     <component base="dvS" xOffset="687"/>
     <component base="dvK" xOffset="14"/>
   </outline>

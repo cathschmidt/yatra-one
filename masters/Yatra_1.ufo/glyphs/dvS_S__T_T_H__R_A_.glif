@@ -3,7 +3,7 @@
   <advance width="993"/>
   <outline>
     <contour>
-      <point x="619" y="-242" type="move" name="blwm.virama"/>
+      <point x="820" y="-162" type="move" name="blwm.virama"/>
     </contour>
     <contour>
       <point x="788" y="614" type="move" name="abvm.bindu"/>

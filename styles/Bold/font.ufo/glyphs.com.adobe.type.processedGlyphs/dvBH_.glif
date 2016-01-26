@@ -22,8 +22,14 @@
       <point x="220" y="472" />
     </contour>
     <contour>
-      <point type="line" x="551" y="172" />
-      <point type="line" x="551" y="271" />
+      <point type="line" x="356" y="523" />
+      <point type="line" x="699" y="523" />
+      <point type="line" x="699" y="619" />
+      <point type="line" x="318" y="619" />
+    </contour>
+    <contour>
+      <point type="line" x="562" y="172" />
+      <point type="line" x="562" y="271" />
       <point type="line" x="344" y="270" />
       <point type="line" x="344" y="391" />
       <point type="line" x="346" y="467" />
