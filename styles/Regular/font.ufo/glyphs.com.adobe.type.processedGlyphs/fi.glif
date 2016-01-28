@@ -4,8 +4,6 @@
   <unicode hex="FB01" />
   <outline>
     <contour>
-      <point type="line" x="606" y="450" />
-      <point type="line" x="483" y="477" />
       <point type="line" x="483" y="478" />
       <point type="line" x="261" y="478" />
       <point x="263" y="571" />
@@ -24,7 +22,7 @@
       <point x="491" y="646" />
       <point type="curve" x="474" y="625" />
       <point x="434" y="658" />
-      <point x="380" y="689" />
+      <point x="381" y="689" />
       <point type="curve" x="354" y="704" />
       <point x="290" y="740" />
       <point x="140" y="626" />
@@ -37,10 +35,11 @@
       <point x="140" y="176" />
       <point type="curve" x="141" y="-1" />
       <point type="line" x="266" y="-29" />
-      <point type="line" x="261" y="408" />
+      <point type="line" x="262" y="408" />
       <point type="line" x="481" y="408" />
       <point type="line" x="481" y="-1" />
       <point type="line" x="606" y="-29" />
+      <point type="line" x="606" y="450" />
     </contour>
   </outline>
 </glyph>

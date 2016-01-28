@@ -1,52 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dvEyelash_YA" format="1">
-  <advance width="860"/>
+  <advance width="932"/>
   <outline>
-    <contour>
-      <point x="-16" y="619" type="line"/>
-      <point x="884" y="619" type="line"/>
-      <point x="884" y="523" type="line"/>
-      <point x="808" y="523" type="line"/>
-      <point x="808" y="-55" type="line"/>
-      <point x="684" y="1" type="line"/>
-      <point x="684" y="167" type="line"/>
-      <point x="647" y="124"/>
-      <point x="589" y="71"/>
-      <point x="523" y="71" type="curve" smooth="yes"/>
-      <point x="405" y="71"/>
-      <point x="245" y="245"/>
-      <point x="227" y="280" type="curve"/>
-      <point x="145" y="302"/>
-      <point x="86" y="369"/>
-      <point x="14" y="452" type="curve"/>
-      <point x="46" y="478" type="line"/>
-      <point x="164" y="342"/>
-      <point x="272" y="329"/>
-      <point x="336" y="383" type="curve" smooth="yes"/>
-      <point x="343" y="389"/>
-      <point x="349" y="396"/>
-      <point x="354" y="402" type="curve" smooth="yes"/>
-      <point x="362" y="411"/>
-      <point x="369" y="423"/>
-      <point x="375" y="435" type="curve" smooth="yes"/>
-      <point x="410" y="508"/>
-      <point x="356" y="569"/>
-      <point x="187" y="472" type="curve"/>
-      <point x="129" y="523" type="line"/>
-      <point x="-16" y="523" type="line"/>
-    </contour>
-    <contour>
-      <point x="496" y="426" type="curve" smooth="yes"/>
-      <point x="501" y="364"/>
-      <point x="428" y="309"/>
-      <point x="340" y="231" type="curve"/>
-      <point x="465" y="101"/>
-      <point x="617" y="209"/>
-      <point x="684" y="339" type="curve"/>
-      <point x="684" y="523" type="line"/>
-      <point x="431" y="523" type="line"/>
-      <point x="468" y="492"/>
-      <point x="493" y="455"/>
-    </contour>
+    <component base="dvYA" xOffset="255"/>
+    <component base="dvEyelash" xOffset="-3"/>
   </outline>
 </glyph>

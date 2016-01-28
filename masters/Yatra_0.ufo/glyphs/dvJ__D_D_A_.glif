@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dvJ_DDA" format="1">
-  <advance width="1149"/>
+  <advance width="1193"/>
   <outline>
     <contour>
-      <point x="774" y="0" type="move" name="blwm.virama"/>
+      <point x="811" y="0" type="move" name="blwm.virama"/>
     </contour>
     <contour>
-      <point x="959" y="662" type="move" name="abvm.bindu"/>
+      <point x="989" y="619" type="move" name="abvm.bindu"/>
     </contour>
     <contour>
-      <point x="806" y="-10" type="move" name="blwm.u"/>
+      <point x="843" y="-10" type="move" name="blwm.u"/>
     </contour>
     <contour>
-      <point x="972" y="672" type="move" name="abvm.e"/>
+      <point x="979" y="619" type="move" name="abvm.e"/>
     </contour>
-    <component base="dvDDA" xOffset="530"/>
-    <component base="dvJ" xOffset="-15"/>
+    <component base="dvDDA" xOffset="567"/>
+    <component base="dvJ" xOffset="-8"/>
   </outline>
 </glyph>

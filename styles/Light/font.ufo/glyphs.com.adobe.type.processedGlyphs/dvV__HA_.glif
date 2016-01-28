@@ -62,10 +62,10 @@
       <point x="673" y="308" />
       <point type="curve" x="620" y="309" />
       <point x="589" y="310" />
-      <point x="527" y="281" />
+      <point x="527" y="282" />
       <point type="curve" x="468" y="243" />
       <point x="407" y="283" />
-      <point x="432" y="381" />
+      <point x="433" y="381" />
       <point type="curve" x="513" y="381" />
     </contour>
   </outline>

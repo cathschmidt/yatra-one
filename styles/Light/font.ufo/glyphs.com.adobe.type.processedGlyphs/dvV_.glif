@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph format="1" name="dvV">
-  <advance width="392" />
+  <advance width="382" />
   <outline>
     <contour>
       <point type="line" x="-7" y="523" />
-      <point type="line" x="439" y="523" />
-      <point type="line" x="439" y="619" />
+      <point type="line" x="479" y="523" />
+      <point type="line" x="479" y="619" />
       <point type="line" x="-7" y="619" />
     </contour>
     <contour>

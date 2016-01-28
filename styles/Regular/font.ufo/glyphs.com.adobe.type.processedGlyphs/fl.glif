@@ -4,22 +4,6 @@
   <unicode hex="FB02" />
   <outline>
     <contour>
-      <point type="line" x="95" y="408" />
-      <point type="line" x="169" y="408" />
-      <point x="169" y="287" />
-      <point x="169" y="176" />
-      <point type="curve" x="170" y="-1" />
-      <point type="line" x="295" y="-29" />
-      <point type="line" x="290" y="408" />
-      <point type="line" x="422" y="408" />
-      <point type="line" x="392" y="478" />
-      <point type="line" x="290" y="478" />
-      <point x="292" y="571" />
-      <point x="320" y="679" />
-      <point type="curve" x="520" y="632" />
-      <point type="line" x="520" y="-1" />
-      <point type="line" x="645" y="-29" />
-      <point type="line" x="645" y="651" />
       <point type="line" x="520" y="679" />
       <point x="468" y="692" />
       <point x="410" y="707" />
@@ -29,6 +13,22 @@
       <point type="curve" x="169" y="565" />
       <point type="line" x="169" y="478" />
       <point type="line" x="65" y="478" />
+      <point type="line" x="95" y="408" />
+      <point type="line" x="169" y="408" />
+      <point x="169" y="287" />
+      <point x="169" y="176" />
+      <point type="curve" x="170" y="-1" />
+      <point type="line" x="295" y="-29" />
+      <point type="line" x="291" y="408" />
+      <point type="line" x="422" y="408" />
+      <point type="line" x="392" y="478" />
+      <point type="line" x="290" y="478" />
+      <point x="292" y="571" />
+      <point x="320" y="679" />
+      <point type="curve" x="520" y="632" />
+      <point type="line" x="520" y="-1" />
+      <point type="line" x="645" y="-29" />
+      <point type="line" x="645" y="651" />
     </contour>
   </outline>
 </glyph>

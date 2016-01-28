@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dvV" format="1">
-  <advance width="392"/>
+  <advance width="382"/>
   <outline>
     <contour>
       <point x="422" y="314" type="line"/>
@@ -26,8 +26,8 @@
     </contour>
     <contour>
       <point x="-7" y="619" type="line"/>
-      <point x="439" y="619" type="line"/>
-      <point x="439" y="523" type="line"/>
+      <point x="479" y="619" type="line"/>
+      <point x="479" y="523" type="line"/>
       <point x="-7" y="523" type="line"/>
     </contour>
   </outline>

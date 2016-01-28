@@ -336,6 +336,8 @@
 	<string>dvA_.glif</string>
 	<key>dvA.init</key>
 	<string>dvA_.init.glif</string>
+	<key>dvA.short</key>
+	<string>dvA_.short.glif</string>
 	<key>dvAA</key>
 	<string>dvAA_.glif</string>
 	<key>dvAA.init</key>
@@ -888,6 +890,8 @@
 	<string>dvL_.glif</string>
 	<key>dvLA</key>
 	<string>dvLA_.glif</string>
+	<key>dvLA.marathi</key>
+	<string>dvLA_.marathi.glif</string>
 	<key>dvLL</key>
 	<string>dvLL_.glif</string>
 	<key>dvLLA</key>
@@ -898,6 +902,8 @@
 	<string>dvLL__RA_.glif</string>
 	<key>dvLL_YA</key>
 	<string>dvLL__YA_.glif</string>
+	<key>dvLLxA</key>
+	<string>dvLLxA_.glif</string>
 	<key>dvL_BA</key>
 	<string>dvL__BA_.glif</string>
 	<key>dvL_BHA</key>
@@ -1150,6 +1156,8 @@
 	<string>dvNine_.glif</string>
 	<key>dvNukta</key>
 	<string>dvNukta_.glif</string>
+	<key>dvNxA</key>
+	<string>dvNxA_.glif</string>
 	<key>dvO</key>
 	<string>dvO_.glif</string>
 	<key>dvO.init</key>
@@ -1264,6 +1272,8 @@
 	<string>dvSH_.glif</string>
 	<key>dvSHA</key>
 	<string>dvSHA_.glif</string>
+	<key>dvSHA.marathi</key>
+	<string>dvSHA_.marathi.glif</string>
 	<key>dvSHA_mvR</key>
 	<string>dvSHA__mvR_.glif</string>
 	<key>dvSH_CA</key>
@@ -1570,6 +1580,8 @@
 	<string>dvmAU__Reph__Anusvara_.glif</string>
 	<key>dvmE</key>
 	<string>dvmE_.glif</string>
+	<key>dvmE.short</key>
+	<string>dvmE_.short.glif</string>
 	<key>dvmE_Anusvara</key>
 	<string>dvmE__Anusvara_.glif</string>
 	<key>dvmE_Reph</key>

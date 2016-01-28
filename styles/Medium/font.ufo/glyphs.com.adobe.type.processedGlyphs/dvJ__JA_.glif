@@ -35,7 +35,7 @@
       <point x="345" y="10" />
       <point x="580" y="112" />
       <point type="curve" x="546" y="216" />
-      <point x="540" y="233" />
+      <point x="541" y="234" />
       <point x="510" y="272" />
       <point type="curve" x="473" y="305" />
       <point type="line" x="599" y="305" />
@@ -45,7 +45,7 @@
       <point x="879" y="10" />
       <point x="1114" y="112" />
       <point type="curve" x="1080" y="216" />
-      <point x="1074" y="233" />
+      <point x="1075" y="234" />
       <point x="1044" y="272" />
       <point type="curve" x="1007" y="305" />
       <point type="line" x="1154" y="305" />

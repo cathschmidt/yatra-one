@@ -18,6 +18,9 @@
   dvDD_RA
   dvT_RA
   dvTT_TTA
+  dvTTH_TTHA
+  dvDD_DDA
+  dvDD_VA
   dvD_DA
   dvD_BA
   dvD_B_RA
@@ -50,11 +53,10 @@
   dvSS_RA
   dvH_RA
   dvTT_TTHA
-  dvTTH_TTHA
+  dvTT_VA
   dvTTH_VA
-  dvDD_DDA
   dvDD_DDHA
-  dvDD_VA
+  dvDDH_DDHA
   dvT_NA
   dvD_GA
   dvD_G_RA
@@ -78,7 +80,6 @@
   dvBHA
   dvMA
   dvYA
-  dvSHA
   dvGxA
   dvG_RA
   dvGH_RA
@@ -96,8 +97,6 @@
   dvK_NA
   dvG_NA
   dvGH_NA
-  dvTT_VA
-  dvDDH_DDHA
   dvDDH_VA
   dvTH_NA
   dvD_GHA
@@ -118,6 +117,7 @@
   dvCHA
   dvJHA
   dvLA
+  dvSHA
   dvSA
   dvK_SSA
   dvJ_NYA
@@ -153,7 +153,6 @@
   dvJx_RA
   dvKH_NA
   dvBH_NA
-  dvEyelash_YA
   dvV_HA
   dvS_NA
 ];
@@ -184,6 +183,7 @@
   dvP_PA
   dvP_VA
   dvM_HA
+  dvEyelash_YA
   dvV_YA
   dvSS_TT_RA
   dvSS_TTHA
@@ -226,13 +226,11 @@
   dvM_B_RA
   dvM_MA
   dvM_VA
-  dvL_KA
-  dvL_TTA
   dvL_TTHA
+  dvL_DDA
   dvL_DDHA
   dvL_DA
   dvL_D_RA
-  dvL_VA
   dvL_HA
   dvSH_CA
   dvSS_KA
@@ -270,9 +268,11 @@
   dvM_BHA
   dvM_BH_RA
   dvY_YA
-  dvL_DDA
+  dvL_KA
+  dvL_TTA
   dvL_PA
   dvL_BA
+  dvL_VA
   dvV_LA
   dvSH_KxA
   dvSH_TTA
@@ -291,7 +291,6 @@
   dvG_LA
   dvGH_MA
   dvGH_YA
-  dvJ_BA
   dvNN_TTA
   dvNN_TTHA
   dvT_K_SSA
@@ -326,9 +325,8 @@
   dvG_JA
   dvG_SA
   dvC_CH_VA
-  dvJ_KA
   dvJ_DDA
-  dvJ_DA
+  dvJ_BA
   dvJ_VA
   dvNY_CHA
   dvNN_DDA
@@ -360,11 +358,11 @@
   dvK_SS_MA
   dvC_CHA
   dvC_YA
+  dvJ_KA
   dvJ_J_VA
   dvJ_NY_YA
   dvJ_TTA
-  dvJ_TA
-  dvJ_YA
+  dvJ_DA
   dvJH_YA
   dvTT_YA
   dvDD_YA
@@ -373,7 +371,6 @@
   dvB_JA
   dvB_JxA
   dvL_MA
-  dvL_LA
   dvL_SA
   dvSH_MA
   dvSH_LA
@@ -389,8 +386,9 @@
   dvKHx_VA
   dvC_MA
   dvCH_YA
+  dvJ_TA
   dvJ_MA
-  dvJx_YA
+  dvJ_YA
   dvJH_MA
   dvNY_CA
   dvTTH_YA
@@ -400,6 +398,7 @@
   dvN_SA
   dvPH_TTA
   dvPH_PA
+  dvL_LA
   dvS_SA
 ];
 
@@ -414,15 +413,13 @@
   dvKHx_YA
   dvC_CA
   dvJ_J_NYA
-  dvJ_JHA
+  dvJx_YA
   dvNY_SHA
   dvT_KH_RA
   dvPH_TA
   dvPHx_TA
   dvL_KHA
   dvL_JA
-  dvL_JxA
-  dvL_V_DDA
   dvSS_K_RA
 ];
 
@@ -439,6 +436,7 @@
   dvPH_PHA
   dvPHx_PHxA
   dvB_DH_VA
+  dvL_JxA
   dvS_JA
 ];
 
@@ -450,12 +448,13 @@
   dvKHx_SA
   dvCH_R_YA
   dvJ_JA
+  dvJ_JHA
   dvNY_JA
-  dvT_M_YA
   dvP_T_YA
   dvPH_YA
   dvPH_LA
   dvPH_SHA
+  dvL_V_DDA
   dvS_KHA
   dvLL_YA
 ];
@@ -466,6 +465,7 @@
   dvK_LA
   dvK_SA
   dvG_DH_YA
+  dvT_M_YA
   dvN_TH_VA
   dvN_BH_VA
   dvPHx_SA

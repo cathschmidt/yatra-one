@@ -15,13 +15,15 @@
       <point x="424" y="619" type="move" name="abvm.e"/>
     </contour>
     <contour>
-      <point x="349" y="468" type="line"/>
-      <point x="349" y="523" type="line"/>
-      <point x="-8" y="523" type="line"/>
       <point x="-8" y="619" type="line"/>
       <point x="610" y="619" type="line"/>
       <point x="610" y="523" type="line"/>
-      <point x="460" y="523" type="line"/>
+      <point x="-8" y="523" type="line"/>
+    </contour>
+    <contour>
+      <point x="349" y="468" type="line"/>
+      <point x="349" y="546" type="line"/>
+      <point x="460" y="546" type="line"/>
       <point x="460" y="381" type="line"/>
       <point x="266" y="381" type="line" smooth="yes"/>
       <point x="161" y="381"/>

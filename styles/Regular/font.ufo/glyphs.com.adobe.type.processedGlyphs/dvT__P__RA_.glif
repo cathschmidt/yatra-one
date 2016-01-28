@@ -3,20 +3,20 @@
   <advance width="967" />
   <outline>
     <contour>
-      <point type="line" x="545" y="523" />
-      <point type="line" x="777" y="523" />
       <point type="line" x="777" y="292" />
       <point x="727" y="207" />
       <point x="602" y="149" />
       <point type="curve" x="547" y="208" />
+      <point type="line" x="545" y="523" />
+      <point type="line" x="777" y="523" />
     </contour>
     <contour>
       <point type="line" x="978" y="619" />
       <point type="line" x="-34" y="619" />
       <point type="line" x="-34" y="523" />
-      <point type="line" x="422" y="523" />
-      <point x="422" y="500" />
-      <point x="422" y="453" />
+      <point type="line" x="423" y="523" />
+      <point x="423" y="499" />
+      <point x="422" y="452" />
       <point type="curve" x="422" y="404" />
       <point type="line" x="200" y="405" />
       <point x="87" y="406" />
@@ -33,8 +33,8 @@
       <point x="149" y="313" />
       <point type="curve" x="271" y="310" />
       <point type="line" x="423" y="307" />
-      <point x="424" y="274" />
-      <point x="425" y="251" />
+      <point x="424" y="275" />
+      <point x="426" y="251" />
       <point type="curve" x="428" y="248" />
       <point x="478" y="195" />
       <point x="543" y="118" />

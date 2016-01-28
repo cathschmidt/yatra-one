@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dvV" format="1">
-  <advance width="392"/>
+  <advance width="382"/>
   <outline>
     <contour>
       <point x="422" y="314" type="line"/>
@@ -10,7 +10,9 @@
       <point x="179" y="171"/>
       <point x="305" y="120"/>
       <point x="418" y="306" type="curve"/>
-      <point x="443" y="214" type="line"/>
+      <point x="418" y="306"/>
+      <point x="443" y="214"/>
+      <point x="443" y="214" type="curve"/>
       <point x="443" y="214"/>
       <point x="375" y="72"/>
       <point x="273" y="71" type="curve"/>
@@ -26,8 +28,8 @@
     </contour>
     <contour>
       <point x="-7" y="619" type="line"/>
-      <point x="439" y="619" type="line"/>
-      <point x="439" y="523" type="line"/>
+      <point x="479" y="619" type="line"/>
+      <point x="479" y="523" type="line"/>
       <point x="-7" y="523" type="line"/>
     </contour>
   </outline>

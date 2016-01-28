@@ -14,7 +14,7 @@
     <contour>
       <point x="591" y="621" type="move" name="abvm.e"/>
     </contour>
-    <component base="dvCHA"/>
+    <component base="dvCHA" xOffset="538"/>
     <component base="dvRashtrasign" xOffset="617"/>
   </outline>
 </glyph>

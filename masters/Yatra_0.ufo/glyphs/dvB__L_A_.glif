@@ -4,14 +4,15 @@
   <outline>
     <contour>
       <point x="414" y="314" type="line"/>
-      <point x="345" y="374"/>
-      <point x="271" y="367"/>
-      <point x="216" y="336" type="curve"/>
-      <point x="338" y="218" type="line"/>
-      <point x="362" y="239"/>
-      <point x="386" y="267"/>
+      <point x="264" y="445"/>
+      <point x="90" y="258"/>
+      <point x="144" y="201" type="curve" smooth="yes"/>
+      <point x="171" y="171"/>
+      <point x="297" y="120"/>
       <point x="410" y="306" type="curve"/>
-      <point x="435" y="214" type="line"/>
+      <point x="410" y="306"/>
+      <point x="435" y="214"/>
+      <point x="435" y="214" type="curve"/>
       <point x="435" y="214"/>
       <point x="367" y="72"/>
       <point x="265" y="71" type="curve"/>
@@ -26,19 +27,16 @@
       <point x="438" y="355" type="curve"/>
     </contour>
     <contour>
+      <point x="160" y="340" type="line"/>
+      <point x="184" y="368" type="line"/>
+      <point x="382" y="176" type="line"/>
+      <point x="358" y="149" type="line"/>
+    </contour>
+    <contour>
       <point x="-15" y="619" type="line"/>
       <point x="587" y="619" type="line"/>
       <point x="587" y="523" type="line"/>
       <point x="-15" y="523" type="line"/>
-    </contour>
-    <contour>
-      <point x="144" y="201" type="curve" smooth="yes"/>
-      <point x="163" y="180"/>
-      <point x="231" y="148"/>
-      <point x="309" y="196" type="curve"/>
-      <point x="185" y="315" type="line"/>
-      <point x="141" y="277"/>
-      <point x="120" y="226"/>
     </contour>
     <component base="dvLA" xOffset="325"/>
   </outline>

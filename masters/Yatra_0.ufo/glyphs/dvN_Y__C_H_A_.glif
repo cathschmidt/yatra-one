@@ -15,6 +15,6 @@
       <point x="983" y="619" type="move" name="abvm.e"/>
     </contour>
     <component base="dvNY" xOffset="6"/>
-    <component base="dvCHA" xOffset="401"/>
+    <component base="dvCHA" xOffset="939"/>
   </outline>
 </glyph>

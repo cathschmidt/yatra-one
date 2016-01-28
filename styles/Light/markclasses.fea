@@ -1,13 +1,11 @@
-# Created: Tue Jan 26 14:43:04 2016
+# Created: Tue Jan 26 18:07:48 2016
 # PS Name: SomeDevanagari-Light
 # MM Inst: None
 # exported from noApp
 
-@mGC_abvm.bindu_n82_662 = [dvmEcandra dvCandrabindu];
-
-markClass @mGC_abvm.bindu_n82_662 <anchor -82 662> @MC_abvm.bindu;
 markClass dvAnusvara <anchor -97 625> @MC_abvm.bindu;
 markClass dvAnusvara.amI <anchor -100 619> @MC_abvm.i;
+markClass dvCandrabindu <anchor -206 619> @MC_abvm.bindu;
 markClass dvReph <anchor -101 615> @MC_abvm.e;
 markClass dvReph.amI <anchor -69 615> @MC_abvm.i;
 markClass dvReph_Anusvara <anchor -103 615> @MC_abvm.e;
@@ -21,6 +19,7 @@ markClass dvmE <anchor -166 616> @MC_abvm.e;
 markClass dvmE_Anusvara <anchor -145 616> @MC_abvm.e;
 markClass dvmE_Reph <anchor -68 615> @MC_abvm.e;
 markClass dvmE_Reph_Anusvara <anchor -138 616> @MC_abvm.e;
+markClass dvmEcandra <anchor -82 662> @MC_abvm.bindu;
 markClass dvmU <anchor -126 0> @MC_blwm.u;
 markClass dvmUU <anchor -163 16> @MC_blwm.u;
 markClass dvmvR <anchor -218 -10> @MC_blwm.virama;

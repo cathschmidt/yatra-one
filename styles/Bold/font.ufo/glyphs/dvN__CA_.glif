@@ -4,9 +4,13 @@
   <outline>
     <contour>
       <point x="575" y="304" type="line"/>
-      <point x="328" y="307" type="line"/>
-      <point x="430" y="165"/>
-      <point x="259" y="69"/>
+      <point x="253" y="308" type="line" smooth="yes"/>
+      <point x="-11" y="311"/>
+      <point x="277" y="41"/>
+      <point x="271" y="312" type="curve"/>
+      <point x="323" y="314" type="line"/>
+      <point x="435" y="168"/>
+      <point x="260" y="69"/>
       <point x="214" y="107" type="curve" smooth="yes"/>
       <point x="166" y="148"/>
       <point x="130" y="176"/>
@@ -23,12 +27,6 @@
       <point x="575" y="619" type="line"/>
       <point x="575" y="523" type="line"/>
       <point x="-27" y="523" type="line"/>
-    </contour>
-    <contour>
-      <point x="271" y="308" type="curve"/>
-      <point x="253" y="308" type="line" smooth="yes"/>
-      <point x="-9" y="311"/>
-      <point x="274" y="44"/>
     </contour>
     <component base="dvCA" xOffset="289"/>
   </outline>

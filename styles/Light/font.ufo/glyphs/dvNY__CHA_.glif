@@ -14,7 +14,7 @@
     <contour>
       <point x="778" y="-10" type="move" name="blwm.u"/>
     </contour>
-    <component base="dvCHA" xOffset="401"/>
+    <component base="dvCHA" xOffset="939"/>
     <component base="dvNY" xOffset="6"/>
   </outline>
 </glyph>
