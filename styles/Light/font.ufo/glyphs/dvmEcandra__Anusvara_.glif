@@ -2,6 +2,6 @@
 <glyph name="dvmEcandra_Anusvara" format="1">
   <advance width="0"/>
   <outline>
-    <component base="dvAnusvara" xOffset="43" yOffset="78"/>
+    <component base="dvAnusvara" xOffset="171" yOffset="78"/>
   </outline>
 </glyph>

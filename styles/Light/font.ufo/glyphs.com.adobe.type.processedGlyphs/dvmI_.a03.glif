@@ -21,12 +21,9 @@
       <point type="line" x="197" y="523" />
       <point type="line" x="274" y="523" />
       <point type="line" x="274" y="619" />
-      <point type="line" x="171" y="619" />
-      <point x="155" y="636" />
-      <point x="136" y="661" />
-      <point type="curve" x="136" y="697" />
-      <point x="136" y="786" />
-      <point x="332" y="791" />
+      <point type="line" x="179" y="619" />
+      <point x="95" y="796" />
+      <point x="244" y="796" />
       <point type="curve" x="735" y="601" />
     </contour>
   </outline>

@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph format="1" name="dvmI.a10">
-  <advance width="270" />
+  <advance width="272" />
   <outline>
     <contour>
       <point type="line" x="-3" y="619" />
@@ -11,18 +11,15 @@
       <point type="line" x="197" y="523" />
       <point type="line" x="274" y="523" />
       <point type="line" x="274" y="619" />
-      <point type="line" x="181" y="619" />
-      <point x="164" y="635" />
-      <point x="145" y="657" />
-      <point type="curve" x="146" y="679" />
-      <point x="151" y="836" />
-      <point x="651" y="731" />
-      <point type="curve" x="1029" y="601" />
+      <point type="line" x="186" y="619" />
+      <point x="35" y="873" />
+      <point x="663" y="708" />
+      <point type="curve" x="1009" y="601" />
       <point type="line" x="1093" y="600" />
       <point x="1037" y="625" />
-      <point x="357" y="860" />
-      <point type="curve" x="270" y="860" />
-      <point x="232" y="860" />
+      <point x="457" y="860" />
+      <point type="curve" x="370" y="860" />
+      <point x="332" y="860" />
       <point x="43" y="807" />
       <point type="curve" x="27" y="764" />
       <point x="14" y="727" />

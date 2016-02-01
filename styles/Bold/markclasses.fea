@@ -1,9 +1,9 @@
-# Created: Thu Jan 28 20:22:06 2016
+# Created: Mon Feb  1 09:40:14 2016
 # PS Name: SomeDevanagari-Bold
 # MM Inst: None
 # exported from noApp
 
-markClass dvAnusvara <anchor -97 625> @MC_abvm.bindu;
+markClass dvAnusvara <anchor -170 619> @MC_abvm.bindu;
 markClass dvAnusvara.amI <anchor -100 619> @MC_abvm.i;
 markClass dvCandrabindu <anchor -206 619> @MC_abvm.bindu;
 markClass dvReph <anchor -101 615> @MC_abvm.e;

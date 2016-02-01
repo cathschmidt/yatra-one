@@ -5,11 +5,11 @@
     <contour>
       <point type="line" x="1047" y="403" />
       <point type="line" x="797" y="405" />
-      <point x="764" y="405" />
-      <point x="735" y="391" />
-      <point type="curve" x="711" y="370" />
-      <point x="673" y="393" />
-      <point x="611" y="436" />
+      <point x="761" y="405" />
+      <point x="730" y="388" />
+      <point type="curve" x="704" y="364" />
+      <point x="654" y="403" />
+      <point x="599" y="444" />
       <point type="curve" x="578" y="459" />
       <point x="538" y="486" />
       <point x="422" y="424" />
@@ -20,15 +20,15 @@
       <point type="line" x="1047" y="523" />
     </contour>
     <contour>
-      <point type="curve" x="624" y="207" />
-      <point x="539" y="143" />
+      <point type="curve" x="624" y="211" />
+      <point x="537" y="143" />
       <point x="462" y="177" />
       <point type="curve" x="441" y="200" />
       <point x="392" y="253" />
-      <point x="538" y="419" />
-      <point type="curve" x="680" y="336" />
-      <point x="646" y="291" />
-      <point x="626" y="236" />
+      <point x="533" y="414" />
+      <point type="curve" x="676" y="332" />
+      <point x="646" y="290" />
+      <point x="628" y="240" />
     </contour>
     <contour>
       <point type="curve" x="395" y="17" />
@@ -64,9 +64,9 @@
       <point x="40" y="164" />
       <point x="148" y="-57" />
       <point type="curve" x="406" y="-57" />
-      <point x="520" y="-57" />
-      <point x="614" y="19" />
-      <point type="curve" x="673" y="112" />
+      <point x="511" y="-57" />
+      <point x="613" y="21" />
+      <point type="curve" x="673" y="111" />
       <point x="719" y="59" />
       <point x="788" y="-2" />
       <point type="curve" x="850" y="-56" />

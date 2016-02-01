@@ -7,6 +7,6 @@
     </contour>
     <component base="dvmE_Reph" xOffset="-64"/>
     <component base="dvReph.amI" xOffset="-64"/>
-    <component base="dvAnusvara" xScale="0.771000027657" yScale="0.771000027657" xOffset="-27" yOffset="131"/>
+    <component base="dvAnusvara" xScale="0.771000027657" yScale="0.771000027657" xOffset="101" yOffset="131"/>
   </outline>
 </glyph>

@@ -7,6 +7,6 @@
       <point x="91" y="7" type="move" name="cedilla"/>
     </contour>
     <component base="t" xOffset="13"/>
-    <component base="quoteright" xOffset="217" yOffset="-26"/>
+    <component base="quoteright" xOffset="147" yOffset="-26"/>
   </outline>
 </glyph>

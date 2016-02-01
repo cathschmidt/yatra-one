@@ -11,20 +11,20 @@
       <point type="line" x="197" y="523" />
       <point type="line" x="274" y="523" />
       <point type="line" x="274" y="619" />
-      <point type="line" x="185" y="619" />
-      <point x="5" y="887" />
-      <point x="704" y="734" />
-      <point type="curve" x="1089" y="601" />
+      <point type="line" x="192" y="619" />
+      <point x="147" y="841" />
+      <point x="687" y="751" />
+      <point type="curve" x="1049" y="601" />
       <point type="line" x="1153" y="600" />
       <point x="1097" y="625" />
-      <point x="387" y="860" />
-      <point type="curve" x="300" y="860" />
-      <point x="262" y="860" />
-      <point x="43" y="807" />
-      <point type="curve" x="27" y="764" />
-      <point x="14" y="727" />
-      <point x="32" y="660" />
-      <point type="curve" x="66" y="619" />
+      <point x="497" y="860" />
+      <point type="curve" x="410" y="860" />
+      <point x="372" y="860" />
+      <point x="75" y="806" />
+      <point type="curve" x="59" y="763" />
+      <point x="45" y="724" />
+      <point x="58" y="676" />
+      <point type="curve" x="75" y="619" />
     </contour>
   </outline>
 </glyph>

@@ -5,6 +5,6 @@
     <contour>
       <point x="-100" y="619" type="move" name="_abvm.i"/>
     </contour>
-    <component base="dvAnusvara" yOffset="-4"/>
+    <component base="dvAnusvara" xOffset="128" yOffset="-4"/>
   </outline>
 </glyph>

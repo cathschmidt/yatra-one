@@ -6,6 +6,6 @@
       <point x="-103" y="615" type="move" name="_abvm.e"/>
     </contour>
     <component base="dvReph"/>
-    <component base="dvAnusvara" xScale="0.771000027657" yScale="0.771000027657" xOffset="-51" yOffset="140"/>
+    <component base="dvAnusvara" xScale="0.771000027657" yScale="0.771000027657" xOffset="77" yOffset="140"/>
   </outline>
 </glyph>

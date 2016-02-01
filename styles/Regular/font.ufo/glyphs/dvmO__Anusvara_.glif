@@ -4,6 +4,6 @@
   <outline>
     <component base="dvmE" xOffset="284"/>
     <component base="dvmAA"/>
-    <component base="dvAnusvara" xOffset="240"/>
+    <component base="dvAnusvara" xOffset="368"/>
   </outline>
 </glyph>

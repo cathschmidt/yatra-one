@@ -2,7 +2,7 @@
 <glyph name="dvmII_Anusvara.aLong" format="1">
   <advance width="252"/>
   <outline>
-    <component base="dvAnusvara" xOffset="187"/>
+    <component base="dvAnusvara" xOffset="315"/>
     <component base="dvmII.aLong"/>
   </outline>
 </glyph>

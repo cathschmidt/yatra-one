@@ -68,7 +68,7 @@
       <point x="553" y="261"/>
       <point x="466" y="322" type="curve"/>
     </contour>
-    <component base="dvAnusvara" xOffset="655" yOffset="-62"/>
+    <component base="dvAnusvara" xOffset="783" yOffset="-62"/>
     <component base="dvmEcandra" xOffset="691" yOffset="-164"/>
   </outline>
 </glyph>

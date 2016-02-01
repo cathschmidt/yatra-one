@@ -2,7 +2,7 @@
 <glyph name="dvmII_Reph_Anusvara.aLong" format="1">
   <advance width="252"/>
   <outline>
-    <component base="dvAnusvara" xScale="0.709999978542" yScale="0.712000012398" xOffset="201" yOffset="175"/>
+    <component base="dvAnusvara" xScale="0.709999978542" yScale="0.712000012398" xOffset="329" yOffset="175"/>
     <component base="dvReph.amI" xOffset="171"/>
     <component base="dvmII.aLong"/>
   </outline>

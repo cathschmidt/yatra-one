@@ -1,4 +1,4 @@
-# Created: Thu Jan 28 20:21:15 2016
+# Created: Mon Feb  1 09:39:24 2016
 # PS Name: SomeDevanagari-Medium
 # MM Inst: None
 # exported from noApp
@@ -34,9 +34,9 @@ lookup MARK_BASE_abvm.bindu {
 	pos base @bGC_dvP_TTHA_abvm.bindu <anchor 762 619> mark @MC_abvm.bindu;
 	pos base @bGC_dvSH_KA_abvm.bindu <anchor 930 619> mark @MC_abvm.bindu;
 	pos base @bGC_dvTT_VA_abvm.bindu <anchor 399 619> mark @MC_abvm.bindu;
-	pos base dvA <anchor 695 619> mark @MC_abvm.bindu;
+	pos base dvA <anchor 702 662> mark @MC_abvm.bindu;
 	pos base dvA.init <anchor 695 618> mark @MC_abvm.bindu;
-	pos base dvAA <anchor 943 619> mark @MC_abvm.bindu;
+	pos base dvAA <anchor 935 658> mark @MC_abvm.bindu;
 	pos base dvAI <anchor 442 625> mark @MC_abvm.bindu;
 	pos base dvAU <anchor 1012 667> mark @MC_abvm.bindu;
 	pos base dvAU.init <anchor 980 625> mark @MC_abvm.bindu;
@@ -146,7 +146,7 @@ lookup MARK_BASE_abvm.bindu {
 	pos base dvRA_mU <anchor 286 618> mark @MC_abvm.bindu;
 	pos base dvRA_mUU <anchor 283 619> mark @MC_abvm.bindu;
 	pos base dvRxA <anchor 287 620> mark @MC_abvm.bindu;
-	pos base dvSHA_mvR <anchor 520 620> mark @MC_abvm.bindu;
+	pos base dvSHA_mvR <anchor 555 620> mark @MC_abvm.bindu;
 	pos base dvSH_CHA <anchor 985 619> mark @MC_abvm.bindu;
 	pos base dvSH_KxA <anchor 913 618> mark @MC_abvm.bindu;
 	pos base dvSH_TTA <anchor 885 619> mark @MC_abvm.bindu;
@@ -170,7 +170,7 @@ lookup MARK_BASE_abvm.bindu {
 	pos base dvT_KA <anchor 788 619> mark @MC_abvm.bindu;
 	pos base dvT_K_RA <anchor 809 619> mark @MC_abvm.bindu;
 	pos base dvT_PHA <anchor 839 619> mark @MC_abvm.bindu;
-	pos base dvU <anchor 324 625> mark @MC_abvm.bindu;
+	pos base dvU <anchor 275 619> mark @MC_abvm.bindu;
 	pos base dvUU <anchor 433 617> mark @MC_abvm.bindu;
 	pos base dvV_HA <anchor 684 619> mark @MC_abvm.bindu;
 	pos base dvvL <anchor 575 621> mark @MC_abvm.bindu;
@@ -309,7 +309,7 @@ lookup MARK_BASE_abvm.e {
 	pos base dvRA_mU <anchor 271 620> mark @MC_abvm.e;
 	pos base dvRA_mUU <anchor 271 619> mark @MC_abvm.e;
 	pos base dvRxA <anchor 297 619> mark @MC_abvm.e;
-	pos base dvSHA_mvR <anchor 502 619> mark @MC_abvm.e;
+	pos base dvSHA_mvR <anchor 537 619> mark @MC_abvm.e;
 	pos base dvSH_CHA <anchor 966 619> mark @MC_abvm.e;
 	pos base dvSH_KA <anchor 921 619> mark @MC_abvm.e;
 	pos base dvSH_KxA <anchor 894 620> mark @MC_abvm.e;
@@ -344,26 +344,26 @@ lookup MARK_BASE_abvm.e {
 
 
 lookup MARK_BASE_abvm.i {
-	pos base dvmI.a01 <anchor 650 587> mark @MC_abvm.i;
-	pos base dvmI.a02 <anchor 712 587> mark @MC_abvm.i;
-	pos base dvmI.a03 <anchor 798 587> mark @MC_abvm.i;
-	pos base dvmI.a04 <anchor 823 587> mark @MC_abvm.i;
-	pos base dvmI.a05 <anchor 880 587> mark @MC_abvm.i;
-	pos base dvmI.a06 <anchor 940 587> mark @MC_abvm.i;
-	pos base dvmI.a07 <anchor 979 587> mark @MC_abvm.i;
-	pos base dvmI.a08 <anchor 1014 587> mark @MC_abvm.i;
-	pos base dvmI.a09 <anchor 1021 587> mark @MC_abvm.i;
-	pos base dvmI.a10 <anchor 1074 587> mark @MC_abvm.i;
-	pos base dvmI.a11 <anchor 1136 587> mark @MC_abvm.i;
-	pos base dvmI.a12 <anchor 1200 587> mark @MC_abvm.i;
-	pos base dvmI.a13 <anchor 1215 587> mark @MC_abvm.i;
-	pos base dvmI.a14 <anchor 1262 587> mark @MC_abvm.i;
-	pos base dvmI.a15 <anchor 1323 587> mark @MC_abvm.i;
+	pos base dvmI.a01 <anchor 614 587> mark @MC_abvm.i;
+	pos base dvmI.a02 <anchor 666 589> mark @MC_abvm.i;
+	pos base dvmI.a03 <anchor 756 587> mark @MC_abvm.i;
+	pos base dvmI.a04 <anchor 795 587> mark @MC_abvm.i;
+	pos base dvmI.a05 <anchor 862 587> mark @MC_abvm.i;
+	pos base dvmI.a06 <anchor 921 587> mark @MC_abvm.i;
+	pos base dvmI.a07 <anchor 946 589> mark @MC_abvm.i;
+	pos base dvmI.a08 <anchor 988 587> mark @MC_abvm.i;
+	pos base dvmI.a09 <anchor 988 592> mark @MC_abvm.i;
+	pos base dvmI.a10 <anchor 1047 587> mark @MC_abvm.i;
+	pos base dvmI.a11 <anchor 1087 592> mark @MC_abvm.i;
+	pos base dvmI.a12 <anchor 1146 592> mark @MC_abvm.i;
+	pos base dvmI.a13 <anchor 1183 585> mark @MC_abvm.i;
+	pos base dvmI.a14 <anchor 1230 587> mark @MC_abvm.i;
+	pos base dvmI.a15 <anchor 1280 587> mark @MC_abvm.i;
 	pos base dvmI.a16 <anchor 1358 587> mark @MC_abvm.i;
 	pos base dvmI.a17 <anchor 1399 587> mark @MC_abvm.i;
 	pos base dvmI.a18 <anchor 1437 587> mark @MC_abvm.i;
 	pos base dvmI.a19 <anchor 1472 587> mark @MC_abvm.i;
-	pos base dvmI.a20 <anchor 1508 587> mark @MC_abvm.i;
+	pos base dvmI.a20 <anchor 1479 587> mark @MC_abvm.i;
 	pos base dvmI.a21 <anchor 1551 587> mark @MC_abvm.i;
 	pos base dvmI.a22 <anchor 1585 587> mark @MC_abvm.i;
 	pos base dvmI.a23 <anchor 1628 587> mark @MC_abvm.i;

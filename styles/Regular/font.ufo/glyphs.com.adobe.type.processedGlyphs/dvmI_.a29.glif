@@ -11,20 +11,23 @@
       <point type="line" x="197" y="523" />
       <point type="line" x="274" y="523" />
       <point type="line" x="274" y="619" />
-      <point type="line" x="195" y="619" />
-      <point x="183" y="904" />
-      <point x="1187" y="764" />
+      <point type="line" x="191" y="619" />
+      <point x="158" y="773" />
+      <point x="862" y="779" />
+      <point type="curve" x="1021" y="776" />
+      <point x="1183" y="773" />
+      <point x="1374" y="729" />
       <point type="curve" x="1799" y="601" />
-      <point type="line" x="1863" y="600" />
-      <point x="1385" y="770" />
-      <point x="517" y="880" />
-      <point type="curve" x="430" y="880" />
-      <point x="392" y="880" />
-      <point x="131" y="789" />
-      <point type="curve" x="102" y="754" />
-      <point x="85" y="733" />
-      <point x="63" y="677" />
-      <point type="curve" x="76" y="619" />
+      <point type="line" x="1903" y="600" />
+      <point x="1847" y="625" />
+      <point x="1133" y="858" />
+      <point type="curve" x="1061" y="870" />
+      <point x="1024" y="876" />
+      <point x="107" y="810" />
+      <point type="curve" x="91" y="767" />
+      <point x="77" y="728" />
+      <point x="71" y="676" />
+      <point type="curve" x="78" y="619" />
     </contour>
   </outline>
 </glyph>
