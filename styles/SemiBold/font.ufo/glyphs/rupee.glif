@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="rupee" format="1">
-  <advance width="1147"/>
-  <unicode hex="20A8"/>
-  <outline>
-    <component base="s" xOffset="595"/>
-    <component base="R" xOffset="-29"/>
-  </outline>
-</glyph>

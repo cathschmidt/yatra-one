@@ -15,20 +15,20 @@
       <point x="394" y="619" type="move" name="abvm.e"/>
     </contour>
     <contour>
+      <point x="196" y="-17" type="line"/>
+      <point x="211" y="17" type="line"/>
+      <point x="463" y="-65" type="line"/>
+      <point x="476" y="-40"/>
+      <point x="488" y="-14"/>
+      <point x="499" y="14" type="curve"/>
       <point x="540" y="-20" type="line"/>
       <point x="515" y="-70"/>
       <point x="495" y="-127"/>
       <point x="457" y="-244" type="curve"/>
       <point x="373" y="-232" type="line"/>
-      <point x="422" y="-141"/>
-      <point x="464" y="-75"/>
-      <point x="499" y="14" type="curve"/>
-    </contour>
-    <contour>
-      <point x="196" y="-17" type="line"/>
-      <point x="211" y="17" type="line"/>
-      <point x="473" y="-68" type="line"/>
-      <point x="459" y="-101" type="line"/>
+      <point x="400" y="-182"/>
+      <point x="424" y="-140"/>
+      <point x="447" y="-97" type="curve"/>
     </contour>
     <component base="dvD_VA"/>
   </outline>

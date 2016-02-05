@@ -3,18 +3,6 @@
   <advance width="1264"/>
   <outline>
     <contour>
-      <point x="-9" y="619" type="line"/>
-      <point x="718" y="619" type="line"/>
-      <point x="718" y="523" type="line"/>
-      <point x="-9" y="523" type="line"/>
-    </contour>
-    <contour>
-      <point x="53" y="402" type="line"/>
-      <point x="371" y="402" type="line"/>
-      <point x="469" y="319" type="line"/>
-      <point x="149" y="319" type="line"/>
-    </contour>
-    <contour>
       <point x="469" y="319" type="line"/>
       <point x="158" y="212"/>
       <point x="446" y="2"/>
@@ -26,9 +14,18 @@
       <point x="303" y="138"/>
       <point x="279" y="159"/>
       <point x="226" y="220" type="curve" smooth="yes"/>
-      <point x="170" y="284"/>
-      <point x="306" y="401"/>
-      <point x="379" y="395" type="curve"/>
+      <point x="201" y="248"/>
+      <point x="214" y="285"/>
+      <point x="241" y="319" type="curve"/>
+      <point x="149" y="319" type="line"/>
+      <point x="53" y="402" type="line"/>
+      <point x="371" y="402" type="line"/>
+    </contour>
+    <contour>
+      <point x="-9" y="619" type="line"/>
+      <point x="718" y="619" type="line"/>
+      <point x="718" y="523" type="line"/>
+      <point x="-9" y="523" type="line"/>
     </contour>
     <component base="dvCA" xOffset="498"/>
   </outline>

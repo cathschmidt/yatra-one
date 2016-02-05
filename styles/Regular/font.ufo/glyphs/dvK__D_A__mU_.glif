@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvK_DA_mU" format="1">
+  <advance width="1306"/>
+  <outline>
+    <contour>
+      <point x="1083" y="618" type="move" name="abvm.bindu"/>
+    </contour>
+    <contour>
+      <point x="1069" y="619" type="move" name="abvm.e"/>
+    </contour>
+    <component base="dvK"/>
+    <component base="dvDA_mU" xOffset="685"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>5</integer>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

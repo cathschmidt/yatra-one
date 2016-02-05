@@ -8,18 +8,9 @@
       <point x="398" y="216"/>
       <point x="352" y="135" type="curve"/>
       <point x="275" y="200" type="line"/>
-      <point x="297" y="259"/>
-      <point x="449" y="411"/>
-      <point x="571" y="371" type="curve"/>
-    </contour>
-    <contour>
-      <point x="-10" y="619" type="line"/>
-      <point x="586" y="619" type="line"/>
-      <point x="586" y="523" type="line"/>
-      <point x="-10" y="523" type="line"/>
-    </contour>
-    <contour>
-      <point x="322" y="266" type="line"/>
+      <point x="281" y="217"/>
+      <point x="298" y="241"/>
+      <point x="321" y="266" type="curve"/>
       <point x="250" y="316"/>
       <point x="194" y="319"/>
       <point x="159" y="285" type="curve" smooth="yes"/>
@@ -36,6 +27,16 @@
       <point x="249" y="401"/>
       <point x="314" y="336"/>
       <point x="350" y="298" type="curve"/>
+      <point x="329" y="274" type="line"/>
+      <point x="389" y="335"/>
+      <point x="487" y="398"/>
+      <point x="571" y="371" type="curve"/>
+    </contour>
+    <contour>
+      <point x="-10" y="619" type="line"/>
+      <point x="586" y="619" type="line"/>
+      <point x="586" y="523" type="line"/>
+      <point x="-10" y="523" type="line"/>
     </contour>
     <component base="dvTA" xOffset="469"/>
   </outline>

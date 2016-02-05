@@ -6,11 +6,101 @@
 	<integer>1080</integer>
 	<key>capHeight</key>
 	<integer>619</integer>
+	<key>copyright</key>
+	<string>OFL</string>
 	<key>descender</key>
 	<integer>-435</integer>
 	<key>familyName</key>
-	<string>Some Devanagari</string>
+	<string>Yatra</string>
 	<key>italicAngle</key>
+	<real>0.0</real>
+	<key>macintoshFONDFamilyID</key>
+	<integer>128</integer>
+	<key>macintoshFONDName</key>
+	<string>Yatra</string>
+	<key>openTypeHeadLowestRecPPEM</key>
+	<integer>9</integer>
+	<key>openTypeHheaAscender</key>
+	<integer>750</integer>
+	<key>openTypeHheaDescender</key>
+	<integer>-250</integer>
+	<key>openTypeHheaLineGap</key>
+	<integer>9</integer>
+	<key>openTypeNameDesigner</key>
+	<string>Catherine Leigh Schmidt</string>
+	<key>openTypeNameDesignerURL</key>
+	<string>http://cath.land</string>
+	<key>openTypeNameManufacturer</key>
+	<string>Catherine Leigh Schmidt</string>
+	<key>openTypeNamePreferredFamilyName</key>
+	<string>Yatra</string>
+	<key>openTypeNamePreferredSubfamilyName</key>
+	<string>50</string>
+	<key>openTypeOS2CodePageRanges</key>
+	<array>
+		<integer>0</integer>
+		<integer>58</integer>
+	</array>
+	<key>openTypeOS2FamilyClass</key>
+	<array>
+		<integer>0</integer>
+		<integer>0</integer>
+	</array>
+	<key>openTypeOS2Panose</key>
+	<array>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+	</array>
+	<key>openTypeOS2StrikeoutPosition</key>
+	<integer>250</integer>
+	<key>openTypeOS2StrikeoutSize</key>
+	<integer>50</integer>
+	<key>openTypeOS2SubscriptXOffset</key>
+	<integer>0</integer>
+	<key>openTypeOS2SubscriptXSize</key>
+	<integer>700</integer>
+	<key>openTypeOS2SubscriptYOffset</key>
+	<integer>140</integer>
+	<key>openTypeOS2SubscriptYSize</key>
+	<integer>650</integer>
+	<key>openTypeOS2SuperscriptXOffset</key>
+	<integer>0</integer>
+	<key>openTypeOS2SuperscriptXSize</key>
+	<integer>700</integer>
+	<key>openTypeOS2SuperscriptYOffset</key>
+	<integer>477</integer>
+	<key>openTypeOS2SuperscriptYSize</key>
+	<integer>650</integer>
+	<key>openTypeOS2Type</key>
+	<array>
+		<integer>2</integer>
+	</array>
+	<key>openTypeOS2TypoAscender</key>
+	<integer>750</integer>
+	<key>openTypeOS2TypoDescender</key>
+	<integer>-250</integer>
+	<key>openTypeOS2TypoLineGap</key>
+	<integer>0</integer>
+	<key>openTypeOS2UnicodeRanges</key>
+	<array>
+	</array>
+	<key>openTypeOS2VendorID</key>
+	<string>ITFO</string>
+	<key>openTypeOS2WeightClass</key>
+	<integer>400</integer>
+	<key>openTypeOS2WidthClass</key>
+	<integer>5</integer>
+	<key>openTypeOS2WinAscent</key>
+	<integer>0</integer>
+	<key>openTypeOS2WinDescent</key>
 	<integer>0</integer>
 	<key>postscriptBlueFuzz</key>
 	<integer>1</integer>
@@ -21,6 +111,8 @@
 	<key>postscriptBlueValues</key>
 	<array>
 	</array>
+	<key>postscriptDefaultWidthX</key>
+	<integer>500</integer>
 	<key>postscriptFamilyBlues</key>
 	<array>
 	</array>
@@ -28,16 +120,18 @@
 	<array>
 	</array>
 	<key>postscriptFontName</key>
-	<string>SomeDevanagari-Regular</string>
+	<string>Yatra</string>
 	<key>postscriptForceBold</key>
 	<false/>
 	<key>postscriptFullName</key>
-	<string>Some Devanagari</string>
+	<string>Yatra</string>
 	<key>postscriptIsFixedPitch</key>
 	<false/>
 	<key>postscriptOtherBlues</key>
 	<array>
 	</array>
+	<key>postscriptSlantAngle</key>
+	<real>-0.0</real>
 	<key>postscriptStemSnapH</key>
 	<array>
 	</array>
@@ -48,10 +142,16 @@
 	<integer>-100</integer>
 	<key>postscriptUnderlineThickness</key>
 	<integer>50</integer>
-	<key>postscriptWeightName</key>
-	<string>Regular</string>
+	<key>postscriptUniqueID</key>
+	<integer>-1</integer>
+	<key>postscriptWindowsCharacterSet</key>
+	<integer>1</integer>
+	<key>styleMapFamilyName</key>
+	<string>Yatra</string>
+	<key>styleMapStyleName</key>
+	<string>regular</string>
 	<key>styleName</key>
-	<string></string>
+	<string>Regular</string>
 	<key>unitsPerEm</key>
 	<integer>1000</integer>
 	<key>versionMajor</key>
@@ -60,5 +160,7 @@
 	<integer>0</integer>
 	<key>xHeight</key>
 	<integer>478</integer>
+	<key>year</key>
+	<integer>2016</integer>
 </dict>
 </plist>

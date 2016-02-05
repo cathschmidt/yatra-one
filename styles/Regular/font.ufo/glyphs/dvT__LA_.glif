@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="dvT_LA" format="1">
-  <advance width="1051"/>
-  <outline>
-    <component base="dvT" xOffset="30"/>
-    <component base="dvLA" xOffset="325"/>
-  </outline>
-</glyph>

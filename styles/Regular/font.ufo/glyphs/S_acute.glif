@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Sacute" format="1">
+  <advance width="756"/>
+  <unicode hex="015A"/>
+  <outline>
+    <contour>
+      <point x="191" y="0" type="move" name="cedilla"/>
+    </contour>
+    <contour>
+      <point x="400" y="743" type="move" name="top"/>
+    </contour>
+    <component base="S" xOffset="15"/>
+    <component base="acute" xOffset="172" yOffset="160"/>
+  </outline>
+</glyph>

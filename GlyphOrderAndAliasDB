@@ -9,6 +9,9 @@ space space uni0020
 
 # Vowel letters
 
+# new !
+dvA.short dvA.short uni0904
+
 dvA dvA uni0905
 dvAA dvAA uni0906
 dvI dvI uni0907
@@ -39,6 +42,10 @@ dvmvRR dvmvRR uni0944
 dvmvL dvmvL uni0962
 dvmvLL dvmvLL uni0963
 dvmE dvmE uni0947
+
+# new !
+dvmE.short dvmE.short uni0946
+
 dvmAI dvmAI uni0948
 dvmO dvmO uni094B
 dvmAU dvmAU uni094C
@@ -84,6 +91,12 @@ dvLLA dvLLA uni0933
 
 dvK_SSA dvK_SSA
 dvJ_NYA dvJ_NYA
+
+# Marathi Consonants
+
+dvSHA.marathi dvSHA.marathi
+dvLA.marathi dvLA.marathi
+
 
 # Consonant letters: nukta
 
@@ -1130,5 +1143,10 @@ notequal notequal uni2260 # NOT EQUAL TO
 lessequal lessequal uni2264 # LESS-THAN OR EQUAL TO
 greaterequal greaterequal uni2265 # GREATER-THAN OR EQUAL TO
 lozenge lozenge uni25CA # LOZENGE
+ff ff uniFB00 # ff ligature
 fi fi uniFB01 # LATIN SMALL LIGATURE FI
 fl fl uniFB02 # LATIN SMALL LIGATURE FL
+ffi ffi uniFB03 # ffi ligature
+ffl ffl uniFB04 # ffl ligature
+
+

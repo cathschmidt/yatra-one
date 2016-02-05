@@ -4,12 +4,12 @@
   <unicode hex="00FB"/>
   <outline>
     <contour>
-      <point x="287" y="507" type="move" name="top"/>
-    </contour>
-    <contour>
       <point x="283" y="7" type="move" name="ogonek"/>
     </contour>
-    <component base="circumflex" xOffset="123"/>
+    <contour>
+      <point x="287" y="507" type="move" name="top"/>
+    </contour>
     <component base="u" xOffset="15"/>
+    <component base="circumflex" xOffset="123"/>
   </outline>
 </glyph>

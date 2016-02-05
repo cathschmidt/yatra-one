@@ -17,8 +17,19 @@ include (../../family_extension.fea);
 # Localized Form
 # --------------
 
-# feature locl {
-# } locl;
+# attempt to add marathi
+
+ feature locl {
+  script dev2;
+  language MAR;
+    sub dvSHA by dvSHA.mar;
+    sub dvLA by dvLA.mar;
+
+  script deva;
+  language MAR;
+    sub dvSHA by dvSHA.mar;
+    sub dvLA by dvLA.mar;
+ } locl;
 
 
 # ----------
@@ -1001,4 +1012,7 @@ feature blwm {
 feature liga {
   sub f i by fi;
   sub f l by fl;
+  sub f f by ff; # I added these
+  sub f f i by ffi;
+  sub f f l by ffl;
 } liga;

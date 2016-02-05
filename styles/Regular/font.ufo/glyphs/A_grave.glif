@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Agrave" format="1">
+  <advance width="657"/>
+  <unicode hex="00C0"/>
+  <outline>
+    <contour>
+      <point x="397" y="8" type="move" name="ogonek"/>
+    </contour>
+    <contour>
+      <point x="332" y="743" type="move" name="top"/>
+    </contour>
+    <component base="A"/>
+    <component base="grave" xOffset="3" yOffset="161"/>
+  </outline>
+</glyph>

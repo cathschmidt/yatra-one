@@ -4,12 +4,12 @@
   <unicode hex="015B"/>
   <outline>
     <contour>
-      <point x="261" y="507" type="move" name="top"/>
-    </contour>
-    <contour>
       <point x="170" y="7" type="move" name="cedilla"/>
     </contour>
-    <component base="acute" xOffset="34"/>
+    <contour>
+      <point x="261" y="507" type="move" name="top"/>
+    </contour>
     <component base="s"/>
+    <component base="acute" xOffset="34"/>
   </outline>
 </glyph>

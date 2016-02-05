@@ -336,6 +336,8 @@
 	<string>dvA_.glif</string>
 	<key>dvA.init</key>
 	<string>dvA__init.glif</string>
+	<key>dvA.short</key>
+	<string>dvA__short.glif</string>
 	<key>dvAA</key>
 	<string>dvA_A_.glif</string>
 	<key>dvAA.init</key>
@@ -888,6 +890,8 @@
 	<string>dvL_.glif</string>
 	<key>dvLA</key>
 	<string>dvL_A_.glif</string>
+	<key>dvLA.mar</key>
+	<string>dvL_A__mar.glif</string>
 	<key>dvLL</key>
 	<string>dvL_L_.glif</string>
 	<key>dvLLA</key>
@@ -1264,6 +1268,8 @@
 	<string>dvS_H_.glif</string>
 	<key>dvSHA</key>
 	<string>dvS_H_A_.glif</string>
+	<key>dvSHA.mar</key>
+	<string>dvS_H_A__mar.glif</string>
 	<key>dvSHA_mvR</key>
 	<string>dvS_H_A__mvR_.glif</string>
 	<key>dvSH_CA</key>
@@ -1570,6 +1576,8 @@
 	<string>dvmA_U__R_eph_A_nusvara.glif</string>
 	<key>dvmE</key>
 	<string>dvmE_.glif</string>
+	<key>dvmE.short</key>
+	<string>dvmE__short.glif</string>
 	<key>dvmE_Anusvara</key>
 	<string>dvmE__A_nusvara.glif</string>
 	<key>dvmE_Reph</key>
@@ -1732,6 +1740,12 @@
 	<string>exclamdown.glif</string>
 	<key>f</key>
 	<string>f.glif</string>
+	<key>ff</key>
+	<string>ff.glif</string>
+	<key>ffi</key>
+	<string>ffi.glif</string>
+	<key>ffl</key>
+	<string>ffl.glif</string>
 	<key>fi</key>
 	<string>fi.glif</string>
 	<key>five</key>

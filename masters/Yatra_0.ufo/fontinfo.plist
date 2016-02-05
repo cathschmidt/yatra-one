@@ -6,6 +6,8 @@
 	<integer>1080</integer>
 	<key>capHeight</key>
 	<integer>619</integer>
+	<key>copyright</key>
+	<string>OFL</string>
 	<key>descender</key>
 	<integer>-435</integer>
 	<key>familyName</key>
@@ -25,15 +27,19 @@
 	<key>openTypeHheaLineGap</key>
 	<integer>9</integer>
 	<key>openTypeNameDesigner</key>
-	<string>Lipi Raval (Devanagari and Latin), Jonny Pinhorn (Latin)</string>
+	<string>Catherine Leigh Schmidt</string>
+	<key>openTypeNameDesignerURL</key>
+	<string>http://cath.land</string>
 	<key>openTypeNameManufacturer</key>
-	<string>Indian Type Foundry</string>
+	<string>Catherine Leigh Schmidt</string>
 	<key>openTypeNamePreferredFamilyName</key>
-	<string>Kalam</string>
+	<string>Yatra</string>
 	<key>openTypeNamePreferredSubfamilyName</key>
 	<string>50</string>
 	<key>openTypeOS2CodePageRanges</key>
 	<array>
+		<integer>0</integer>
+		<integer>58</integer>
 	</array>
 	<key>openTypeOS2FamilyClass</key>
 	<array>
@@ -155,6 +161,6 @@
 	<key>xHeight</key>
 	<integer>478</integer>
 	<key>year</key>
-	<integer>0</integer>
+	<integer>2016</integer>
 </dict>
 </plist>

@@ -14,10 +14,10 @@
 #  s = Light
 #  l = Yatra Light
 
-[SomeDevanagari-Regular]
-  f = SomeDevanagari
+[Yatra]
+  f = Yatra
   s = Regular
-  l = SomeDevanagari
+  l = Yatra Regular
 
 # [Yatra-Medium]
 #  f = Yatra

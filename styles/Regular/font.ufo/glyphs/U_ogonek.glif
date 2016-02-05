@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Uogonek" format="1">
+  <advance width="666"/>
+  <unicode hex="0172"/>
+  <outline>
+    <contour>
+      <point x="241" y="23" type="move" name="ogonek"/>
+    </contour>
+    <contour>
+      <point x="313" y="743" type="move" name="top"/>
+    </contour>
+    <component base="U" xOffset="-20"/>
+    <component base="ogonek" xOffset="177"/>
+  </outline>
+</glyph>

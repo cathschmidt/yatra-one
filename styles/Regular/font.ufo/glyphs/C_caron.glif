@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ccaron" format="1">
+  <advance width="718"/>
+  <unicode hex="010C"/>
+  <outline>
+    <contour>
+      <point x="208" y="8" type="move" name="cedilla"/>
+    </contour>
+    <contour>
+      <point x="438" y="743" type="move" name="top"/>
+    </contour>
+    <component base="C" xOffset="20"/>
+    <component base="caron" xOffset="264" yOffset="250"/>
+  </outline>
+</glyph>

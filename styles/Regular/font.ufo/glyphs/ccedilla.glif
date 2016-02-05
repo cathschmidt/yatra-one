@@ -4,10 +4,10 @@
   <unicode hex="00E7"/>
   <outline>
     <contour>
-      <point x="279" y="507" type="move" name="top"/>
+      <point x="164" y="7" type="move" name="cedilla"/>
     </contour>
     <contour>
-      <point x="164" y="7" type="move" name="cedilla"/>
+      <point x="279" y="507" type="move" name="top"/>
     </contour>
     <component base="c"/>
     <component base="cedilla" xOffset="97" yOffset="1"/>

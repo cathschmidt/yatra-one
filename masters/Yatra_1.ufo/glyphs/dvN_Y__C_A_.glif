@@ -3,30 +3,24 @@
   <advance width="1222"/>
   <outline>
     <contour>
-      <point x="441" y="235" type="line"/>
-      <point x="542" y="214"/>
-      <point x="605" y="225"/>
-      <point x="628" y="280" type="curve" smooth="yes"/>
-      <point x="629" y="281"/>
-      <point x="682" y="194"/>
-      <point x="683" y="193" type="curve"/>
-      <point x="593" y="111"/>
-      <point x="544" y="128"/>
-      <point x="455" y="218" type="curve"/>
-    </contour>
-    <contour>
-      <point x="-44" y="619" type="line"/>
-      <point x="675" y="619" type="line"/>
-      <point x="675" y="522" type="line"/>
-      <point x="-44" y="522" type="line"/>
-    </contour>
-    <contour>
       <point x="295" y="417" type="curve" smooth="yes"/>
       <point x="350" y="414"/>
       <point x="421" y="325"/>
       <point x="469" y="279" type="curve"/>
-      <point x="538" y="174"/>
-      <point x="466" y="90"/>
+      <point x="481" y="261"/>
+      <point x="489" y="243"/>
+      <point x="493" y="227" type="curve"/>
+      <point x="564" y="220"/>
+      <point x="609" y="235"/>
+      <point x="628" y="280" type="curve" smooth="yes"/>
+      <point x="629" y="281"/>
+      <point x="682" y="194"/>
+      <point x="683" y="193" type="curve"/>
+      <point x="607" y="124"/>
+      <point x="560" y="125"/>
+      <point x="494" y="181" type="curve"/>
+      <point x="483" y="125"/>
+      <point x="424" y="84"/>
       <point x="343" y="74" type="curve" smooth="yes"/>
       <point x="204" y="56"/>
       <point x="104" y="161"/>
@@ -42,6 +36,12 @@
       <point x="132" y="347" type="line"/>
       <point x="189" y="381"/>
       <point x="263" y="419"/>
+    </contour>
+    <contour>
+      <point x="-44" y="619" type="line"/>
+      <point x="675" y="619" type="line"/>
+      <point x="675" y="522" type="line"/>
+      <point x="-44" y="522" type="line"/>
     </contour>
     <component base="dvCA" xOffset="451"/>
   </outline>
