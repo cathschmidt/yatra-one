@@ -3,10 +3,10 @@
   <advance width="1131"/>
   <outline>
     <contour>
-      <point x="405" y="619" type="line"/>
-      <point x="692" y="619" type="line"/>
-      <point x="692" y="523" type="line"/>
       <point x="444" y="523" type="line"/>
+      <point x="692" y="523" type="line"/>
+      <point x="692" y="619" type="line"/>
+      <point x="405" y="619" type="line"/>
     </contour>
     <component base="dvSH" xOffset="16"/>
     <component base="dvYA" xOffset="472"/>

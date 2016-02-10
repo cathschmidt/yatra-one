@@ -18,11 +18,9 @@
       <point x="172" y="248" />
       <point type="curve" x="197" y="220" />
       <point x="239" y="172" />
-      <point x="262" y="149" />
-      <point type="curve" x="300" y="118" />
-      <point x="186" y="74" />
-      <point x="203" y="80" />
-      <point type="curve" x="196" y="75" />
+      <point x="263" y="148" />
+      <point type="curve" x="301" y="116" />
+      <point type="line" x="196" y="75" />
       <point x="147" y="31" />
       <point x="126" y="-53" />
       <point type="curve" x="194" y="-89" />

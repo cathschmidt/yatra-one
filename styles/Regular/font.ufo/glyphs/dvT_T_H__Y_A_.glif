@@ -3,37 +3,37 @@
   <advance width="1250"/>
   <outline>
     <contour>
-      <point x="573" y="619" type="line"/>
-      <point x="1263" y="619" type="line"/>
-      <point x="1263" y="523" type="line"/>
-      <point x="1187" y="523" type="line"/>
-      <point x="1187" y="-55" type="line"/>
       <point x="1063" y="1" type="line"/>
-      <point x="1063" y="167" type="line"/>
-      <point x="1026" y="124"/>
-      <point x="968" y="71"/>
-      <point x="902" y="71" type="curve" smooth="yes"/>
-      <point x="780" y="71"/>
-      <point x="580" y="273"/>
-      <point x="604" y="284" type="curve" smooth="yes"/>
-      <point x="655" y="309"/>
-      <point x="779" y="371"/>
-      <point x="741" y="385" type="curve" smooth="yes"/>
-      <point x="733" y="388"/>
-      <point x="571" y="381"/>
-      <point x="464" y="381" type="curve"/>
-      <point x="439" y="458" type="line"/>
-      <point x="628" y="463"/>
-      <point x="838" y="479"/>
-      <point x="870" y="417" type="curve" smooth="yes"/>
-      <point x="897" y="365"/>
-      <point x="776" y="262"/>
-      <point x="721" y="235" type="curve"/>
-      <point x="846" y="104"/>
-      <point x="997" y="210"/>
-      <point x="1063" y="340" type="curve"/>
-      <point x="1063" y="523" type="line"/>
+      <point x="1187" y="-55" type="line"/>
+      <point x="1187" y="523" type="line"/>
+      <point x="1263" y="523" type="line"/>
+      <point x="1263" y="619" type="line"/>
+      <point x="573" y="619" type="line"/>
       <point x="573" y="523" type="line"/>
+      <point x="1063" y="523" type="line"/>
+      <point x="1063" y="340" type="line"/>
+      <point x="997" y="210"/>
+      <point x="846" y="104"/>
+      <point x="721" y="235" type="curve"/>
+      <point x="776" y="262"/>
+      <point x="897" y="365"/>
+      <point x="870" y="417" type="curve" smooth="yes"/>
+      <point x="838" y="479"/>
+      <point x="628" y="463"/>
+      <point x="439" y="458" type="curve"/>
+      <point x="464" y="381" type="line"/>
+      <point x="571" y="381"/>
+      <point x="733" y="388"/>
+      <point x="741" y="385" type="curve" smooth="yes"/>
+      <point x="779" y="371"/>
+      <point x="655" y="309"/>
+      <point x="604" y="284" type="curve" smooth="yes"/>
+      <point x="580" y="273"/>
+      <point x="780" y="71"/>
+      <point x="902" y="71" type="curve" smooth="yes"/>
+      <point x="968" y="71"/>
+      <point x="1026" y="124"/>
+      <point x="1063" y="167" type="curve"/>
     </contour>
     <component base="dvTTHA"/>
   </outline>

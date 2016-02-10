@@ -7,10 +7,10 @@
       <point x="502" y="683" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="45" y="383" type="line"/>
-      <point x="428" y="383" type="line"/>
-      <point x="459" y="302" type="line"/>
       <point x="76" y="302" type="line"/>
+      <point x="459" y="302" type="line"/>
+      <point x="428" y="383" type="line"/>
+      <point x="45" y="383" type="line"/>
     </contour>
     <component base="D" xOffset="88"/>
   </outline>

@@ -1,8 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dvJ_J_VA" format="1">
-  <advance width="1153"/>
+  <advance width="1686"/>
   <outline>
-    <component base="dvVA" xOffset="564"/>
-    <component base="dvJ" xOffset="-5"/>
+    <contour>
+      <point x="342" y="305" type="line"/>
+      <point x="414" y="305" type="line"/>
+      <point x="468" y="225"/>
+      <point x="391" y="182"/>
+      <point x="353" y="171" type="curve" smooth="yes"/>
+      <point x="238" y="138"/>
+      <point x="117" y="301"/>
+      <point x="55" y="376" type="curve"/>
+      <point x="29" y="360" type="line"/>
+      <point x="115" y="233"/>
+      <point x="208" y="105"/>
+      <point x="260" y="69" type="curve" smooth="yes"/>
+      <point x="347" y="10"/>
+      <point x="582" y="112"/>
+      <point x="548" y="216" type="curve" smooth="yes"/>
+      <point x="542" y="233"/>
+      <point x="512" y="272"/>
+      <point x="475" y="305" type="curve"/>
+      <point x="648" y="305" type="line"/>
+      <point x="569" y="401" type="line"/>
+      <point x="233" y="401" type="line"/>
+    </contour>
+    <contour>
+      <point x="-12" y="523" type="line"/>
+      <point x="782" y="523" type="line"/>
+      <point x="782" y="619" type="line"/>
+      <point x="-12" y="619" type="line"/>
+    </contour>
+    <component base="dvVA" xOffset="1097"/>
+    <component base="dvJ" xOffset="528"/>
   </outline>
 </glyph>

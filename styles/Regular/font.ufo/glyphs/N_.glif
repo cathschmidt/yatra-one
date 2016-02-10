@@ -7,16 +7,16 @@
       <point x="406" y="743" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="210" y="-29" type="line"/>
-      <point x="70" y="0" type="line"/>
-      <point x="70" y="666" type="line"/>
-      <point x="208" y="626" type="line"/>
-      <point x="532" y="173" type="line"/>
-      <point x="532" y="666" type="line"/>
       <point x="672" y="626" type="line"/>
-      <point x="672" y="-29" type="line"/>
-      <point x="532" y="0" type="line"/>
+      <point x="532" y="666" type="line"/>
+      <point x="532" y="173" type="line"/>
+      <point x="208" y="626" type="line"/>
+      <point x="70" y="666" type="line"/>
+      <point x="70" y="0" type="line"/>
+      <point x="210" y="-29" type="line"/>
       <point x="208" y="458" type="line"/>
+      <point x="532" y="0" type="line"/>
+      <point x="672" y="-29" type="line"/>
     </contour>
   </outline>
 </glyph>

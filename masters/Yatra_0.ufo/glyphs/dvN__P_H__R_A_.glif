@@ -15,14 +15,14 @@
       <point x="912" y="619" type="move" name="abvm.e"/>
     </contour>
     <contour>
-      <point x="932" y="233" type="line"/>
-      <point x="901" y="183"/>
-      <point x="730" y="27"/>
-      <point x="628" y="-56" type="curve"/>
-      <point x="544" y="10" type="line"/>
-      <point x="643" y="76"/>
+      <point x="909" y="278" type="line"/>
       <point x="847" y="205"/>
-      <point x="909" y="278" type="curve"/>
+      <point x="643" y="76"/>
+      <point x="544" y="10" type="curve"/>
+      <point x="628" y="-56" type="line"/>
+      <point x="730" y="27"/>
+      <point x="901" y="183"/>
+      <point x="932" y="233" type="curve"/>
     </contour>
     <component base="dvN" xOffset="6"/>
     <component base="dvPHA" xOffset="426"/>

@@ -3,7 +3,7 @@
   <advance width="1049"/>
   <outline>
     <contour>
-      <point x="935" y="658" type="move" name="abvm.bindu"/>
+      <point x="938" y="619" type="move" name="abvm.bindu"/>
     </contour>
     <component base="dvAA.init"/>
   </outline>

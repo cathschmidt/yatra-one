@@ -3,25 +3,25 @@
   <advance width="1010"/>
   <outline>
     <contour>
-      <point x="437" y="163" type="line"/>
-      <point x="399" y="118"/>
-      <point x="349" y="71"/>
-      <point x="297" y="71" type="curve" smooth="yes"/>
-      <point x="221" y="71"/>
-      <point x="130" y="180"/>
-      <point x="66" y="248" type="curve" smooth="yes"/>
-      <point x="58" y="256"/>
-      <point x="60" y="464"/>
-      <point x="60" y="522" type="curve"/>
       <point x="-3" y="522" type="line"/>
-      <point x="-3" y="619" type="line"/>
-      <point x="616" y="619" type="line"/>
-      <point x="616" y="522" type="line"/>
-      <point x="183" y="522" type="line"/>
-      <point x="185" y="208" type="line"/>
-      <point x="227" y="163"/>
+      <point x="60" y="522" type="line"/>
+      <point x="60" y="464"/>
+      <point x="58" y="256"/>
+      <point x="66" y="248" type="curve" smooth="yes"/>
+      <point x="130" y="180"/>
+      <point x="221" y="71"/>
+      <point x="297" y="71" type="curve" smooth="yes"/>
+      <point x="349" y="71"/>
+      <point x="399" y="118"/>
+      <point x="437" y="163" type="curve"/>
+      <point x="379" y="228" type="line"/>
       <point x="320" y="177"/>
-      <point x="379" y="228" type="curve"/>
+      <point x="227" y="163"/>
+      <point x="185" y="208" type="curve"/>
+      <point x="183" y="522" type="line"/>
+      <point x="616" y="522" type="line"/>
+      <point x="616" y="619" type="line"/>
+      <point x="-3" y="619" type="line"/>
     </contour>
     <component base="dvMA" xOffset="329"/>
   </outline>

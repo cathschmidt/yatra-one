@@ -3,10 +3,10 @@
   <advance width="595"/>
   <outline>
     <contour>
-      <point x="419" y="74" type="line"/>
-      <point x="470" y="26" type="line"/>
-      <point x="241" y="-142" type="line"/>
       <point x="166" y="-67" type="line"/>
+      <point x="241" y="-142" type="line"/>
+      <point x="470" y="26" type="line"/>
+      <point x="419" y="74" type="line"/>
     </contour>
     <component base="dvVirama" xOffset="534" yOffset="-95"/>
     <component base="dvDA"/>

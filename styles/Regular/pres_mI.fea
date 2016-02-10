@@ -10,6 +10,7 @@
 @mI_BASES_01 = [
   dvNGA
   dvDDA
+  dvDA
   dvRA
   dvHA
   dvDDxA
@@ -17,6 +18,7 @@
   dvNG_RA
   dvDD_RA
   dvT_RA
+  dvH_RA
   dvTT_TTA
   dvTTH_TTHA
   dvDD_DDA
@@ -33,7 +35,6 @@
   dvTTHA
   dvDDHA
   dvTA
-  dvDA
   dvPA
   dvBA
   dvVA
@@ -47,15 +48,17 @@
   dvDDH_RA
   dvD_RA
   dvP_RA
+  dvPH_RA
   dvB_RA
   dvV_RA
   dvSS_RA
-  dvH_RA
+  dvK_NA
   dvTT_TTHA
   dvTT_VA
   dvTTH_VA
   dvDD_DDHA
   dvDDH_DDHA
+  dvDDH_VA
   dvT_NA
   dvD_GA
   dvD_G_RA
@@ -85,7 +88,6 @@
   dvTH_RA
   dvDH_RA
   dvN_RA
-  dvPH_RA
   dvBH_RA
   dvM_RA
   dvY_RA
@@ -94,10 +96,8 @@
   dvKx_RA
   dvGx_RA
   dvPHx_RA
-  dvK_NA
   dvG_NA
   dvGH_NA
-  dvDDH_VA
   dvTH_NA
   dvD_GHA
   dvD_DHA
@@ -333,7 +333,6 @@
 
 @mI_BASES_13 = [
   dvC_CH_VA
-  dvJ_J_VA
   dvJ_DDA
   dvJ_DA
   dvJ_BA
@@ -384,6 +383,8 @@
 
 @mI_BASES_15 = [
   dvK_KA
+  dvK_TTA
+  dvK_DA
   dvK_P_RA
   dvKx_BA
   dvK_VA
@@ -415,8 +416,6 @@
 
 @mI_BASES_16 = [
   dvKx_TA
-  dvK_DA
-  dvK_PHA
   dvK_MA
   dvKx_MA
   dvKH_MA
@@ -435,8 +434,8 @@
 
 @mI_BASES_17 = [
   dvKx_KxA
-  dvK_TTA
   dvK_PA
+  dvK_PHA
   dvKx_PHA
   dvKH_SHA
   dvPHx_PHxA
@@ -530,7 +529,9 @@
   dvN_S_YA
 ];
 
-# @mI_BASES_26 = [];
+@mI_BASES_26 = [
+  dvJ_J_VA
+];
 
 @mI_BASES_27 = [
   dvK_S_DDA
@@ -585,7 +586,7 @@
   sub dvmI' @mI_BASES_23 by dvmI.a23;
   sub dvmI' @mI_BASES_24 by dvmI.a24;
   sub dvmI' @mI_BASES_25 by dvmI.a25;
-# sub dvmI' @mI_BASES_26 by dvmI.a26;
+  sub dvmI' @mI_BASES_26 by dvmI.a26;
   sub dvmI' @mI_BASES_27 by dvmI.a27;
   sub dvmI' @mI_BASES_28 by dvmI.a28;
   sub dvmI' @mI_BASES_29 by dvmI.a29;

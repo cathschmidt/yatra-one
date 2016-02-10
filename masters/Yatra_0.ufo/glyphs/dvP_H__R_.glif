@@ -3,14 +3,14 @@
   <advance width="726"/>
   <outline>
     <contour>
-      <point x="506" y="233" type="line"/>
-      <point x="475" y="183"/>
-      <point x="304" y="27"/>
-      <point x="202" y="-56" type="curve"/>
-      <point x="118" y="10" type="line"/>
-      <point x="217" y="76"/>
+      <point x="483" y="278" type="line"/>
       <point x="421" y="205"/>
-      <point x="483" y="278" type="curve"/>
+      <point x="217" y="76"/>
+      <point x="118" y="10" type="curve"/>
+      <point x="202" y="-56" type="line"/>
+      <point x="304" y="27"/>
+      <point x="475" y="183"/>
+      <point x="506" y="233" type="curve"/>
     </contour>
     <component base="dvPH"/>
   </outline>

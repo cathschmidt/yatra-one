@@ -29,10 +29,7 @@
       <point x="227" y="478" type="line"/>
       <point x="227" y="558" type="line"/>
       <point x="114" y="586" type="line"/>
-      <point x="114" y="563" type="line"/>
-      <point x="108" y="508"/>
-      <point x="89" y="486"/>
-      <point x="62" y="478" type="curve"/>
+      <point x="114" y="478" type="line"/>
       <point x="32" y="478" type="line"/>
     </contour>
   </outline>

@@ -6,23 +6,23 @@
       <point x="464" y="0" type="move" name="blwm.virama"/>
     </contour>
     <contour>
-      <point x="520" y="662" type="move" name="abvm.bindu"/>
+      <point x="514" y="619" type="move" name="abvm.bindu"/>
     </contour>
     <contour>
       <point x="465" y="-10" type="move" name="blwm.u"/>
     </contour>
     <contour>
-      <point x="520" y="672" type="move" name="abvm.e"/>
+      <point x="516" y="619" type="move" name="abvm.e"/>
     </contour>
     <contour>
-      <point x="534" y="233" type="line"/>
-      <point x="503" y="183"/>
-      <point x="332" y="27"/>
-      <point x="230" y="-56" type="curve"/>
-      <point x="146" y="10" type="line"/>
-      <point x="245" y="76"/>
+      <point x="511" y="278" type="line"/>
       <point x="449" y="205"/>
-      <point x="511" y="278" type="curve"/>
+      <point x="245" y="76"/>
+      <point x="146" y="10" type="curve"/>
+      <point x="230" y="-56" type="line"/>
+      <point x="332" y="27"/>
+      <point x="503" y="183"/>
+      <point x="534" y="233" type="curve"/>
     </contour>
     <component base="dvNukta" xScale="0.824000000954" yScale="0.823000013828" xOffset="364" yOffset="213"/>
     <component base="dvPHA" xOffset="28"/>

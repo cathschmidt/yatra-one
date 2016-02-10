@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="dvEyelash_YA" format="1">
-  <advance width="932"/>
-  <outline>
-    <component base="dvYA" xOffset="255"/>
-    <component base="dvEyelash" xOffset="-3"/>
-  </outline>
-</glyph>

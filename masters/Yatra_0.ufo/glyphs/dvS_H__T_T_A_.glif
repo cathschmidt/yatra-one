@@ -15,10 +15,10 @@
       <point x="869" y="619" type="move" name="abvm.e"/>
     </contour>
     <contour>
-      <point x="379" y="619" type="line"/>
-      <point x="666" y="619" type="line"/>
-      <point x="666" y="523" type="line"/>
       <point x="418" y="523" type="line"/>
+      <point x="666" y="523" type="line"/>
+      <point x="666" y="619" type="line"/>
+      <point x="379" y="619" type="line"/>
     </contour>
     <component base="dvSH"/>
     <component base="dvTTA" xOffset="460"/>

@@ -3,34 +3,34 @@
   <advance width="1255"/>
   <outline>
     <contour>
-      <point x="448" y="325" type="curve"/>
-      <point x="447" y="325"/>
+      <point x="-5" y="523" type="line"/>
+      <point x="58" y="523" type="line"/>
+      <point x="58" y="467"/>
+      <point x="56" y="256"/>
+      <point x="64" y="248" type="curve" smooth="yes"/>
+      <point x="128" y="180"/>
+      <point x="209" y="85"/>
+      <point x="279" y="85" type="curve" smooth="yes"/>
+      <point x="407" y="85"/>
       <point x="530" y="237"/>
       <point x="530" y="237" type="curve"/>
       <point x="530" y="237"/>
-      <point x="407" y="85"/>
-      <point x="279" y="85" type="curve" smooth="yes"/>
-      <point x="209" y="85"/>
-      <point x="128" y="180"/>
-      <point x="64" y="248" type="curve" smooth="yes"/>
-      <point x="56" y="256"/>
-      <point x="58" y="467"/>
-      <point x="58" y="523" type="curve"/>
-      <point x="-5" y="523" type="line"/>
-      <point x="-5" y="619" type="line"/>
-      <point x="541" y="619" type="line"/>
-      <point x="541" y="523" type="line"/>
-      <point x="193" y="523" type="line"/>
-      <point x="435" y="296" type="line"/>
-      <point x="440" y="305"/>
+      <point x="447" y="325"/>
+      <point x="448" y="325" type="curve"/>
       <point x="445" y="315"/>
+      <point x="440" y="305"/>
+      <point x="435" y="296" type="curve"/>
+      <point x="193" y="523" type="line"/>
+      <point x="541" y="523" type="line"/>
+      <point x="541" y="619" type="line"/>
+      <point x="-5" y="619" type="line"/>
     </contour>
     <contour>
-      <point x="185" y="224" type="line"/>
-      <point x="232" y="173"/>
-      <point x="341" y="199"/>
-      <point x="404" y="259" type="curve"/>
+      <point x="185" y="224" type="curve"/>
       <point x="181" y="468" type="line"/>
+      <point x="404" y="259" type="line"/>
+      <point x="341" y="199"/>
+      <point x="232" y="173"/>
     </contour>
     <component base="dvK_RA" xOffset="407"/>
   </outline>
