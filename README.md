@@ -1,3 +1,19 @@
+![Yatra](/specimen/in-progress/yatra.png)
+
 # Yatra One
 
-Yatra is a Devanagari and Latin libre font inspired by hand-painted signage of the Mumbai local railways. It is built on top of the [ITF Base Devanagari (for Google Fonts)](https://github.com/itfoundry/base-devanagari-gf). 
+Yatra(यात्रा) is a Devanagari and Latin libre font inspired by the hand-painted signage of the Mumbai local railway. 
+
+![Mumbai Rail](/specimen/in-progress/sion.png)
+
+This heavy weight high-contrast display face preserves the idocyncratic character of brush-painted signage by featuring angular cuts and open knots. Notably, the Latin adopts a Devanagari brush angle.
+
+![Yatra brush angle](/specimen/in-progress/angle.png)
+
+A Mumbai native, Yatra offers basic Marathi alternates.
+
+It is built on top of the [ITF Base Devanagari (for Google Fonts)](https://github.com/itfoundry/base-devanagari-gf). 
+
+Please see tests and proofs in /proofs. A web-based specimen is coming shortly.
+
+

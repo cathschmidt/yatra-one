@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvmOcandra_Anusvara" format="1">
+  <advance width="269"/>
+  <outline>
+    <component base="dvmAA"/>
+    <component base="dvmEcandra" xOffset="194"/>
+    <component base="dvAnusvara" xOffset="38" yOffset="102"/>
+  </outline>
+</glyph>
