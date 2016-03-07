@@ -1,8 +1,7 @@
-<p align="center">
-	<img src="/specimen/in-progress/yatra.png">
-</p>
-
 # Yatra One
+<p align="center">
+	<img src="/specimen/in-progress/yatra.png" height="250" width="250">
+</p>
 
 Yatra(यात्रा) is a Devanagari and Latin libre font inspired by the hand-painted signage of the Mumbai local railway. 
 
