@@ -1,4 +1,4 @@
-<p align="center>
+<p align="center">
 	<img src="/specimen/in-progress/yatra.png">
 </p>
 
