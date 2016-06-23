@@ -9,27 +9,27 @@
 #   l = Compatible Family Menu Name
 #   m = 1, Macintosh Compatible Full Name
 
-# [Yatra-Light]
-#  f = Yatra
+# [YatraOne-Light]
+#  f = YatraOne
 #  s = Light
 #  l = Yatra Light
 
-[Yatra]
-  f = Yatra
+[YatraOne]
+  f = YatraOne
   s = Regular
-  l = Yatra Regular
+  l = YatraOne Regular
 
-# [Yatra-Medium]
-#  f = Yatra
+# [YatraOne-Medium]
+#  f = YatraOne
 #  s = Medium
 #  l = Yatra Medium
 
-# [Yatra-SemiBold]
-#  f = Yatra
+# [YatraOne-SemiBold]
+#  f = YatraOne
 #  s = SemiBold
 #  l = Yatra SemiBold
 
-# [Yatra-Bold]
+# [YatraOne-Bold]
 #  f = Yatra
 #  s = Bold
   # styles/Bold/fontinfo: IsBoldStyle true

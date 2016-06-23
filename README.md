@@ -7,7 +7,7 @@ Yatra is a Devanagari and Latin libre font inspired by the hand-painted signage 
 
 ![Mumbai Rail](/specimen/in-progress/sion.png)
 
-This heavy weight high-contrast display face preserves the idocyncratic character of brush-painted signage by featuring angular cuts and open knots. Notably, the Latin adopts a Devanagari brush angle.
+This heavy weight high-contrast display face preserves the idiosyncratic character of brush-painted signage by featuring angular cuts and open knots. Notably, the Latin adopts a Devanagari brush angle.
 
 ![Yatra brush angle](/specimen/in-progress/angle.png)
 

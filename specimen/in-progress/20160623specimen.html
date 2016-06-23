@@ -1,0 +1,487 @@
+<html>
+<head>
+	<meta charset="UTF-8">
+	<script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
+	<link href="https://fonts.googleapis.com/css?family=Work+Sans|Yatra+One" rel="stylesheet">
+	<title>Yatra</title>
+	<script>
+
+		$(document).ready(function(){ 
+					$(document).scroll(function() {
+					var scrollTop = $(document).scrollTop();
+					var project = $(".conjuncts").offset().top;
+
+					if (scrollTop < project) {
+				  		$(".conjuncts-container").css("overflow-y", "hidden");
+				  	} else {
+				  		$(".conjuncts-container").css("overflow-y", "scroll");
+				  	} 
+
+				}); 
+		});
+
+	</script>
+
+	<style>
+
+		* {
+			font-weight: normal;
+			margin: 0;
+			padding: 0;
+		}
+
+		body {
+			font-family: "Yatra One", cursive;
+			font-size: 2vw;
+			max-width: 100vw;
+			overflow-x: hidden;
+			background-color: wheat;
+		}
+
+		p {
+			font-family: "Work Sans", serif;
+			font-weight: 400;
+			font-size: 1rem;
+			line-height: 1.5em;
+		}
+
+		h1 {
+			text-align: center;
+			font-size: 10em;
+			line-height:.9em;
+		}
+		h2 {
+			text-align: center;
+			font-size: 1.5em;
+			line-height: 1em;
+		}
+		h3 {
+			font-size: 1em;
+			line-height: 1.3em;
+		}
+
+		h4 {
+			font-size: 5em;
+		}
+
+		h1.title {
+			position:fixed;
+			z-index: 1;
+			top: 5vw;
+			left: 18vw;
+			right: 18vw;
+		}
+
+		.shape {
+			border: .2em solid black;
+			text-align: center;
+			font-size: 3em;
+			line-height: .9em;
+			position: absolute;
+			background-color: wheat;
+			z-index: 100;
+			transition:all 1s;
+		} 
+
+		
+		.circle {
+			border-radius: 50%;
+			padding: 1.5em .8em;
+		}
+
+		.rect {
+			padding: .5em 1em;
+		}
+
+		.diamond {
+			display: block;
+			width: 4.5em;
+			height: 4.5em;
+			transform: rotate(45deg);
+		} .diamond h2 {
+			transform: rotate(-45deg);
+			text-align: center;
+			font-size: 1.2em;
+			line-height: .9em;
+			position: relative;
+			left: -.2em;
+			top: .65em;
+		}
+
+		.first {
+			top: 7em;
+			right: .8em;
+			border-width: .3em;
+		} .first:hover {
+			right:0;
+		}
+
+		.second {
+			top: 5em;
+			left:-1em;
+			background-color:black;
+			color:wheat;
+			transform: rotate(-20deg);
+
+		} .second:hover {
+			transform:rotate(-10deg);
+		}
+
+		.third {
+			right:.2em;
+			top:0;
+		} .third:hover {
+			top: -.3em;
+		}
+
+
+
+
+		section {
+			display: inline-block;
+			position: relative;
+			width: 100vw;
+			background-color: wheat;
+			z-index: 100;
+			font-size: 1.5em;
+		}
+
+		section.info {
+			display: block;
+			width: auto;
+			position: relative;
+			background:black;
+			color: wheat;
+			box-shadow: 10px 10px 10px black;
+			padding: 1em;
+			margin: 120vw 18vw 5vw;
+			z-index: 100;
+			font-size: 1.5em;
+			clear: both;
+		}
+
+		.col {
+			width: 35vw;
+			display: block;
+		} 
+		.left {
+			float: left;
+		} .right {
+			float: right;
+		} .center {
+			display: block;
+			margin: auto;
+		}
+
+		article {
+			display: block;
+			position: relative;
+			width: 80vw;
+			margin: auto;
+			clear: both;
+			padding-bottom: 7rem;
+			margin-top: 3rem;
+			margin-bottom: 2rem;
+		} article p {
+			position: absolute;
+			top: 35%;
+			height: 10em;
+			margin-top: -5em;
+			display: inline-block;
+			vertical-align: middle;
+			width: 25vw;
+			max-width:20rem;
+		} article img {
+			vertical-align: top;
+			width: 50vw;
+			height: auto;
+		}
+
+		article.info {
+			height: 30vw;
+			border-bottom: 2px solid black;
+
+		}
+
+		div.sign {
+			position: relative;	
+		} 
+
+		div.railway {
+			padding: 10rem;
+			background-color: black;
+			color: wheat;
+			top: 0;
+			left:0;
+		}
+
+		div.eyechart {
+			top: -10vw;
+			left: 45vw;
+			width: 13em;
+			height: 16em;
+			color: black;
+			border: .25em solid black;
+			background-color: wheat;
+			padding: 3vw;
+			text-align: center;
+			z-index: 100;
+			border-radius: 2rem;
+		} div.eyechart span {
+			padding: 1rem;
+			line-height: 1em;
+		} div.eyechart ul{
+			list-style-type: none;
+		} div.eyechart li {
+			padding-bottom: 1rem;
+		} div.eyechart li span:first-child {
+			padding-left:0;
+		}
+
+		div.food {
+			background-color: black;
+			color: wheat;
+			width: 30rem;
+			line-height: 1.5em;
+			top: -40vw;
+			left: 5vw;
+			padding:2rem;
+			box-shadow:.5rem .5rem .2rem rgba(0,0,0,.5);
+			transform: rotate(2deg);
+			transition: all 1s;
+			margin-bottom: -30vw;
+		}
+
+		article.charset {
+			padding: 6vw;
+			height: 35vw;
+			border:3px solid black;
+			border-radius: .3em;
+		} article.charset h2 {
+			text-align: left;
+			display: block;
+			position: relative;
+			padding-right: 5vw;
+			border-right: 1px solid black;
+		} article.charset h2:last-child {
+			padding-right: 0;
+			border-right: 0;
+		}
+
+		article.features {
+			padding-top: 5vw;
+		} article.features ul {
+			margin-top: 1em;
+			margin-left:10vw;
+			list-style-type: none;
+			font-size: 1.5em;
+			line-height: 1.5em;
+			list-style-position: outside;
+			marker-offset: 3em;
+		} article.features ul li:before {
+			content:"—";
+		} article.features h2 {
+			padding: .5em;
+			display: inline-block;
+			transform: rotate(-4deg);
+			text-align: left;
+			color: wheat;
+			background-color: black;
+		}
+
+		article.conjuncts {
+			height: 100vh;
+			width: 100vw;
+			margin: 0;
+			padding: 0;
+		} article.conjuncts h4{
+			text-align: center;
+			position: absolute;
+			width: 100vw;
+			top: 50%;
+			height: 2em;
+			margin-top: -1em;
+			line-height: 1.2em;
+			display: inline-block;
+			vertical-align: middle;
+			z-index: 0;
+		} div.conjuncts-container{
+			z-index: 101;
+			position: relative;
+			width: 100vw;
+			padding:0;
+			overflow-y:scroll;
+			overflow-x:hidden;
+			height:100vh;
+		} div.conjuncts-container::-webkit-scrollbar-track {
+			background-color: wheat;
+		} div.conjuncts-container::-webkit-scrollbar {
+			width: .2em;
+			background-color: wheat;
+		} 
+
+	</style>
+
+
+</head>
+<body>
+<body>
+<h1 class="title">यात्रा<br>Yatra</h1>
+<h2 class="shape first circle">वान्द्रे<br>Bandra</h2>
+<h2 class="shape second rect" lang="mr">शिव<br>Shiv</h2>
+<div class="shape third diamond">
+	<h2 lang="mr">पारेल<br>Parel</h2>
+</div>
+
+
+
+<section class="info">Yatra is a display font based on the hand-painted signage of the Mumbai Railways</section>
+
+<section>
+	<article class="info">
+		<p>Yatra mimics the high-contrast, modulated, chunky style of Mumbai rail sign painting. Like the rail signs, Yatra includes basic Marathi support. Yatra mimics the high-contrast, modulated, chunky style of Mumbai rail sign painting. Like the rail signs, Yatra includes basic Marathi support.</p>
+		<img src="sion.png" class="right">
+	</article>
+	<article class="info" style="border-bottom: 0">
+		<p>The Latin in Yatra shares a brush angle with its Devanagari. The typeface attempts to capture the liveliness and error that make painted signs endearing. The Latin in Yatra shares a brush angle with its Devanagari. The typeface attempts to capture the liveliness and error that make painted signs endearing.</p>
+		<img src="brush-02.png" class="right">
+	</article>
+
+	<div class="sign railway">
+		<h1>पश्चिम रेलव</h1>
+	</div> 
+
+	<div class="sign eyechart">
+		<ul>
+			<li style="font-size: 5em; line-height: 1em">
+				<span>ॐ</span><li>
+			<li style="font-size: 3em; line-height: 1em;">
+				<span>ऋ</span><span>g</span><span>द्ग</span><li>
+			<li style="font-size: 2em; line-height: 1.5em;">
+				<span>₹</span><span>क्ष</span><span>Q</span><span>७</span><span>&frac34;</span>
+			</li>
+			<li style="font-size: 1.5em; line-height: 1.5em;">
+				<span>ñ</span><span>ट्ट</span><span>४</span><span>$</span><span>&amp;</span><span>म</span><span>fi</span>
+			</li>
+		</ul>
+	</div>
+
+	<div class="sign food">
+		समोसा.................... ₹10</br>
+		PAV BHAJI.......... ₹25<br>
+		वडा पाव.................. ₹5<br>
+		BHEL PURI......... ₹30<br>
+		फालूदा.................... ₹50<br>
+		साबूदाना वडा.......... ₹45<br>
+	</div>
+
+</section>
+<section>
+	<article class="charset">
+		<h2 class="col left">आ​‌ ई​‌ ऊ​‌ ऋ​‌ ॠ​‌ ऌ​‌ ॡ​‌ ऐ​‌ औ​‌ अं​‌ अँ क ख ग घ ङ च छ ज झ ञ ट ठ ड ढ ण त थ द ध न प फ ब भ म य र ल ळ व श ष स ह १ २ ३ ४ ५ ६ ७ ८ ९ ०</h2>
+		<h2 class="col right">A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a b c d e f g h i j k l m n o p q r s t u v w x y z 1 2 3 4 5 6 7 8 9 0</h2>
+	</article>
+
+</section>
+
+<section>
+	<article class="features">
+		<h2>और अधिक सुविधाओं से तुमने सोचा!</h2>
+		<h2>more features than you thought!</h2>
+		<ul>
+			<li>the usual ligatures<br>fi, fl, ffi, ffl</li>
+			<li>Marathi alternates<br><span lang="mr">ल श</span></li>
+			<li>¿¿math??</li>
+		</ul>
+	</article>
+</section>
+
+<section style="padding:0; margin:0;">
+	<article class="conjuncts">
+		<h4>संयुक्ताक्षर 👀</h4>
+		<div class="conjuncts-container">
+			<h2 style="text-align:left">रु रू हु हू
+				क्ष ज्ञ
+				क्र ख्र ग्र घ्र ङ्र च्र छ्र ज्र झ्र ञ्र ट्र ठ्र ड्र ढ्र
+				ण्र त्र थ्र द्र ध्र न्र प्र फ्र ब्र भ्र म्र य्र व्र श्र
+				स्र ह्र क़्र ख़्र ग़्र ज़्र फ़्र
+				क्न ख्न ग्न घ्न च्न छ्न ज्न झ्न
+				   त्न थ्न द्न ध्न न्न प्न फ्न ब्न भ्न म्न य्न
+				   व्न श्न स्न ह्न
+				क्क क्ख क्ग क्घ क्च क्ज क्ट क्ण क्त क्थ क्द क्प क्फ क्म क्य क्र क्ल क्व क्श क्स
+				ख्ख ख्त ख्म ख्य ख्व ख्श
+				ग्ग ग्घ ग्ज ग्ण ग्द ग्ध ग्ब ग्भ ग्म ग्य ग्ल ग्व ग्स
+				घ्म घ्य
+				च्च च्छ च्म च्य
+				छ्य
+				ज्क ज्ज ज्झ ज्ट ज्ड ज्त ज्द ज्ब ज्म ज्य ज्व
+				झ्म झ्य
+				ञ्छ ञ्ज ञ्श
+				ट्ट ट्ठ ट्य ट्व 
+
+				ठ्ठ ठ्य
+
+				ड्ड ड्ढ ड्य ड्व 
+
+				ढ्ढ ढ्य
+
+				ण्ट ण्ठ ण्ड ण्ढ ण्ण ण्म ण्य ण्व 
+
+				त्क त्ख त्त त्थ त्प त्फ त्म त्य त्ल त्व त्स
+
+				थ्य थ्व
+
+				द्ग द्घ द्घ द्ब द्भ द्म द्य द्व
+
+				ध्म ध्य ध्व
+
+				न्क न्च न्छ न्ट न्ड न्त न्थ न्द न्ध न्प न्फ न्भ न्म न्य न्व
+				न्स न्ह
+
+				प्ट प्ठ प्त प्प प्फ प्म प्य प्ल प्व प्स
+
+				फ्ज फ्ट फ्त फ्प फ्फ फ्य फ्ल फ्श
+
+				ब्ज ब्झ ब्त ब्द ब्ध ब्ब ब्भ ब्य ब्ल ब्व ब्श ब्स
+
+				भ्य भ्ल भ्व
+
+				म्त म्द म्प म्ब म्भ म्म म्य म्ल म्व म्श म्स म्ह
+
+				य्य
+
+				ल्क ल्ख ल्ग ल्ज ल्ट ल्ठ ल्ड ल्ढ ल्त ल्थ ल्द ल्प ल्फ ल्ब ल्भ ल्य ल्ल ल्व ल्स ल्ह
+
+				ळ्य
+
+				व्य व्ल व्ह
+
+				श्क श्च श्छ श्ट श्त श्म श्य श्ल श्व श्श
+
+				ष्क ष्ट ष्ठ ष्ण ष्फ ष्म ष्य ष्व ष्ष
+
+				स्क स्ख स्ज स्ट स्त स्थ स्द स्प स्फ स्ब स्म स्य स्ल स्व स्स
+
+				ह्ण ह्म ह्य ह्ल ह्व
+
+				क्त्य क्त्र क्त्व क्प्र क्व्य क्स्ट क्स्ड क्स्त क्स्प्र क्स्प्ल ग्ध्य ग्ध्व ग्न्य ग्भ्य ग्र्य च्छ्व छ्र्य ज्ज्ञ ज्ज्य ज्ज्व त्क्य त्क्र त्क्व त्क्ष त्ख्र त्त्य त्त्व त्न्य त्प्र त्प्ल त्म्य त्र्य त्स्न त्स्य त्स्व द्ग्र द्ब्र ध्न्य न्क्स न्त्य न्त्स न्थ्य न्थ्व न्द्र न्द्व न्ध्य न्ध्र न्ध्व न्न्य न्प्र न्फ्र न्भ्य न्भ्व न्म्य न्स्ट न्स्म्य न्स्य प्त्य ब्ज्य ब्ध्व ब्भ्र ब्ल्य भ्र्य म्प्र म्ब्य म्ब्र म्भ्य म्भ्र म्भ्व ल्क्य ल्थ्त ल्द्र ल्ल्य ल्व्ड ष्क्र ष्ट्य ष्ट्र ष्ट्व ष्ठ्य ष्ठ्र ष्ण्य ष्प्र ष्म्य स्क्र स्क्व स्त्य स्त्र स्त्व स्थ्य स्प्र स्म्य 
+
+				क़्क़ क़्य क़्फ क़्फ़ क़्ब क़्म 
+				ख़्त ख़्म ख़्य ख़्व ख़्श ख़्स
+				ज़्ज़ ज़्य 
+				फ़्ज़ फ़्त फ़्फ़ फ़्स
+				ब्ज़ ल्ज़ श्ज़ 
+
+				क्ष्म क्ष्मय क्ष्य क्ष्व</h2>
+				</div>
+			</article>
+</section>
+
+<section>
+	<div class="railway">
+		<h1>ह्य</h1>
+	</div>
+</section>
+
+</body>
+<html>
