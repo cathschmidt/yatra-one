@@ -3,19 +3,47 @@
 	<meta charset="UTF-8">
 	<script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
 	<link href="https://fonts.googleapis.com/css?family=Work+Sans|Yatra+One" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Karla" rel="stylesheet">
 	<title>Yatra</title>
 	<script>
 
 		$(document).ready(function(){ 
 					$(document).scroll(function() {
-					var scrollTop = $(document).scrollTop();
-					var project = $(".conjuncts").offset().top;
 
-					if (scrollTop < project) {
+					var scrollTop = $(document).scrollTop();
+					var signs = 15;
+					var eyechart = $(".eyechart").offset().top;
+					var conjuncts = $(".conjuncts").offset().top+5;
+
+					if (scrollTop < signs) {
+				  		$(".first").css({right: ".8em"});
+				  		$(".third").css({top: "0px"});
+				  		$(".second").css({"transform": "rotate("+ -20 +"deg)"});
+				  	} else {
+				  		$(".first").css({right: "0px"});
+				  		$(".second").css({"transform": "rotate("+ -10+"deg)"});
+				  		$(".third").css({top: "-.3em"});
+				  	} 
+
+
+					if (scrollTop < eyechart) {
+				  		$(".eyechart").css({"transform": "rotate("+ 0 +"deg)"});
+				  	} else {
+				  		$(".eyechart").css({"transform": "rotate("+ -4+"deg)"});
+				  	} 
+				  	
+				  	
+					if (scrollTop < conjuncts) {
 				  		$(".conjuncts-container").css("overflow-y", "hidden");
 				  	} else {
 				  		$(".conjuncts-container").css("overflow-y", "scroll");
-				  	} 
+				  	}
+
+				  	/*if (scrollTop < conjuncts) {
+				  		$(".conjuncts-container").css("overflow-y", "hidden");
+				  	} else {
+				  		$(".conjuncts-container").css("overflow-y", "scroll");
+				  	} */
 
 				}); 
 		});
@@ -39,10 +67,12 @@
 		}
 
 		p {
-			font-family: "Work Sans", serif;
+			font-family: "Karla", serif;
 			font-weight: 400;
 			font-size: 1rem;
 			line-height: 1.5em;
+		} p a {
+			color: black;
 		}
 
 		h1 {
@@ -56,12 +86,29 @@
 			line-height: 1em;
 		}
 		h3 {
+			text-align:center;
 			font-size: 1em;
 			line-height: 1.3em;
 		}
 
 		h4 {
 			font-size: 5em;
+		}
+
+		h2 a, h3 a{
+			text-decoration: none;
+			padding: 1em;
+			border-radius: 5px;
+			display: inline-block;
+			color: wheat;
+			background-color: black;
+			margin: 30px;
+			transition: all .25s;
+			box-shadow: 5px 5px 0px rgba(0,0,0,.25);
+		} h2 a:hover, h3 a:hover {
+			cursor: pointer;
+			background-color: red;
+			transform: scale(1.25);
 		}
 
 		h1.title {
@@ -91,6 +138,7 @@
 
 		.rect {
 			padding: .5em 1em;
+			box-shadow: 5px 5px 0px rgba(0,0,0,.25);
 		}
 
 		.diamond {
@@ -112,7 +160,7 @@
 			top: 7em;
 			right: .8em;
 			border-width: .3em;
-		} .first:hover {
+		} .first .hover-first {
 			right:0;
 		}
 
@@ -123,14 +171,14 @@
 			color:wheat;
 			transform: rotate(-20deg);
 
-		} .second:hover {
+		} .second .hover-second {
 			transform:rotate(-10deg);
 		}
 
 		.third {
 			right:.2em;
 			top:0;
-		} .third:hover {
+		} .third .hover-third {
 			top: -.3em;
 		}
 
@@ -152,9 +200,9 @@
 			position: relative;
 			background:black;
 			color: wheat;
-			box-shadow: 10px 10px 10px black;
+			box-shadow: 5px 5px 0px rgba(0,0,0,.25);
 			padding: 1em;
-			margin: 120vw 18vw 5vw;
+			margin: 120vw 15vw 5vw;
 			z-index: 100;
 			font-size: 1.5em;
 			clear: both;
@@ -227,6 +275,7 @@
 			text-align: center;
 			z-index: 100;
 			border-radius: 2rem;
+			transition: all .5s;
 		} div.eyechart span {
 			padding: 1rem;
 			line-height: 1em;
@@ -236,6 +285,8 @@
 			padding-bottom: 1rem;
 		} div.eyechart li span:first-child {
 			padding-left:0;
+		} div.eyechart:hover{
+			transform: rotate(-4deg);
 		}
 
 		div.food {
@@ -246,7 +297,7 @@
 			top: -40vw;
 			left: 5vw;
 			padding:2rem;
-			box-shadow:.5rem .5rem .2rem rgba(0,0,0,.5);
+			box-shadow: 5px 5px 0px rgba(0,0,0,.25);
 			transform: rotate(2deg);
 			transition: all 1s;
 			margin-bottom: -30vw;
@@ -279,7 +330,7 @@
 			list-style-position: outside;
 			marker-offset: 3em;
 		} article.features ul li:before {
-			content:"—";
+			content:"— ";
 		} article.features h2 {
 			padding: .5em;
 			display: inline-block;
@@ -287,6 +338,12 @@
 			text-align: left;
 			color: wheat;
 			background-color: black;
+			box-shadow: 5px 5px 0px rgba(0,0,0,.25);
+			transition: all .5s;
+		} article.features h2:hover {
+			transform: rotate(4deg);
+		} article.features li:hover {
+			color: red;
 		}
 
 		article.conjuncts {
@@ -320,6 +377,29 @@
 			background-color: wheat;
 		} 
 
+		article.colophon {
+			text-align: center;
+		} article.colophon p{
+			position: relative;
+			height: auto;
+			width: 40vw;
+			margin-top: none;
+			display: inline-block;
+			vertical-align: auto;
+			max-width:24rem;
+		}
+
+		.last {
+		}
+
+		.last:hover {
+			background-image: url(tommoody-indian-pattern.gif);
+			background-repeat: repeat;
+
+		} .last:hover h1 {
+			color: red;
+		}
+
 	</style>
 
 
@@ -335,15 +415,15 @@
 
 
 
-<section class="info">Yatra is a display font based on the hand-painted signage of the Mumbai Railways</section>
+<section class="info">Yatra is a Devanagari and Latin display font based on the hand-painted signage of the Mumbai Railways</section>
 
 <section>
 	<article class="info">
-		<p>Yatra mimics the high-contrast, modulated, chunky style of Mumbai rail sign painting. Like the rail signs, Yatra includes basic Marathi support. Yatra mimics the high-contrast, modulated, chunky style of Mumbai rail sign painting. Like the rail signs, Yatra includes basic Marathi support.</p>
+		<p>Yatra mimics the high-contrast, modulated, chunky style of Mumbai rail sign painting. Like the rail signs, Yatra includes basic Marathi support. Yatra aims to illustrate how typography for civic contexts, rather than aiming for simplicity and universality, can instead retain local and historic qualities.</p>
 		<img src="sion.png" class="right">
 	</article>
 	<article class="info" style="border-bottom: 0">
-		<p>The Latin in Yatra shares a brush angle with its Devanagari. The typeface attempts to capture the liveliness and error that make painted signs endearing. The Latin in Yatra shares a brush angle with its Devanagari. The typeface attempts to capture the liveliness and error that make painted signs endearing.</p>
+		<p>The Latin in Yatra shares a brush angle with its Devanagari, which is part of why it looks so quirky. The Devanagari was designed first. The Latin characters mimic Devanagari forms in an extreme way without being too cheesy. The typeface attempts to capture the liveliness and error that make painted signs endearing.</p>
 		<img src="brush-02.png" class="right">
 	</article>
 
@@ -386,20 +466,21 @@
 
 <section>
 	<article class="features">
-		<h2>और अधिक सुविधाओं से तुमने सोचा!</h2>
+		<h2>और अधिक फीचर्स से तुमने सोचा!</h2>
 		<h2>more features than you thought!</h2>
 		<ul>
-			<li>the usual ligatures<br>fi, fl, ffi, ffl</li>
-			<li>Marathi alternates<br><span lang="mr">ल श</span></li>
-			<li>¿¿math??</li>
+			<li>cute ligatures fi, fl, ffi, ffl</li>
+			<li>Marathi alternates <span lang="mr">ल श</span></li>
+			<li>support for most European &amp; Central European languages</li>
+			<li>math stuff if you should ever need it ;)</li>
 		</ul>
 	</article>
 </section>
 
 <section style="padding:0; margin:0;">
 	<article class="conjuncts">
-		<h4>संयुक्ताक्षर 👀</h4>
-		<div class="conjuncts-container">
+		<h4 style="line-height:90%; z-index: 1; color:red;">संयुक्ताक्षर</h4>
+		<div class="conjuncts-container" style="z-index: 100">
 			<h2 style="text-align:left">रु रू हु हू
 				क्ष ज्ञ
 				क्र ख्र ग्र घ्र ङ्र च्र छ्र ज्र झ्र ञ्र ट्र ठ्र ड्र ढ्र
@@ -478,9 +559,21 @@
 </section>
 
 <section>
-	<div class="railway">
+	<div class="railway last">
 		<h1>ह्य</h1>
 	</div>
+</section>
+
+<section>
+	<article>
+	<h2><a href="http://fonts.google.com/specimen/Yatra+One">Download Yatra</br>from Google Fonts</a></h2>
+	<h3>for free ;)</h3>
+	<h3><a href="http://github.com/cathschmidt/yatra-one">contribute on GitHub!</a></h3>
+</article>
+<article class="colophon" style="text-align:center">
+	<p>Yatra was designed by <a href="http://cath.land">Catherine Leigh Schmidt</a>. It was funded in part by a Fulbright-Nehru Student Research grant and by Google Fonts. Please feel free to get in touch with thoughts, questions, or criticism by <a href="mailto:hi@cath.land">emailing me</a>.</p>
+	<p>Final GIF edit by <a href="http://tommoody.us">Tom Moody</a> using <a href=
+		"http://bibliodyssey.blogspot.com/2010/09/indian-textile-designs.html">these images of Indian textile patterns</a>.
 </section>
 
 </body>
